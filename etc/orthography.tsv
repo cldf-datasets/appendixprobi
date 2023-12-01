@@ -1,0 +1,79 @@
+Grapheme	IPA	Frequence	Codepoints
+crysta	k r y s t a
+^dys	d y s
+^equs	e kʷ u s
+^gyr	g y r
+^iug	j u g
+^myrt	m y r t
+^coqus	k o kʷ u s
+syrt	s y r t
+qu	kʷ		
+au	au		
+eu	e u		
+<_>	NULL
+amyc	a m y k
+cqu	kʷː
+ae	ai		
+a	a	328	U+0061
+u	u	309	U+0075
+i	i	290	U+0069
+s	s	267	U+0073
+e	e	230	U+0065
+r	r	198	U+0072
+c	k	179	U+0063
+l	l	178	U+006c
+o	o	155	U+006f
+t	t	141	U+0074
+m	m	137	U+006d
+p	p	89	U+0070
+n	n	89	U+006e
+b	b	66	U+0062
+v	v	58	U+0076
+d	d	47	U+0064
+g	g	40	U+0067
+f	f	32	U+0066
+_	+	21	U+005f
+>	NULL	19	U+003e
+<	NULL	17	U+003c
+x	k s	16	U+0078
+^aus	a u s
+qu	kʷ	15	U+0071
+ll	lː	14	U+006c U+006c
+ns	n s	14	U+006e U+0073
+y	j	12	U+0079
+z	z	8	U+007a
+ss	sː	8	U+0073 U+0073
+bs	b s	7	U+0062 U+0073
+nn	nː	5	U+006e U+006e
+ps	p s	5	U+0070 U+0073
+rs	r s	4	U+0072 U+0073
+F	f	4	U+0046
+S	s	4	U+0053
+A	a	4	U+0041
+h	h	4	U+0068
+ph	pʰ	3	U+0070 U+0068
+cc	kː	3	U+0063 U+0063
+<s	s	3	U+003c U+0073
+rr	rː	3	U+0072 U+0072
+M	m	2	U+004d
+H	h	2	U+0048
+B	b	2	U+0042
+tt	tː	2	U+0074 U+0074
+ch	kʰ	2	U+0063 U+0068
+ls	l s	2	U+006c U+0073
+th	tʰ	1	U+0074 U+0068
+Th	tʰ	1	U+0054 U+0068
+I	i	1	U+0049
+Capse[n]sis	k a p s e n s i s	1	U+0043 U+0061 U+0070 U+0073 U+0065 U+005b U+006e U+005d U+0073 U+0069 U+0073
+C	k	1	U+0043
+[catulus	k a t u l u s	1	U+005b U+0063 U+0061 U+0074 U+0075 U+006c U+0075 U+0073
+ca<te>llus]	k a t e lː u s	1	U+0063 U+0061 U+003c U+0074 U+0065 U+003e U+006c U+006c U+0075 U+0073 U+005d
+mm	mː	1	U+006d U+006d
+pp	pː	1	U+0070 U+0070
+ff	fː	1	U+0066 U+0066
+uu	uː	1	U+0075 U+0075
+dd	dː	1	U+0064 U+0064
+ra[u]cus	r au k u s	1	U+0072 U+0061 U+005b U+0075 U+005d U+0063 U+0075 U+0073
+>s	s	1	U+003e U+0073
+constab[i]litus	k o n s t a b i l i t u s	1	U+0063 U+006f U+006e U+0073 U+0074 U+0061 U+0062 U+005b U+0069 U+005d U+006c U+0069 U+0074 U+0075 U+0073
+dh	d h	1	U+0064 U+0068
