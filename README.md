@@ -24,14 +24,14 @@ Available online at http://www.germanic-lexicon-project.org/non_germanic/appendi
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 2
-- **Concepts:** 227
-- **Lexemes:** 454
+- **Concepts:** 224
+- **Lexemes:** 448
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 3,044
-- **Segments:** 40 (0 BIPA errors, 0 CLTS sound class errors, 40 CLTS modified)
-- **Inventory size (avg):** 36.50
+- **Tokens:** 3,030
+- **Segments:** 41 (0 BIPA errors, 0 CLTS sound class errors, 41 CLTS modified)
+- **Inventory size (avg):** 37.00
 
 ## CLDF Datasets
 

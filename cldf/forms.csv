@@ -1,455 +1,449 @@
-ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Phrase
-Latin-1_porphireticummarmor-1,,Latin,1_porphireticummarmor,porphireticum marmor,porphireticum_marmor,p o r pʰ i r e t i k u m + m a r m o r,,appendixprobi,1,,^ p o r ph i r e t i c u m _ m a r m o r $,default,porphireticum marmor non purpureticum marmur
-VulgarLatin-1_porphireticummarmor-1,,VulgarLatin,1_porphireticummarmor,purpureticum marmur,purpureticum_marmur,p u r p u r e t i k u m + m a r m u r,,appendixprobi,1,,^ p u r p u r e t i c u m _ m a r m u r $,default,porphireticum marmor non purpureticum marmur
-Latin-2_tolonium-1,,Latin,2_tolonium,tolonium,tolonium,t o l o n i u m,,appendixprobi,2,,^ t o l o n i u m $,default,tolonium non toloneum
-VulgarLatin-2_tolonium-1,,VulgarLatin,2_tolonium,toloneum,toloneum,t o l o n e u m,,appendixprobi,2,,^ t o l o n eu m $,default,tolonium non toloneum
-Latin-3_speculum-1,,Latin,3_speculum,speculum,speculum,s p e k u l u m,,appendixprobi,3,,^ s p e c u l u m $,default,speculum non speclum
-VulgarLatin-3_speculum-1,,VulgarLatin,3_speculum,speclum,speclum,s p e k l u m,,appendixprobi,3,,^ s p e c l u m $,default,speculum non speclum
-Latin-4_masculus-1,,Latin,4_masculus,masculus,masculus,m a s k u l u s,,appendixprobi,4,,^ m a s c u l u s $,default,masculus non masclus
-VulgarLatin-4_masculus-1,,VulgarLatin,4_masculus,masclus,masclus,m a s k l u s,,appendixprobi,4,,^ m a s c l u s $,default,masculus non masclus
-Latin-5_vetulus-1,,Latin,5_vetulus,vetulus,vetulus,v e t u l u s,,appendixprobi,5,,^ v e t u l u s $,default,vetulus non veclus
-VulgarLatin-5_vetulus-1,,VulgarLatin,5_vetulus,veclus,veclus,v e k l u s,,appendixprobi,5,,^ v e c l u s $,default,vetulus non veclus
-Latin-6_vitulus-1,,Latin,6_vitulus,vitulus,vitulus,v i t u l u s,,appendixprobi,6,,^ v i t u l u s $,default,vitulus non viclus
-VulgarLatin-6_vitulus-1,,VulgarLatin,6_vitulus,viclus,viclus,v i k l u s,,appendixprobi,6,,^ v i c l u s $,default,vitulus non viclus
-Latin-7_vernaculus-1,,Latin,7_vernaculus,vernaculus,vernaculus,v e r n a k u l u s,,appendixprobi,7,,^ v e r n a c u l u s $,default,vernaculus non vernaclus
-VulgarLatin-7_vernaculus-1,,VulgarLatin,7_vernaculus,vernaclus,vernaclus,v e r n a k l u s,,appendixprobi,7,,^ v e r n a c l u s $,default,vernaculus non vernaclus
-Latin-8_articulus-1,,Latin,8_articulus,articulus,articulus,a r t i k u l u s,,appendixprobi,8,,^ a r t i c u l u s $,default,articulus non articlus
-VulgarLatin-8_articulus-1,,VulgarLatin,8_articulus,articlus,articlus,a r t i k l u s,,appendixprobi,8,,^ a r t i c l u s $,default,articulus non articlus
-Latin-9_baculus-1,,Latin,9_baculus,baculus,baculus,b a k u l u s,,appendixprobi,9,,^ b a c u l u s $,default,baculus non vaclus
-VulgarLatin-9_baculus-1,,VulgarLatin,9_baculus,vaclus,vaclus,v a k l u s,,appendixprobi,9,,^ v a c l u s $,default,baculus non vaclus
-Latin-10_angulus-1,,Latin,10_angulus,angulus,angulus,a n g u l u s,,appendixprobi,10,,^ a n g u l u s $,default,angulus non anglus
-VulgarLatin-10_angulus-1,,VulgarLatin,10_angulus,anglus,anglus,a n g l u s,,appendixprobi,10,,^ a n g l u s $,default,angulus non anglus
-Latin-11_iugulus-1,,Latin,11_iugulus,iugulus,iugulus,i u g u l u s,,appendixprobi,11,,^ i u g u l u s $,default,iugulus non iuglus
-VulgarLatin-11_iugulus-1,,VulgarLatin,11_iugulus,iuglus,iuglus,i u g l u s,,appendixprobi,11,,^ i u g l u s $,default,iugulus non iuglus
-Latin-12_calcostegis-1,,Latin,12_calcostegis,calcostegis,calcostegis,k a l k o s t e g i s,,appendixprobi,12,,^ c a l c o s t e g i s $,default,calcostegis non calcosteis
-VulgarLatin-12_calcostegis-1,,VulgarLatin,12_calcostegis,calcosteis,calcosteis,k a l k o s t e i s,,appendixprobi,12,,^ c a l c o s t e i s $,default,calcostegis non calcosteis
-Latin-13_septizonium-1,,Latin,13_septizonium,septizonium,septizonium,s e p t i z o n i u m,,appendixprobi,13,,^ s e p t i z o n i u m $,default,septizonium non septidonium
-VulgarLatin-13_septizonium-1,,VulgarLatin,13_septizonium,septidonium,septidonium,s e p t i d o n i u m,,appendixprobi,13,,^ s e p t i d o n i u m $,default,septizonium non septidonium
-Latin-14_vacua-1,,Latin,14_vacua,vacua,vacua,v a k u a,,appendixprobi,14,,^ v a c u a $,default,vacua non vaqua
-VulgarLatin-14_vacua-1,,VulgarLatin,14_vacua,vaqua,vaqua,v a kʷ a,,appendixprobi,14,,^ v a qu a $,default,vacua non vaqua
-Latin-15_vacui-1,,Latin,15_vacui,vacui,vacui,v a k u i,,appendixprobi,15,,^ v a c u i $,default,vacui non vaqui
-VulgarLatin-15_vacui-1,,VulgarLatin,15_vacui,vaqui,vaqui,v a kʷ i,,appendixprobi,15,,^ v a qu i $,default,vacui non vaqui
-Latin-16_cultellum-1,,Latin,16_cultellum,cultellum,cultellum,k u l t e lː u m,,appendixprobi,16,,^ c u l t e ll u m $,default,cultellum non cuntellum
-VulgarLatin-16_cultellum-1,,VulgarLatin,16_cultellum,cuntellum,cuntellum,k u n t e lː u m,,appendixprobi,16,,^ c u n t e ll u m $,default,cultellum non cuntellum
-Latin-17_marsias-1,,Latin,17_marsias,Marsias,Marsias,m a r s i a s,,appendixprobi,17,,^ M a rs i a s $,default,Marsias non Marsuas
-VulgarLatin-17_marsias-1,,VulgarLatin,17_marsias,Marsuas,Marsuas,m a r s u a s,,appendixprobi,17,,^ M a rs u a s $,default,Marsias non Marsuas
-Latin-18_cannelam-1,,Latin,18_cannelam,cannelam,cannelam,k a nː e l a m,,appendixprobi,18,,^ c a nn e l a m $,default,cannelam non canianus
-VulgarLatin-18_cannelam-1,,VulgarLatin,18_cannelam,canianus,canianus,k a n i a n u s,,appendixprobi,18,,^ c a n i a n u s $,default,cannelam non canianus
-Latin-19_hercules-1,,Latin,19_hercules,Hercules,Hercules,h e r k u l e s,,appendixprobi,19,,^ H e r c u l e s $,default,Hercules non Herculens
-VulgarLatin-19_hercules-1,,VulgarLatin,19_hercules,Herculens,Herculens,h e r k u l e n s,,appendixprobi,19,,^ H e r c u l e ns $,default,Hercules non Herculens
-Latin-20_columna-1,,Latin,20_columna,columna,columna,k o l u m n a,,appendixprobi,20,,^ c o l u m n a $,default,columna non colomna
-VulgarLatin-20_columna-1,,VulgarLatin,20_columna,colomna,colomna,k o l o m n a,,appendixprobi,20,,^ c o l o m n a $,default,columna non colomna
-Latin-21_pecten-1,,Latin,21_pecten,pecten,pecten,p e k t e n,,appendixprobi,21,,^ p e c t e n $,default,pecten non pectinis
-VulgarLatin-21_pecten-1,,VulgarLatin,21_pecten,pectinis,pectinis,p e k t i n i s,,appendixprobi,21,,^ p e c t i n i s $,default,pecten non pectinis
-Latin-22_aquaeductus-1,,Latin,22_aquaeductus,aquaeductus,aquaeductus,a kʷ ai d u k t u s,,appendixprobi,22,,^ a qu ae d u c t u s $,default,aquaeductus non aquiductus
-VulgarLatin-22_aquaeductus-1,,VulgarLatin,22_aquaeductus,aquiductus,aquiductus,a kʷ i d u k t u s,,appendixprobi,22,,^ a qu i d u c t u s $,default,aquaeductus non aquiductus
-Latin-23_cithara-1,,Latin,23_cithara,cithara,cithara,k i tʰ a r a,,appendixprobi,23,,^ c i th a r a $,default,cithara non citera
-VulgarLatin-23_cithara-1,,VulgarLatin,23_cithara,citera,citera,k i t e r a,,appendixprobi,23,,^ c i t e r a $,default,cithara non citera
-Latin-24_crista-1,,Latin,24_crista,crista,crista,k r i s t a,,appendixprobi,24,,^ c r i s t a $,default,crista non crysta
-VulgarLatin-24_crista-1,,VulgarLatin,24_crista,crysta,crysta,k r j s t a,,appendixprobi,24,,^ c r y s t a $,default,crista non crysta
-Latin-25_formica-1,,Latin,25_formica,formica,formica,f o r m i k a,,appendixprobi,25,,^ f o r m i c a $,default,formica non furmica
-VulgarLatin-25_formica-1,,VulgarLatin,25_formica,furmica,furmica,f u r m i k a,,appendixprobi,25,,^ f u r m i c a $,default,formica non furmica
-Latin-26_musivum-1,,Latin,26_musivum,musivum,musivum,m u s i v u m,,appendixprobi,26,,^ m u s i v u m $,default,musivum non mus<e>um
-VulgarLatin-26_musivum-1,,VulgarLatin,26_musivum,mus<e>um,mus<e>um,m u s e u m,,appendixprobi,26,,^ m u s < e > u m $,default,musivum non mus<e>um
-Latin-27_exequiae-1,,Latin,27_exequiae,exequiae,exequiae,e x e kʷ i ai,,appendixprobi,27,,^ e x e qu i ae $,default,exequiae non execiae
-VulgarLatin-27_exequiae-1,,VulgarLatin,27_exequiae,execiae,execiae,e x e k i ai,,appendixprobi,27,,^ e x e c i ae $,default,exequiae non execiae
-Latin-28_gyrus-1,,Latin,28_gyrus,gyrus,gyrus,g j r u s,,appendixprobi,28,,^ g y r u s $,default,gyrus non girus
-VulgarLatin-28_gyrus-1,,VulgarLatin,28_gyrus,girus,girus,g i r u s,,appendixprobi,28,,^ g i r u s $,default,gyrus non girus
-Latin-29_avus-1,,Latin,29_avus,avus,avus,a v u s,,appendixprobi,29,,^ a v u s $,default,avus non aus
-VulgarLatin-29_avus-1,,VulgarLatin,29_avus,aus,aus,au s,,appendixprobi,29,,^ au s $,default,avus non aus
-Latin-30_miles-1,,Latin,30_miles,miles,miles,m i l e s,,appendixprobi,30,,^ m i l e s $,default,miles non milex
-VulgarLatin-30_miles-1,,VulgarLatin,30_miles,milex,milex,m i l e x,,appendixprobi,30,,^ m i l e x $,default,miles non milex
-Latin-31_sobrius-1,,Latin,31_sobrius,sobrius,sobrius,s o b r i u s,,appendixprobi,31,,^ s o b r i u s $,default,sobrius non suber
-VulgarLatin-31_sobrius-1,,VulgarLatin,31_sobrius,suber,suber,s u b e r,,appendixprobi,31,,^ s u b e r $,default,sobrius non suber
-Latin-32_figulus-1,,Latin,32_figulus,figulus,figulus,f i g u l u s,,appendixprobi,32,,^ f i g u l u s $,default,figulus non figel
-VulgarLatin-32_figulus-1,,VulgarLatin,32_figulus,figel,figel,f i g e l,,appendixprobi,32,,^ f i g e l $,default,figulus non figel
-Latin-33_masculus-1,,Latin,33_masculus,masculus,masculus,m a s k u l u s,,appendixprobi,33,,^ m a s c u l u s $,default,masculus non mascel
-VulgarLatin-33_masculus-1,,VulgarLatin,33_masculus,mascel,mascel,m a s k e l,,appendixprobi,33,,^ m a s c e l $,default,masculus non mascel
-Latin-34_lanius-1,,Latin,34_lanius,lanius,lanius,l a n i u s,,appendixprobi,34,,^ l a n i u s $,default,lanius non laneo
-VulgarLatin-34_lanius-1,,VulgarLatin,34_lanius,laneo,laneo,l a n e o,,appendixprobi,34,,^ l a n e o $,default,lanius non laneo
-Latin-35_iuvencus-1,,Latin,35_iuvencus,iuvencus,iuvencus,i u v e n k u s,,appendixprobi,35,,^ i u v e n c u s $,default,iuvencus non iuvenclus
-VulgarLatin-35_iuvencus-1,,VulgarLatin,35_iuvencus,iuvenclus,iuvenclus,i u v e n k l u s,,appendixprobi,35,,^ i u v e n c l u s $,default,iuvencus non iuvenclus
-Latin-36_barbarus-1,,Latin,36_barbarus,barbarus,barbarus,b a r b a r u s,,appendixprobi,36,,^ b a r b a r u s $,default,barbarus non barbar
-VulgarLatin-36_barbarus-1,,VulgarLatin,36_barbarus,barbar,barbar,b a r b a r,,appendixprobi,36,,^ b a r b a r $,default,barbarus non barbar
-Latin-37_equs-1,,Latin,37_equs,equs,equs,e kʷ s,,appendixprobi,37,,^ e qu s $,default,equs non ecus
-VulgarLatin-37_equs-1,,VulgarLatin,37_equs,ecus,ecus,e k u s,,appendixprobi,37,,^ e c u s $,default,equs non ecus
-Latin-38_coqus-1,,Latin,38_coqus,coqus,coqus,k o kʷ s,,appendixprobi,38,,^ c o qu s $,default,coqus non cocus
-VulgarLatin-38_coqus-1,,VulgarLatin,38_coqus,cocus,cocus,k o k u s,,appendixprobi,38,,^ c o c u s $,default,coqus non cocus
-Latin-39_coquens-1,,Latin,39_coquens,coquens,coquens,k o kʷ e n s,,appendixprobi,39,,^ c o qu e ns $,default,coquens non cocens
-VulgarLatin-39_coquens-1,,VulgarLatin,39_coquens,cocens,cocens,k o k e n s,,appendixprobi,39,,^ c o c e ns $,default,coquens non cocens
-Latin-40_coqui-1,,Latin,40_coqui,coqui,coqui,k o kʷ i,,appendixprobi,40,,^ c o qu i $,default,coqui non coci
-VulgarLatin-40_coqui-1,,VulgarLatin,40_coqui,coci,coci,k o k i,,appendixprobi,40,,^ c o c i $,default,coqui non coci
-Latin-41_acre-1,,Latin,41_acre,acre,acre,a k r e,,appendixprobi,41,,^ a c r e $,default,acre non acrum
-VulgarLatin-41_acre-1,,VulgarLatin,41_acre,acrum,acrum,a k r u m,,appendixprobi,41,,^ a c r u m $,default,acre non acrum
-Latin-42_paupermulier-1,,Latin,42_paupermulier,pauper mulier,pauper_mulier,p au p e r + m u l i e r,,appendixprobi,42,,^ p au p e r _ m u l i e r $,default,pauper mulier non paupera muli<er>
-VulgarLatin-42_paupermulier-1,,VulgarLatin,42_paupermulier,paupera muli<er>,paupera_muli<er>,p au p e r a + m u l i e r,,appendixprobi,42,,^ p au p e r a _ m u l i < e r > $,default,pauper mulier non paupera muli<er>
-Latin-43_carcer-1,,Latin,43_carcer,carcer,carcer,k a r k e r,,appendixprobi,43,,^ c a r c e r $,default,carcer non car<car>
-VulgarLatin-43_carcer-1,,VulgarLatin,43_carcer,car<car>,car<car>,k a r k a r,,appendixprobi,43,,^ c a r < c a r > $,default,carcer non car<car>
-Latin-44_bravium-1,,Latin,44_bravium,bravium,bravium,b r a v i u m,,appendixprobi,44,,^ b r a v i u m $,default,bravium non brabium
-VulgarLatin-44_bravium-1,,VulgarLatin,44_bravium,brabium,brabium,b r a b i u m,,appendixprobi,44,,^ b r a b i u m $,default,bravium non brabium
-Latin-45_pancarpus-1,,Latin,45_pancarpus,pancarpus,pancarpus,p a n k a r p u s,,appendixprobi,45,,^ p a n c a r p u s $,default,pancarpus non parcarpus
-VulgarLatin-45_pancarpus-1,,VulgarLatin,45_pancarpus,parcarpus,parcarpus,p a r k a r p u s,,appendixprobi,45,,^ p a r c a r p u s $,default,pancarpus non parcarpus
-Latin-46_theophilus-1,,Latin,46_theophilus,Theophilus,Theophilus,tʰ e o pʰ i l u s,,appendixprobi,46,,^ Th e o ph i l u s $,default,Theophilus non Izophilus
-VulgarLatin-46_theophilus-1,,VulgarLatin,46_theophilus,Izophilus,Izophilus,i z o pʰ i l u s,,appendixprobi,46,,^ I z o ph i l u s $,default,Theophilus non Izophilus
-Latin-47_monofagia-1,,Latin,47_monofagia,monofagia,monofagia,m o n o f a g i a,,appendixprobi,47,,^ m o n o f a g i a $,default,monofagia non monofagium
-VulgarLatin-47_monofagia-1,,VulgarLatin,47_monofagia,monofagium,monofagium,m o n o f a g i u m,,appendixprobi,47,,^ m o n o f a g i u m $,default,monofagia non monofagium
-Latin-48_byzacenus-1,,Latin,48_byzacenus,Byzacenus,Byzacenus,b j z a k e n u s,,appendixprobi,48,,^ B y z a c e n u s $,default,Byzacenus non Bizacinus
-VulgarLatin-48_byzacenus-1,,VulgarLatin,48_byzacenus,Bizacinus,Bizacinus,b i z a k i n u s,,appendixprobi,48,,^ B i z a c i n u s $,default,Byzacenus non Bizacinus
-Latin-49_capsensis-1,,Latin,49_capsensis,Capse[n]sis,Capse[n]sis,k a p s e n s i s,,appendixprobi,49,,^ Capse[n]sis $,default,Capse[n]sis non Capressis
-VulgarLatin-49_capsensis-1,,VulgarLatin,49_capsensis,Capressis,Capressis,k a p r e sː i s,,appendixprobi,49,,^ C a p r e ss i s $,default,Capse[n]sis non Capressis
-Latin-50_catulus-1,,Latin,50_catulus,catulus,catulus,k a t u l u s,,appendixprobi,50,,^ c a t u l u s $,default,catulus non catellus
-VulgarLatin-50_catulus-1,,VulgarLatin,50_catulus,catellus,catellus,k a t e lː u s,,appendixprobi,50,,^ c a t e ll u s $,default,catulus non catellus
-Latin-51_catulus-1,,Latin,51_catulus,[catulus,[catulus,k a t u l u s,,appendixprobi,51,,^ [catulus $,default,[catulus non ca<te>llus]
-VulgarLatin-51_catulus-1,,VulgarLatin,51_catulus,ca<te>llus],ca<te>llus],k a t e lː u s,,appendixprobi,51,,^ ca<te>llus] $,default,[catulus non ca<te>llus]
-Latin-52_doleus-1,,Latin,52_doleus,doleus,doleus,d o l e u s,,appendixprobi,52,,^ d o l eu s $,default,doleus non dolium
-VulgarLatin-52_doleus-1,,VulgarLatin,52_doleus,dolium,dolium,d o l i u m,,appendixprobi,52,,^ d o l i u m $,default,doleus non dolium
-Latin-53_calida-1,,Latin,53_calida,calida,calida,k a l i d a,,appendixprobi,53,,^ c a l i d a $,default,calida non calda
-VulgarLatin-53_calida-1,,VulgarLatin,53_calida,calda,calda,k a l d a,,appendixprobi,53,,^ c a l d a $,default,calida non calda
-Latin-54_frigida-1,,Latin,54_frigida,frigida,frigida,f r i g i d a,,appendixprobi,54,,^ f r i g i d a $,default,frigida non fricda
-VulgarLatin-54_frigida-1,,VulgarLatin,54_frigida,fricda,fricda,f r i k d a,,appendixprobi,54,,^ f r i c d a $,default,frigida non fricda
-Latin-55_vinea-1,,Latin,55_vinea,vinea,vinea,v i n e a,,appendixprobi,55,,^ v i n e a $,default,vinea non vinia
-VulgarLatin-55_vinea-1,,VulgarLatin,55_vinea,vinia,vinia,v i n i a,,appendixprobi,55,,^ v i n i a $,default,vinea non vinia
-Latin-56_tristis-1,,Latin,56_tristis,tristis,tristis,t r i s t i s,,appendixprobi,56,,^ t r i s t i s $,default,tristis non tristus
-VulgarLatin-56_tristis-1,,VulgarLatin,56_tristis,tristus,tristus,t r i s t u s,,appendixprobi,56,,^ t r i s t u s $,default,tristis non tristus
-Latin-57_tersus-1,,Latin,57_tersus,tersus,tersus,t e r s u s,,appendixprobi,57,,^ t e rs u s $,default,tersus non tertus
-VulgarLatin-57_tersus-1,,VulgarLatin,57_tersus,tertus,tertus,t e r t u s,,appendixprobi,57,,^ t e r t u s $,default,tersus non tertus
-Latin-58_umbilicus-1,,Latin,58_umbilicus,umbilicus,umbilicus,u m b i l i k u s,,appendixprobi,58,,^ u m b i l i c u s $,default,umbilicus non imbilicus
-VulgarLatin-58_umbilicus-1,,VulgarLatin,58_umbilicus,imbilicus,imbilicus,i m b i l i k u s,,appendixprobi,58,,^ i m b i l i c u s $,default,umbilicus non imbilicus
-Latin-59_turma-1,,Latin,59_turma,turma,turma,t u r m a,,appendixprobi,59,,^ t u r m a $,default,turma non torma
-VulgarLatin-59_turma-1,,VulgarLatin,59_turma,torma,torma,t o r m a,,appendixprobi,59,,^ t o r m a $,default,turma non torma
-Latin-60_caelebs-1,,Latin,60_caelebs,caelebs,caelebs,k ai l e b s,,appendixprobi,60,,^ c ae l e bs $,default,caelebs non celeps
-VulgarLatin-60_caelebs-1,,VulgarLatin,60_caelebs,celeps,celeps,k e l e p s,,appendixprobi,60,,^ c e l e ps $,default,caelebs non celeps
-Latin-61_ostium-1,,Latin,61_ostium,ostium,ostium,o s t i u m,,appendixprobi,61,,^ o s t i u m $,default,ostium non osteum
-VulgarLatin-61_ostium-1,,VulgarLatin,61_ostium,osteum,osteum,o s t e u m,,appendixprobi,61,,^ o s t eu m $,default,ostium non osteum
-Latin-62_flavus-1,,Latin,62_flavus,Flavus,Flavus,f l a v u s,,appendixprobi,62,,^ F l a v u s $,default,Flavus non Flaus
-VulgarLatin-62_flavus-1,,VulgarLatin,62_flavus,Flaus,Flaus,f l au s,,appendixprobi,62,,^ F l au s $,default,Flavus non Flaus
-Latin-63_cavea-1,,Latin,63_cavea,cavea,cavea,k a v e a,,appendixprobi,63,,^ c a v e a $,default,cavea non cavia
-VulgarLatin-63_cavea-1,,VulgarLatin,63_cavea,cavia,cavia,k a v i a,,appendixprobi,63,,^ c a v i a $,default,cavea non cavia
-Latin-64_senatus-1,,Latin,64_senatus,senatus,senatus,s e n a t u s,,appendixprobi,64,,^ s e n a t u s $,default,senatus non sinatus
-VulgarLatin-64_senatus-1,,VulgarLatin,64_senatus,sinatus,sinatus,s i n a t u s,,appendixprobi,64,,^ s i n a t u s $,default,senatus non sinatus
-Latin-65_brattea-1,,Latin,65_brattea,brattea,brattea,b r a tː e a,,appendixprobi,65,,^ b r a tt e a $,default,brattea non brattia
-VulgarLatin-65_brattea-1,,VulgarLatin,65_brattea,brattia,brattia,b r a tː i a,,appendixprobi,65,,^ b r a tt i a $,default,brattea non brattia
-Latin-66_cochlea-1,,Latin,66_cochlea,cochlea,cochlea,k o kʰ l e a,,appendixprobi,66,,^ c o ch l e a $,default,cochlea non coclia
-VulgarLatin-66_cochlea-1,,VulgarLatin,66_cochlea,coclia,coclia,k o k l i a,,appendixprobi,66,,^ c o c l i a $,default,cochlea non coclia
-Latin-67_cochleare-1,,Latin,67_cochleare,cochleare,cochleare,k o kʰ l e a r e,,appendixprobi,67,,^ c o ch l e a r e $,default,cochleare non cocliarium
-VulgarLatin-67_cochleare-1,,VulgarLatin,67_cochleare,cocliarium,cocliarium,k o k l i a r i u m,,appendixprobi,67,,^ c o c l i a r i u m $,default,cochleare non cocliarium
-Latin-68_palearium-1,,Latin,68_palearium,palearium,palearium,p a l e a r i u m,,appendixprobi,68,,^ p a l e a r i u m $,default,palearium non paliarium
-VulgarLatin-68_palearium-1,,VulgarLatin,68_palearium,paliarium,paliarium,p a l i a r i u m,,appendixprobi,68,,^ p a l i a r i u m $,default,palearium non paliarium
-Latin-69_primipilaris-1,,Latin,69_primipilaris,primipilaris,primipilaris,p r i m i p i l a r i s,,appendixprobi,69,,^ p r i m i p i l a r i s $,default,primipilaris non primipilarius
-VulgarLatin-69_primipilaris-1,,VulgarLatin,69_primipilaris,primipilarius,primipilarius,p r i m i p i l a r i u s,,appendixprobi,69,,^ p r i m i p i l a r i u s $,default,primipilaris non primipilarius
-Latin-70_alveus-1,,Latin,70_alveus,alveus,alveus,a l v e u s,,appendixprobi,70,,^ a l v eu s $,default,alveus non albeus
-VulgarLatin-70_alveus-1,,VulgarLatin,70_alveus,albeus,albeus,a l b e u s,,appendixprobi,70,,^ a l b eu s $,default,alveus non albeus
-Latin-71_glomus-1,,Latin,71_glomus,glomus,glomus,g l o m u s,,appendixprobi,71,,^ g l o m u s $,default,glomus non glovus
-VulgarLatin-71_glomus-1,,VulgarLatin,71_glomus,glovus,glovus,g l o v u s,,appendixprobi,71,,^ g l o v u s $,default,glomus non glovus
-Latin-72_lancea-1,,Latin,72_lancea,lancea,lancea,l a n k e a,,appendixprobi,72,,^ l a n c e a $,default,lancea non lancia
-VulgarLatin-72_lancea-1,,VulgarLatin,72_lancea,lancia,lancia,l a n k i a,,appendixprobi,72,,^ l a n c i a $,default,lancea non lancia
-Latin-73_favilla-1,,Latin,73_favilla,favilla,favilla,f a v i lː a,,appendixprobi,73,,^ f a v i ll a $,default,favilla non failla
-VulgarLatin-73_favilla-1,,VulgarLatin,73_favilla,failla,failla,f a i lː a,,appendixprobi,73,,^ f a i ll a $,default,favilla non failla
-Latin-74_orbis-1,,Latin,74_orbis,orbis,orbis,o r b i s,,appendixprobi,74,,^ o r b i s $,default,orbis non orbs
-VulgarLatin-74_orbis-1,,VulgarLatin,74_orbis,orbs,orbs,o r b s,,appendixprobi,74,,^ o r bs $,default,orbis non orbs
-Latin-75_formosus-1,,Latin,75_formosus,formosus,formosus,f o r m o s u s,,appendixprobi,75,,^ f o r m o s u s $,default,formosus non formunsus
-VulgarLatin-75_formosus-1,,VulgarLatin,75_formosus,formunsus,formunsus,f o r m u n s u s,,appendixprobi,75,,^ f o r m u ns u s $,default,formosus non formunsus
-Latin-76_ansa-1,,Latin,76_ansa,ansa,ansa,a n s a,,appendixprobi,76,,^ a ns a $,default,ansa non asa
-VulgarLatin-76_ansa-1,,VulgarLatin,76_ansa,asa,asa,a s a,,appendixprobi,76,,^ a s a $,default,ansa non asa
-Latin-77_flagellum-1,,Latin,77_flagellum,flagellum,flagellum,f l a g e lː u m,,appendixprobi,77,,^ f l a g e ll u m $,default,flagellum non fragellum
-VulgarLatin-77_flagellum-1,,VulgarLatin,77_flagellum,fragellum,fragellum,f r a g e lː u m,,appendixprobi,77,,^ f r a g e ll u m $,default,flagellum non fragellum
-Latin-78_calatus-1,,Latin,78_calatus,calatus,calatus,k a l a t u s,,appendixprobi,78,,^ c a l a t u s $,default,calatus non galatus
-VulgarLatin-78_calatus-1,,VulgarLatin,78_calatus,galatus,galatus,g a l a t u s,,appendixprobi,78,,^ g a l a t u s $,default,calatus non galatus
-Latin-79_digitus-1,,Latin,79_digitus,digitus,digitus,d i g i t u s,,appendixprobi,79,,^ d i g i t u s $,default,digitus non dicitus
-VulgarLatin-79_digitus-1,,VulgarLatin,79_digitus,dicitus,dicitus,d i k i t u s,,appendixprobi,79,,^ d i c i t u s $,default,digitus non dicitus
-Latin-80_solea-1,,Latin,80_solea,solea,solea,s o l e a,,appendixprobi,80,,^ s o l e a $,default,solea non solia
-VulgarLatin-80_solea-1,,VulgarLatin,80_solea,solia,solia,s o l i a,,appendixprobi,80,,^ s o l i a $,default,solea non solia
-Latin-81_calceus-1,,Latin,81_calceus,calceus,calceus,k a l k e u s,,appendixprobi,81,,^ c a l c eu s $,default,calceus non calcius
-VulgarLatin-81_calceus-1,,VulgarLatin,81_calceus,calcius,calcius,k a l k i u s,,appendixprobi,81,,^ c a l c i u s $,default,calceus non calcius
-Latin-82_iecur-1,,Latin,82_iecur,iecur,iecur,i e k u r,,appendixprobi,82,,^ i e c u r $,default,iecur non iocur
-VulgarLatin-82_iecur-1,,VulgarLatin,82_iecur,iocur,iocur,i o k u r,,appendixprobi,82,,^ i o c u r $,default,iecur non iocur
-Latin-83_auris-1,,Latin,83_auris,auris,auris,au r i s,,appendixprobi,83,,^ au r i s $,default,auris non oricla
-VulgarLatin-83_auris-1,,VulgarLatin,83_auris,oricla,oricla,o r i k l a,,appendixprobi,83,,^ o r i c l a $,default,auris non oricla
-Latin-84_camera-1,,Latin,84_camera,camera,camera,k a m e r a,,appendixprobi,84,,^ c a m e r a $,default,camera non cammara
-VulgarLatin-84_camera-1,,VulgarLatin,84_camera,cammara,cammara,k a mː a r a,,appendixprobi,84,,^ c a mm a r a $,default,camera non cammara
-Latin-85_pegma-1,,Latin,85_pegma,pegma,pegma,p e g m a,,appendixprobi,85,,^ p e g m a $,default,pegma non peuma
-VulgarLatin-85_pegma-1,,VulgarLatin,85_pegma,peuma,peuma,p e u m a,,appendixprobi,85,,^ p eu m a $,default,pegma non peuma
-Latin-86_cloaca-1,,Latin,86_cloaca,cloaca,cloaca,k l o a k a,,appendixprobi,86,,^ c l o a c a $,default,cloaca non cluaca
-VulgarLatin-86_cloaca-1,,VulgarLatin,86_cloaca,cluaca,cluaca,k l u a k a,,appendixprobi,86,,^ c l u a c a $,default,cloaca non cluaca
-Latin-87_festuca-1,,Latin,87_festuca,festuca,festuca,f e s t u k a,,appendixprobi,87,,^ f e s t u c a $,default,festuca non fis<tuca>
-VulgarLatin-87_festuca-1,,VulgarLatin,87_festuca,fis<tuca>,fis<tuca>,f i s t u k a,,appendixprobi,87,,^ f i s < t u c a > $,default,festuca non fis<tuca>
-Latin-88_ales-1,,Latin,88_ales,ales,ales,a l e s,,appendixprobi,88,,^ a l e s $,default,ales non <alis>
-VulgarLatin-88_ales-1,,VulgarLatin,88_ales,<alis>,<alis>,a l i s,,appendixprobi,88,,^ < a l i s > $,default,ales non <alis>
-Latin-89_facies-1,,Latin,89_facies,facies,facies,f a k i e s,,appendixprobi,89,,^ f a c i e s $,default,facies non fa<ces>
-VulgarLatin-89_facies-1,,VulgarLatin,89_facies,fa<ces>,fa<ces>,f a k e s,,appendixprobi,89,,^ f a < c e s > $,default,facies non fa<ces>
-Latin-90_cautes-1,,Latin,90_cautes,cautes,cautes,k au t e s,,appendixprobi,90,,^ c au t e s $,default,cautes non c<autis>
-VulgarLatin-90_cautes-1,,VulgarLatin,90_cautes,c<autis>,c<autis>,k au t i s,,appendixprobi,90,,^ c < au t i s > $,default,cautes non c<autis>
-Latin-91_plebes-1,,Latin,91_plebes,plebes,plebes,p l e b e s,,appendixprobi,91,,^ p l e b e s $,default,plebes non plevis
-VulgarLatin-91_plebes-1,,VulgarLatin,91_plebes,plevis,plevis,p l e v i s,,appendixprobi,91,,^ p l e v i s $,default,plebes non plevis
-Latin-92_vates-1,,Latin,92_vates,vates,vates,v a t e s,,appendixprobi,92,,^ v a t e s $,default,vates non vatis
-VulgarLatin-92_vates-1,,VulgarLatin,92_vates,vatis,vatis,v a t i s,,appendixprobi,92,,^ v a t i s $,default,vates non vatis
-Latin-93_tabes-1,,Latin,93_tabes,tabes,tabes,t a b e s,,appendixprobi,93,,^ t a b e s $,default,tabes non tavis
-VulgarLatin-93_tabes-1,,VulgarLatin,93_tabes,tavis,tavis,t a v i s,,appendixprobi,93,,^ t a v i s $,default,tabes non tavis
-Latin-94_suppellex-1,,Latin,94_suppellex,suppellex,suppellex,s u pː e lː e x,,appendixprobi,94,,^ s u pp e ll e x $,default,suppellex non superlex
-VulgarLatin-94_suppellex-1,,VulgarLatin,94_suppellex,superlex,superlex,s u p e r l e x,,appendixprobi,94,,^ s u p e r l e x $,default,suppellex non superlex
-Latin-95_apes-1,,Latin,95_apes,apes,apes,a p e s,,appendixprobi,95,,^ a p e s $,default,apes non apis
-VulgarLatin-95_apes-1,,VulgarLatin,95_apes,apis,apis,a p i s,,appendixprobi,95,,^ a p i s $,default,apes non apis
-Latin-96_nubes-1,,Latin,96_nubes,nubes,nubes,n u b e s,,appendixprobi,96,,^ n u b e s $,default,nubes non nubs
-VulgarLatin-96_nubes-1,,VulgarLatin,96_nubes,nubs,nubs,n u b s,,appendixprobi,96,,^ n u bs $,default,nubes non nubs
-Latin-97_suboles-1,,Latin,97_suboles,suboles,suboles,s u b o l e s,,appendixprobi,97,,^ s u b o l e s $,default,suboles non subolis
-VulgarLatin-97_suboles-1,,VulgarLatin,97_suboles,subolis,subolis,s u b o l i s,,appendixprobi,97,,^ s u b o l i s $,default,suboles non subolis
-Latin-98_vulpes-1,,Latin,98_vulpes,vulpes,vulpes,v u l p e s,,appendixprobi,98,,^ v u l p e s $,default,vulpes non vulpis
-VulgarLatin-98_vulpes-1,,VulgarLatin,98_vulpes,vulpis,vulpis,v u l p i s,,appendixprobi,98,,^ v u l p i s $,default,vulpes non vulpis
-Latin-99_palumbes-1,,Latin,99_palumbes,palumbes,palumbes,p a l u m b e s,,appendixprobi,99,,^ p a l u m b e s $,default,palumbes non palumbus
-VulgarLatin-99_palumbes-1,,VulgarLatin,99_palumbes,palumbus,palumbus,p a l u m b u s,,appendixprobi,99,,^ p a l u m b u s $,default,palumbes non palumbus
-Latin-100_lues-1,,Latin,100_lues,lues,lues,l u e s,,appendixprobi,100,,^ l u e s $,default,lues non luis
-VulgarLatin-100_lues-1,,VulgarLatin,100_lues,luis,luis,l u i s,,appendixprobi,100,,^ l u i s $,default,lues non luis
-Latin-101_deses-1,,Latin,101_deses,deses,deses,d e s e s,,appendixprobi,101,,^ d e s e s $,default,deses non desis
-VulgarLatin-101_deses-1,,VulgarLatin,101_deses,desis,desis,d e s i s,,appendixprobi,101,,^ d e s i s $,default,deses non desis
-Latin-102_reses-1,,Latin,102_reses,reses,reses,r e s e s,,appendixprobi,102,,^ r e s e s $,default,reses non resis
-VulgarLatin-102_reses-1,,VulgarLatin,102_reses,resis,resis,r e s i s,,appendixprobi,102,,^ r e s i s $,default,reses non resis
-Latin-103_vepres-1,,Latin,103_vepres,vepres,vepres,v e p r e s,,appendixprobi,103,,^ v e p r e s $,default,vepres non vepris
-VulgarLatin-103_vepres-1,,VulgarLatin,103_vepres,vepris,vepris,v e p r i s,,appendixprobi,103,,^ v e p r i s $,default,vepres non vepris
-Latin-104_fames-1,,Latin,104_fames,fames,fames,f a m e s,,appendixprobi,104,,^ f a m e s $,default,fames non famis
-VulgarLatin-104_fames-1,,VulgarLatin,104_fames,famis,famis,f a m i s,,appendixprobi,104,,^ f a m i s $,default,fames non famis
-Latin-105_clades-1,,Latin,105_clades,clades,clades,k l a d e s,,appendixprobi,105,,^ c l a d e s $,default,clades non cladis
-VulgarLatin-105_clades-1,,VulgarLatin,105_clades,cladis,cladis,k l a d i s,,appendixprobi,105,,^ c l a d i s $,default,clades non cladis
-Latin-106_syrtes-1,,Latin,106_syrtes,Syrtes,Syrtes,s j r t e s,,appendixprobi,106,,^ S y r t e s $,default,Syrtes non Syrtis
-VulgarLatin-106_syrtes-1,,VulgarLatin,106_syrtes,Syrtis,Syrtis,s j r t i s,,appendixprobi,106,,^ S y r t i s $,default,Syrtes non Syrtis
-Latin-107_aedes-1,,Latin,107_aedes,aedes,aedes,ai d e s,,appendixprobi,107,,^ ae d e s $,default,aedes non aedis
-VulgarLatin-107_aedes-1,,VulgarLatin,107_aedes,aedis,aedis,ai d i s,,appendixprobi,107,,^ ae d i s $,default,aedes non aedis
-Latin-108_sedes-1,,Latin,108_sedes,sedes,sedes,s e d e s,,appendixprobi,108,,^ s e d e s $,default,sedes non sedis
-VulgarLatin-108_sedes-1,,VulgarLatin,108_sedes,sedis,sedis,s e d i s,,appendixprobi,108,,^ s e d i s $,default,sedes non sedis
-Latin-109_proles-1,,Latin,109_proles,proles,proles,p r o l e s,,appendixprobi,109,,^ p r o l e s $,default,proles non prolis
-VulgarLatin-109_proles-1,,VulgarLatin,109_proles,prolis,prolis,p r o l i s,,appendixprobi,109,,^ p r o l i s $,default,proles non prolis
-Latin-110_draco-1,,Latin,110_draco,draco,draco,d r a k o,,appendixprobi,110,,^ d r a c o $,default,draco non dracco
-VulgarLatin-110_draco-1,,VulgarLatin,110_draco,dracco,dracco,d r a kː o,,appendixprobi,110,,^ d r a cc o $,default,draco non dracco
-Latin-111_oculus-1,,Latin,111_oculus,oculus,oculus,o k u l u s,,appendixprobi,111,,^ o c u l u s $,default,oculus non oclus
-VulgarLatin-111_oculus-1,,VulgarLatin,111_oculus,oclus,oclus,o k l u s,,appendixprobi,111,,^ o c l u s $,default,oculus non oclus
-Latin-112_aqua-1,,Latin,112_aqua,aqua,aqua,a kʷ a,,appendixprobi,112,,^ a qu a $,default,aqua non acqua
-VulgarLatin-112_aqua-1,,VulgarLatin,112_aqua,acqua,acqua,a k kʷ a,,appendixprobi,112,,^ a c qu a $,default,aqua non acqua
-Latin-113_alium-1,,Latin,113_alium,alium,alium,a l i u m,,appendixprobi,113,,^ a l i u m $,default,alium non aleum
-VulgarLatin-113_alium-1,,VulgarLatin,113_alium,aleum,aleum,a l e u m,,appendixprobi,113,,^ a l eu m $,default,alium non aleum
-Latin-114_lilium-1,,Latin,114_lilium,lilium,lilium,l i l i u m,,appendixprobi,114,,^ l i l i u m $,default,lilium non lileum
-VulgarLatin-114_lilium-1,,VulgarLatin,114_lilium,lileum,lileum,l i l e u m,,appendixprobi,114,,^ l i l eu m $,default,lilium non lileum
-Latin-115_glis-1,,Latin,115_glis,glis,glis,g l i s,,appendixprobi,115,,^ g l i s $,default,glis non <gl>iris
-VulgarLatin-115_glis-1,,VulgarLatin,115_glis,<gl>iris,<gl>iris,g l i r i s,,appendixprobi,115,,^ < g l > i r i s $,default,glis non <gl>iris
-Latin-116_delirus-1,,Latin,116_delirus,delirus,delirus,d e l i r u s,,appendixprobi,116,,^ d e l i r u s $,default,delirus non delerus
-VulgarLatin-116_delirus-1,,VulgarLatin,116_delirus,delerus,delerus,d e l e r u s,,appendixprobi,116,,^ d e l e r u s $,default,delirus non delerus
-Latin-117_tinea-1,,Latin,117_tinea,tinea,tinea,t i n e a,,appendixprobi,117,,^ t i n e a $,default,tinea non ti<nia>
-VulgarLatin-117_tinea-1,,VulgarLatin,117_tinea,ti<nia>,ti<nia>,t i n i a,,appendixprobi,117,,^ t i < n i a > $,default,tinea non ti<nia>
-Latin-118_exter-1,,Latin,118_exter,exter,exter,e x t e r,,appendixprobi,118,,^ e x t e r $,default,exter non extraneus
-VulgarLatin-118_exter-1,,VulgarLatin,118_exter,extraneus,extraneus,e x t r a n e u s,,appendixprobi,118,,^ e x t r a n eu s $,default,exter non extraneus
-Latin-119_clamis-1,,Latin,119_clamis,clamis,clamis,k l a m i s,,appendixprobi,119,,^ c l a m i s $,default,clamis non clamus
-VulgarLatin-119_clamis-1,,VulgarLatin,119_clamis,clamus,clamus,k l a m u s,,appendixprobi,119,,^ c l a m u s $,default,clamis non clamus
-Latin-120_vir-1,,Latin,120_vir,vir,vir,v i r,,appendixprobi,120,,^ v i r $,default,vir non vyr
-VulgarLatin-120_vir-1,,VulgarLatin,120_vir,vyr,vyr,v j r,,appendixprobi,120,,^ v y r $,default,vir non vyr
-Latin-121_virgo-1,,Latin,121_virgo,virgo,virgo,v i r g o,,appendixprobi,121,,^ v i r g o $,default,virgo non vyrgo
-VulgarLatin-121_virgo-1,,VulgarLatin,121_virgo,vyrgo,vyrgo,v j r g o,,appendixprobi,121,,^ v y r g o $,default,virgo non vyrgo
-Latin-122_virga-1,,Latin,122_virga,virga,virga,v i r g a,,appendixprobi,122,,^ v i r g a $,default,virga non vyrga
-VulgarLatin-122_virga-1,,VulgarLatin,122_virga,vyrga,vyrga,v j r g a,,appendixprobi,122,,^ v y r g a $,default,virga non vyrga
-Latin-123_occasio-1,,Latin,123_occasio,occasio,occasio,o kː a s i o,,appendixprobi,123,,^ o cc a s i o $,default,occasio non occansio
-VulgarLatin-123_occasio-1,,VulgarLatin,123_occasio,occansio,occansio,o kː a n s i o,,appendixprobi,123,,^ o cc a ns i o $,default,occasio non occansio
-Latin-124_caligo-1,,Latin,124_caligo,caligo,caligo,k a l i g o,,appendixprobi,124,,^ c a l i g o $,default,caligo non calligo
-VulgarLatin-124_caligo-1,,VulgarLatin,124_caligo,calligo,calligo,k a lː i g o,,appendixprobi,124,,^ c a ll i g o $,default,caligo non calligo
-Latin-125_terebra-1,,Latin,125_terebra,terebra,terebra,t e r e b r a,,appendixprobi,125,,^ t e r e b r a $,default,terebra non telebra
-VulgarLatin-125_terebra-1,,VulgarLatin,125_terebra,telebra,telebra,t e l e b r a,,appendixprobi,125,,^ t e l e b r a $,default,terebra non telebra
-Latin-126_effeminatus-1,,Latin,126_effeminatus,effeminatus,effeminatus,e fː e m i n a t u s,,appendixprobi,126,,^ e ff e m i n a t u s $,default,effeminatus non imfimenatus
-VulgarLatin-126_effeminatus-1,,VulgarLatin,126_effeminatus,imfimenatus,imfimenatus,i m f i m e n a t u s,,appendixprobi,126,,^ i m f i m e n a t u s $,default,effeminatus non imfimenatus
-Latin-127_botruus-1,,Latin,127_botruus,botruus,botruus,b o t r uː s,,appendixprobi,127,,^ b o t r uu s $,default,botruus non butro
-VulgarLatin-127_botruus-1,,VulgarLatin,127_botruus,butro,butro,b u t r o,,appendixprobi,127,,^ b u t r o $,default,botruus non butro
-Latin-128_grus-1,,Latin,128_grus,grus,grus,g r u s,,appendixprobi,128,,^ g r u s $,default,grus non gruis
-VulgarLatin-128_grus-1,,VulgarLatin,128_grus,gruis,gruis,g r u i s,,appendixprobi,128,,^ g r u i s $,default,grus non gruis
-Latin-129_anser-1,,Latin,129_anser,anser,anser,a n s e r,,appendixprobi,129,,^ a ns e r $,default,anser non ansar
-VulgarLatin-129_anser-1,,VulgarLatin,129_anser,ansar,ansar,a n s a r,,appendixprobi,129,,^ a ns a r $,default,anser non ansar
-Latin-130_tabula-1,,Latin,130_tabula,tabula,tabula,t a b u l a,,appendixprobi,130,,^ t a b u l a $,default,tabula non tabla
-VulgarLatin-130_tabula-1,,VulgarLatin,130_tabula,tabla,tabla,t a b l a,,appendixprobi,130,,^ t a b l a $,default,tabula non tabla
-Latin-131_puella-1,,Latin,131_puella,puella,puella,p u e lː a,,appendixprobi,131,,^ p u e ll a $,default,puella non poella
-VulgarLatin-131_puella-1,,VulgarLatin,131_puella,poella,poella,p o e lː a,,appendixprobi,131,,^ p o e ll a $,default,puella non poella
-Latin-132_balteus-1,,Latin,132_balteus,balteus,balteus,b a l t e u s,,appendixprobi,132,,^ b a l t eu s $,default,balteus non baltius
-VulgarLatin-132_balteus-1,,VulgarLatin,132_balteus,baltius,baltius,b a l t i u s,,appendixprobi,132,,^ b a l t i u s $,default,balteus non baltius
-Latin-133_fax-1,,Latin,133_fax,fax,fax,f a x,,appendixprobi,133,,^ f a x $,default,fax non facla
-VulgarLatin-133_fax-1,,VulgarLatin,133_fax,facla,facla,f a k l a,,appendixprobi,133,,^ f a c l a $,default,fax non facla
-Latin-134_vicocapitisafricae-1,,Latin,134_vicocapitisafricae,vico capitis Africae,vico_capitis_Africae,v i k o + k a p i t i s + a f r i k ai,,appendixprobi,134,,^ v i c o _ c a p i t i s _ A f r i c ae $,default,vico capitis Africae non vico caput Africae
-VulgarLatin-134_vicocapitisafricae-1,,VulgarLatin,134_vicocapitisafricae,vico caput Africae,vico_caput_Africae,v i k o + k a p u t + a f r i k ai,,appendixprobi,134,,^ v i c o _ c a p u t _ A f r i c ae $,default,vico capitis Africae non vico caput Africae
-Latin-135_vicotabuliproconsolis-1,,Latin,135_vicotabuliproconsolis,vico tabuli proconsolis,vico_tabuli_proconsolis,v i k o + t a b u l i + p r o k o n s o l i s,,appendixprobi,135,,^ v i c o _ t a b u l i _ p r o c o ns o l i s $,default,vico tabuli proconsolis non vico tabulu proconsulis
-VulgarLatin-135_vicotabuliproconsolis-1,,VulgarLatin,135_vicotabuliproconsolis,vico tabulu proconsulis,vico_tabulu_proconsulis,v i k o + t a b u l u + p r o k o n s u l i s,,appendixprobi,135,,^ v i c o _ t a b u l u _ p r o c o ns u l i s $,default,vico tabuli proconsolis non vico tabulu proconsulis
-Latin-136_vicocastrorum-1,,Latin,136_vicocastrorum,vico castrorum,vico_castrorum,v i k o + k a s t r o r u m,,appendixprobi,136,,^ v i c o _ c a s t r o r u m $,default,vico castrorum non vico castrae
-VulgarLatin-136_vicocastrorum-1,,VulgarLatin,136_vicocastrorum,vico castrae,vico_castrae,v i k o + k a s t r ai,,appendixprobi,136,,^ v i c o _ c a s t r ae $,default,vico castrorum non vico castrae
-Latin-137_vicostrobili-1,,Latin,137_vicostrobili,vico strobili,vico_strobili,v i k o + s t r o b i l i,,appendixprobi,137,,^ v i c o _ s t r o b i l i $,default,vico strobili non vico trobili
-VulgarLatin-137_vicostrobili-1,,VulgarLatin,137_vicostrobili,vico trobili,vico_trobili,v i k o + t r o b i l i,,appendixprobi,137,,^ v i c o _ t r o b i l i $,default,vico strobili non vico trobili
-Latin-138_teter-1,,Latin,138_teter,teter,teter,t e t e r,,appendixprobi,138,,^ t e t e r $,default,teter non tetrus
-VulgarLatin-138_teter-1,,VulgarLatin,138_teter,tetrus,tetrus,t e t r u s,,appendixprobi,138,,^ t e t r u s $,default,teter non tetrus
-Latin-139_aper-1,,Latin,139_aper,aper,aper,a p e r,,appendixprobi,139,,^ a p e r $,default,aper non aprus
-VulgarLatin-139_aper-1,,VulgarLatin,139_aper,aprus,aprus,a p r u s,,appendixprobi,139,,^ a p r u s $,default,aper non aprus
-Latin-140_amycdala-1,,Latin,140_amycdala,amycdala,amycdala,a m j k d a l a,,appendixprobi,140,,^ a m y c d a l a $,default,amycdala non amiddula
-VulgarLatin-140_amycdala-1,,VulgarLatin,140_amycdala,amiddula,amiddula,a m i dː u l a,,appendixprobi,140,,^ a m i dd u l a $,default,amycdala non amiddula
-Latin-141_faseolus-1,,Latin,141_faseolus,faseolus,faseolus,f a s e o l u s,,appendixprobi,141,,^ f a s e o l u s $,default,faseolus non fassiolus
-VulgarLatin-141_faseolus-1,,VulgarLatin,141_faseolus,fassiolus,fassiolus,f a sː i o l u s,,appendixprobi,141,,^ f a ss i o l u s $,default,faseolus non fassiolus
-Latin-142_stabulum-1,,Latin,142_stabulum,stabulum,stabulum,s t a b u l u m,,appendixprobi,142,,^ s t a b u l u m $,default,stabulum non stablum
-VulgarLatin-142_stabulum-1,,VulgarLatin,142_stabulum,stablum,stablum,s t a b l u m,,appendixprobi,142,,^ s t a b l u m $,default,stabulum non stablum
-Latin-143_triclinium-1,,Latin,143_triclinium,triclinium,triclinium,t r i k l i n i u m,,appendixprobi,143,,^ t r i c l i n i u m $,default,triclinium non triclinu
-VulgarLatin-143_triclinium-1,,VulgarLatin,143_triclinium,triclinu,triclinu,t r i k l i n u,,appendixprobi,143,,^ t r i c l i n u $,default,triclinium non triclinu
-Latin-144_dimidius-1,,Latin,144_dimidius,dimidius,dimidius,d i m i d i u s,,appendixprobi,144,,^ d i m i d i u s $,default,dimidius non demidius
-VulgarLatin-144_dimidius-1,,VulgarLatin,144_dimidius,demidius,demidius,d e m i d i u s,,appendixprobi,144,,^ d e m i d i u s $,default,dimidius non demidius
-Latin-145_turma-1,,Latin,145_turma,turma,turma,t u r m a,,appendixprobi,145,,^ t u r m a $,default,turma non torma
-VulgarLatin-145_turma-1,,VulgarLatin,145_turma,torma,torma,t o r m a,,appendixprobi,145,,^ t o r m a $,default,turma non torma
-Latin-146_pusillus-1,,Latin,146_pusillus,pusillus,pusillus,p u s i lː u s,,appendixprobi,146,,^ p u s i ll u s $,default,pusillus non pisinnus
-VulgarLatin-146_pusillus-1,,VulgarLatin,146_pusillus,pisinnus,pisinnus,p i s i nː u s,,appendixprobi,146,,^ p i s i nn u s $,default,pusillus non pisinnus
-Latin-147_meretrix-1,,Latin,147_meretrix,meretrix,meretrix,m e r e t r i x,,appendixprobi,147,,^ m e r e t r i x $,default,meretrix non menetris
-VulgarLatin-147_meretrix-1,,VulgarLatin,147_meretrix,menetris,menetris,m e n e t r i s,,appendixprobi,147,,^ m e n e t r i s $,default,meretrix non menetris
-Latin-148_aries-1,,Latin,148_aries,aries,aries,a r i e s,,appendixprobi,148,,^ a r i e s $,default,aries non ariex
-VulgarLatin-148_aries-1,,VulgarLatin,148_aries,ariex,ariex,a r i e x,,appendixprobi,148,,^ a r i e x $,default,aries non ariex
-Latin-149_persica-1,,Latin,149_persica,pe<rsica>,pe<rsica>,p e r s i k a,,appendixprobi,149,,^ p e < rs i c a > $,default,pe<rsica> non pessica
-VulgarLatin-149_persica-1,,VulgarLatin,149_persica,pessica,pessica,p e sː i k a,,appendixprobi,149,,^ p e ss i c a $,default,pe<rsica> non pessica
-Latin-150_dysentericus-1,,Latin,150_dysentericus,dys<entericus,dys<entericus,d j s e n t e r i k u s,,appendixprobi,150,,^ d y s < e n t e r i c u s $,default,dys<entericus non disinte>ricus
-VulgarLatin-150_dysentericus-1,,VulgarLatin,150_dysentericus,disinte>ricus,disinte>ricus,d i s i n t e r i k u s,,appendixprobi,150,,^ d i s i n t e > r i c u s $,default,dys<entericus non disinte>ricus
-Latin-151_opobalsamum-1,,Latin,151_opobalsamum,opobalsamum,opobalsamum,o p o b a l s a m u m,,appendixprobi,151,,^ o p o b a ls a m u m $,default,opobalsamum non ababalsamum
-VulgarLatin-151_opobalsamum-1,,VulgarLatin,151_opobalsamum,ababalsamum,ababalsamum,a b a b a l s a m u m,,appendixprobi,151,,^ a b a b a ls a m u m $,default,opobalsamum non ababalsamum
-Latin-152_mensa-1,,Latin,152_mensa,mensa,mensa,m e n s a,,appendixprobi,152,,^ m e ns a $,default,mensa non mesa
-VulgarLatin-152_mensa-1,,VulgarLatin,152_mensa,mesa,mesa,m e s a,,appendixprobi,152,,^ m e s a $,default,mensa non mesa
-Latin-153_raucus-1,,Latin,153_raucus,raucus,raucus,r au k u s,,appendixprobi,153,,^ r au c u s $,default,raucus non ra[u]cus
-VulgarLatin-153_raucus-1,,VulgarLatin,153_raucus,ra[u]cus,ra[u]cus,r au k u s,,appendixprobi,153,,^ ra[u]cus $,default,raucus non ra[u]cus
-Latin-154_auctor-1,,Latin,154_auctor,auctor,auctor,au k t o r,,appendixprobi,154,,^ au c t o r $,default,auctor non autor
-VulgarLatin-154_auctor-1,,VulgarLatin,154_auctor,autor,autor,au t o r,,appendixprobi,154,,^ au t o r $,default,auctor non autor
-Latin-155_auctoritas-1,,Latin,155_auctoritas,auctoritas,auctoritas,au k t o r i t a s,,appendixprobi,155,,^ au c t o r i t a s $,default,auctoritas non autoritas
-VulgarLatin-155_auctoritas-1,,VulgarLatin,155_auctoritas,autoritas,autoritas,au t o r i t a s,,appendixprobi,155,,^ au t o r i t a s $,default,auctoritas non autoritas
-Latin-156_ipse-1,,Latin,156_ipse,ip<se>,ip<se>,i p s e,,appendixprobi,156,,^ i p <s e > $,default,ip<se> non ip<sus>
-VulgarLatin-156_ipse-1,,VulgarLatin,156_ipse,ip<sus>,ip<sus>,i p s u s,,appendixprobi,156,,^ i p <s u s > $,default,ip<se> non ip<sus>
-Latin-157_linteum-1,,Latin,157_linteum,linteum,linteum,l i n t e u m,,appendixprobi,157,,^ l i n t eu m $,default,linteum non lintium
-VulgarLatin-157_linteum-1,,VulgarLatin,157_linteum,lintium,lintium,l i n t i u m,,appendixprobi,157,,^ l i n t i u m $,default,linteum non lintium
-Latin-158_a-1,,Latin,158_a,a< >,a<_>,a,,appendixprobi,158,,^ a <_> $,default,a< > non < >a
-VulgarLatin-158_a-1,,VulgarLatin,158_a,< >a,<_>a,a,,appendixprobi,158,,^ <_> a $,default,a< > non < >a
-Latin-159_terraemotus-1,,Latin,159_terraemotus,terraemotus,terraemotus,t e rː ai m o t u s,,appendixprobi,159,,^ t e rr ae m o t u s $,default,terraemotus non terrimotium
-VulgarLatin-159_terraemotus-1,,VulgarLatin,159_terraemotus,terrimotium,terrimotium,t e rː i m o t i u m,,appendixprobi,159,,^ t e rr i m o t i u m $,default,terraemotus non terrimotium
-Latin-160_noxius-1,,Latin,160_noxius,noxius,noxius,n o x i u s,,appendixprobi,160,,^ n o x i u s $,default,noxius non noxeus
-VulgarLatin-160_noxius-1,,VulgarLatin,160_noxius,noxeus,noxeus,n o x e u s,,appendixprobi,160,,^ n o x eu s $,default,noxius non noxeus
-Latin-161_coruscus-1,,Latin,161_coruscus,coruscus,coruscus,k o r u s k u s,,appendixprobi,161,,^ c o r u s c u s $,default,coruscus non scoriscus
-VulgarLatin-161_coruscus-1,,VulgarLatin,161_coruscus,scoriscus,scoriscus,s k o r i s k u s,,appendixprobi,161,,^ s c o r i s c u s $,default,coruscus non scoriscus
-Latin-162_tonitru-1,,Latin,162_tonitru,tonitru,tonitru,t o n i t r u,,appendixprobi,162,,^ t o n i t r u $,default,tonitru non tonotru
-VulgarLatin-162_tonitru-1,,VulgarLatin,162_tonitru,tonotru,tonotru,t o n o t r u,,appendixprobi,162,,^ t o n o t r u $,default,tonitru non tonotru
-Latin-163_passer-1,,Latin,163_passer,passer,passer,p a sː e r,,appendixprobi,163,,^ p a ss e r $,default,passer non passar
-VulgarLatin-163_passer-1,,VulgarLatin,163_passer,passar,passar,p a sː a r,,appendixprobi,163,,^ p a ss a r $,default,passer non passar
-Latin-164_anser-1,,Latin,164_anser,anser,anser,a n s e r,,appendixprobi,164,,^ a ns e r $,default,anser non ansar
-VulgarLatin-164_anser-1,,VulgarLatin,164_anser,ansar,ansar,a n s a r,,appendixprobi,164,,^ a ns a r $,default,anser non ansar
-Latin-165_hirundo-1,,Latin,165_hirundo,hirundo,hirundo,h i r u n d o,,appendixprobi,165,,^ h i r u n d o $,default,hirundo non herundo
-VulgarLatin-165_hirundo-1,,VulgarLatin,165_hirundo,herundo,herundo,h e r u n d o,,appendixprobi,165,,^ h e r u n d o $,default,hirundo non herundo
-Latin-166_obstetrix-1,,Latin,166_obstetrix,obstetrix,obstetrix,o b s t e t r i x,,appendixprobi,166,,^ o bs t e t r i x $,default,obstetrix non ops<etris>
-VulgarLatin-166_obstetrix-1,,VulgarLatin,166_obstetrix,ops<etris>,ops<etris>,o p s e t r i s,,appendixprobi,166,,^ o ps < e t r i s > $,default,obstetrix non ops<etris>
-Latin-167_capitulum-1,,Latin,167_capitulum,capitulum,capitulum,k a p i t u l u m,,appendixprobi,167,,^ c a p i t u l u m $,default,capitulum non capiclum
-VulgarLatin-167_capitulum-1,,VulgarLatin,167_capitulum,capiclum,capiclum,k a p i k l u m,,appendixprobi,167,,^ c a p i c l u m $,default,capitulum non capiclum
-Latin-168_noverca-1,,Latin,168_noverca,noverca,noverca,n o v e r k a,,appendixprobi,168,,^ n o v e r c a $,default,noverca non novarca
-VulgarLatin-168_noverca-1,,VulgarLatin,168_noverca,novarca,novarca,n o v a r k a,,appendixprobi,168,,^ n o v a r c a $,default,noverca non novarca
-Latin-169_nurus-1,,Latin,169_nurus,nurus,nurus,n u r u s,,appendixprobi,169,,^ n u r u s $,default,nurus non nura
-VulgarLatin-169_nurus-1,,VulgarLatin,169_nurus,nura,nura,n u r a,,appendixprobi,169,,^ n u r a $,default,nurus non nura
-Latin-170_socrus-1,,Latin,170_socrus,socrus,socrus,s o k r u s,,appendixprobi,170,,^ s o c r u s $,default,socrus non socra
-VulgarLatin-170_socrus-1,,VulgarLatin,170_socrus,socra,socra,s o k r a,,appendixprobi,170,,^ s o c r a $,default,socrus non socra
-Latin-171_neptis-1,,Latin,171_neptis,neptis,neptis,n e p t i s,,appendixprobi,171,,^ n e p t i s $,default,neptis non nepticla
-VulgarLatin-171_neptis-1,,VulgarLatin,171_neptis,nepticla,nepticla,n e p t i k l a,,appendixprobi,171,,^ n e p t i c l a $,default,neptis non nepticla
-Latin-172_anus-1,,Latin,172_anus,anus,anus,a n u s,,appendixprobi,172,,^ a n u s $,default,anus non anucla
-VulgarLatin-172_anus-1,,VulgarLatin,172_anus,anucla,anucla,a n u k l a,,appendixprobi,172,,^ a n u c l a $,default,anus non anucla
-Latin-173_tondeo-1,,Latin,173_tondeo,tondeo,tondeo,t o n d e o,,appendixprobi,173,,^ t o n d e o $,default,tondeo non detundo
-VulgarLatin-173_tondeo-1,,VulgarLatin,173_tondeo,detundo,detundo,d e t u n d o,,appendixprobi,173,,^ d e t u n d o $,default,tondeo non detundo
-Latin-174_rivus-1,,Latin,174_rivus,rivus,rivus,r i v u s,,appendixprobi,174,,^ r i v u s $,default,rivus non rius
-VulgarLatin-174_rivus-1,,VulgarLatin,174_rivus,rius,rius,r i u s,,appendixprobi,174,,^ r i u s $,default,rivus non rius
-Latin-175_imago-1,,Latin,175_imago,imago,imago,i m a g o,,appendixprobi,175,,^ i m a g o $,default,imago non < >
-VulgarLatin-175_imago-1,,VulgarLatin,175_imago,< >,<_>,,,appendixprobi,175,,^ <_> $,default,imago non < >
-Latin-176_pavor-1,,Latin,176_pavor,pavor,pavor,p a v o r,,appendixprobi,176,,^ p a v o r $,default,pavor non paor
-VulgarLatin-176_pavor-1,,VulgarLatin,176_pavor,paor,paor,p a o r,,appendixprobi,176,,^ p a o r $,default,pavor non paor
-Latin-177_coluber-1,,Latin,177_coluber,coluber,coluber,k o l u b e r,,appendixprobi,177,,^ c o l u b e r $,default,coluber non colober
-VulgarLatin-177_coluber-1,,VulgarLatin,177_coluber,colober,colober,k o l o b e r,,appendixprobi,177,,^ c o l o b e r $,default,coluber non colober
-Latin-178_adipes-1,,Latin,178_adipes,adipes,adipes,a d i p e s,,appendixprobi,178,,^ a d i p e s $,default,adipes non alipes
-VulgarLatin-178_adipes-1,,VulgarLatin,178_adipes,alipes,alipes,a l i p e s,,appendixprobi,178,,^ a l i p e s $,default,adipes non alipes
-Latin-179_sibilus-1,,Latin,179_sibilus,sibilus,sibilus,s i b i l u s,,appendixprobi,179,,^ s i b i l u s $,default,sibilus non sifilus
-VulgarLatin-179_sibilus-1,,VulgarLatin,179_sibilus,sifilus,sifilus,s i f i l u s,,appendixprobi,179,,^ s i f i l u s $,default,sibilus non sifilus
-Latin-180_frustum-1,,Latin,180_frustum,frustum,frustum,f r u s t u m,,appendixprobi,180,,^ f r u s t u m $,default,frustum non frustrum
-VulgarLatin-180_frustum-1,,VulgarLatin,180_frustum,frustrum,frustrum,f r u s t r u m,,appendixprobi,180,,^ f r u s t r u m $,default,frustum non frustrum
-Latin-181_plebs-1,,Latin,181_plebs,plebs,plebs,p l e b s,,appendixprobi,181,,^ p l e bs $,default,plebs non pleps
-VulgarLatin-181_plebs-1,,VulgarLatin,181_plebs,pleps,pleps,p l e p s,,appendixprobi,181,,^ p l e ps $,default,plebs non pleps
-Latin-182_garrulus-1,,Latin,182_garrulus,garrulus,garrulus,g a rː u l u s,,appendixprobi,182,,^ g a rr u l u s $,default,garrulus non garulus
-VulgarLatin-182_garrulus-1,,VulgarLatin,182_garrulus,garulus,garulus,g a r u l u s,,appendixprobi,182,,^ g a r u l u s $,default,garrulus non garulus
-Latin-183_parentalia-1,,Latin,183_parentalia,parentalia,parentalia,p a r e n t a l i a,,appendixprobi,183,,^ p a r e n t a l i a $,default,parentalia non parantalia
-VulgarLatin-183_parentalia-1,,VulgarLatin,183_parentalia,parantalia,parantalia,p a r a n t a l i a,,appendixprobi,183,,^ p a r a n t a l i a $,default,parentalia non parantalia
-Latin-184_caelebs-1,,Latin,184_caelebs,caelebs,caelebs,k ai l e b s,,appendixprobi,184,,^ c ae l e bs $,default,caelebs non celeps
-VulgarLatin-184_caelebs-1,,VulgarLatin,184_caelebs,celeps,celeps,k e l e p s,,appendixprobi,184,,^ c e l e ps $,default,caelebs non celeps
-Latin-185_poples-1,,Latin,185_poples,poples,poples,p o p l e s,,appendixprobi,185,,^ p o p l e s $,default,poples non poplex
-VulgarLatin-185_poples-1,,VulgarLatin,185_poples,poplex,poplex,p o p l e x,,appendixprobi,185,,^ p o p l e x $,default,poples non poplex
-Latin-186_locuples-1,,Latin,186_locuples,locuples,locuples,l o k u p l e s,,appendixprobi,186,,^ l o c u p l e s $,default,locuples non locuplex
-VulgarLatin-186_locuples-1,,VulgarLatin,186_locuples,locuplex,locuplex,l o k u p l e x,,appendixprobi,186,,^ l o c u p l e x $,default,locuples non locuplex
-Latin-187_robigo-1,,Latin,187_robigo,robigo,robigo,r o b i g o,,appendixprobi,187,,^ r o b i g o $,default,robigo non rubigo
-VulgarLatin-187_robigo-1,,VulgarLatin,187_robigo,rubigo,rubigo,r u b i g o,,appendixprobi,187,,^ r u b i g o $,default,robigo non rubigo
-Latin-188_plasta-1,,Latin,188_plasta,plasta,plasta,p l a s t a,,appendixprobi,188,,^ p l a s t a $,default,plasta non blasta
-VulgarLatin-188_plasta-1,,VulgarLatin,188_plasta,blasta,blasta,b l a s t a,,appendixprobi,188,,^ b l a s t a $,default,plasta non blasta
-Latin-189_bipennis-1,,Latin,189_bipennis,bipennis,bipennis,b i p e nː i s,,appendixprobi,189,,^ b i p e nn i s $,default,bipennis non bipinnis
-VulgarLatin-189_bipennis-1,,VulgarLatin,189_bipennis,bipinnis,bipinnis,b i p i nː i s,,appendixprobi,189,,^ b i p i nn i s $,default,bipennis non bipinnis
-Latin-190_hermeneumata-1,,Latin,190_hermeneumata,hermeneumata,hermeneumata,h e r m e n e u m a t a,,appendixprobi,190,,^ h e r m e n eu m a t a $,default,hermeneumata non erminomata
-VulgarLatin-190_hermeneumata-1,,VulgarLatin,190_hermeneumata,erminomata,erminomata,e r m i n o m a t a,,appendixprobi,190,,^ e r m i n o m a t a $,default,hermeneumata non erminomata
-Latin-191_tymum-1,,Latin,191_tymum,tymum,tymum,t j m u m,,appendixprobi,191,,^ t y m u m $,default,tymum non tumum
-VulgarLatin-191_tymum-1,,VulgarLatin,191_tymum,tumum,tumum,t u m u m,,appendixprobi,191,,^ t u m u m $,default,tymum non tumum
-Latin-192_strofa-1,,Latin,192_strofa,strofa,strofa,s t r o f a,,appendixprobi,192,,^ s t r o f a $,default,strofa non stropa
-VulgarLatin-192_strofa-1,,VulgarLatin,192_strofa,stropa,stropa,s t r o p a,,appendixprobi,192,,^ s t r o p a $,default,strofa non stropa
-Latin-193_bitumen-1,,Latin,193_bitumen,bitumen,bitumen,b i t u m e n,,appendixprobi,193,,^ b i t u m e n $,default,bitumen non butumen
-VulgarLatin-193_bitumen-1,,VulgarLatin,193_bitumen,butumen,butumen,b u t u m e n,,appendixprobi,193,,^ b u t u m e n $,default,bitumen non butumen
-Latin-194_mergus-1,,Latin,194_mergus,mergus,mergus,m e r g u s,,appendixprobi,194,,^ m e r g u s $,default,mergus non mergulus
-VulgarLatin-194_mergus-1,,VulgarLatin,194_mergus,mergulus,mergulus,m e r g u l u s,,appendixprobi,194,,^ m e r g u l u s $,default,mergus non mergulus
-Latin-195_myrta-1,,Latin,195_myrta,myrta,myrta,m j r t a,,appendixprobi,195,,^ m y r t a $,default,myrta non murta
-VulgarLatin-195_myrta-1,,VulgarLatin,195_myrta,murta,murta,m u r t a,,appendixprobi,195,,^ m u r t a $,default,myrta non murta
-Latin-196_zizipus-1,,Latin,196_zizipus,zizipu<s>,zizipu<s>,z i z i p u s,,appendixprobi,196,,^ z i z i p u <s > $,default,zizipu<s> non zizup<u>s
-VulgarLatin-196_zizipus-1,,VulgarLatin,196_zizipus,zizup<u>s,zizup<u>s,z i z u p u s,,appendixprobi,196,,^ z i z u p < u >s $,default,zizipu<s> non zizup<u>s
-Latin-197_iunipirus-1,,Latin,197_iunipirus,iunipirus,iunipirus,i u n i p i r u s,,appendixprobi,197,,^ i u n i p i r u s $,default,iunipirus non <iu>niperus
-VulgarLatin-197_iunipirus-1,,VulgarLatin,197_iunipirus,<iu>niperus,<iu>niperus,i u n i p e r u s,,appendixprobi,197,,^ < i u > n i p e r u s $,default,iunipirus non <iu>niperus
-Latin-198_tolerabilis-1,,Latin,198_tolerabilis,tolerabilis,tolerabilis,t o l e r a b i l i s,,appendixprobi,198,,^ t o l e r a b i l i s $,default,tolerabilis non toleravilis
-VulgarLatin-198_tolerabilis-1,,VulgarLatin,198_tolerabilis,toleravilis,toleravilis,t o l e r a v i l i s,,appendixprobi,198,,^ t o l e r a v i l i s $,default,tolerabilis non toleravilis
-Latin-199_basilica-1,,Latin,199_basilica,basilica,basilica,b a s i l i k a,,appendixprobi,199,,^ b a s i l i c a $,default,basilica non bassilica
-VulgarLatin-199_basilica-1,,VulgarLatin,199_basilica,bassilica,bassilica,b a sː i l i k a,,appendixprobi,199,,^ b a ss i l i c a $,default,basilica non bassilica
-Latin-200_tribula-1,,Latin,200_tribula,tribula,tribula,t r i b u l a,,appendixprobi,200,,^ t r i b u l a $,default,tribula non tribla
-VulgarLatin-200_tribula-1,,VulgarLatin,200_tribula,tribla,tribla,t r i b l a,,appendixprobi,200,,^ t r i b l a $,default,tribula non tribla
-Latin-201_viridis-1,,Latin,201_viridis,viridis,viridis,v i r i d i s,,appendixprobi,201,,^ v i r i d i s $,default,viridis non virdis
-VulgarLatin-201_viridis-1,,VulgarLatin,201_viridis,virdis,virdis,v i r d i s,,appendixprobi,201,,^ v i r d i s $,default,viridis non virdis
-Latin-202_constabilitus-1,,Latin,202_constabilitus,constabilitus,constabilitus,k o n s t a b i l i t u s,,appendixprobi,202,,^ c o ns t a b i l i t u s $,default,constabilitus non constab[i]litus
-VulgarLatin-202_constabilitus-1,,VulgarLatin,202_constabilitus,constab[i]litus,constab[i]litus,k o n s t a b i l i t u s,,appendixprobi,202,,^ constab[i]litus $,default,constabilitus non constab[i]litus
-Latin-203_sirena-1,,Latin,203_sirena,Sirena,Sirena,s i r e n a,,appendixprobi,203,,^ S i r e n a $,default,Sirena non Serena
-VulgarLatin-203_sirena-1,,VulgarLatin,203_sirena,Serena,Serena,s e r e n a,,appendixprobi,203,,^ S e r e n a $,default,Sirena non Serena
-Latin-204_musiumvelmusivum-1,,Latin,204_musiumvelmusivum,musium vel musivum,musium_vel_musivum,m u s i u m + v e l + m u s i v u m,,appendixprobi,204,,^ m u s i u m _ v e l _ m u s i v u m $,default,musium vel musivum non museum
-VulgarLatin-204_musiumvelmusivum-1,,VulgarLatin,204_musiumvelmusivum,museum,museum,m u s e u m,,appendixprobi,204,,^ m u s eu m $,default,musium vel musivum non museum
-Latin-205_labsus-1,,Latin,205_labsus,labsus,labsus,l a b s u s,,appendixprobi,205,,^ l a bs u s $,default,labsus non lapsus
-VulgarLatin-205_labsus-1,,VulgarLatin,205_labsus,lapsus,lapsus,l a p s u s,,appendixprobi,205,,^ l a ps u s $,default,labsus non lapsus
-Latin-206_orilegium-1,,Latin,206_orilegium,orilegium,orilegium,o r i l e g i u m,,appendixprobi,206,,^ o r i l e g i u m $,default,orilegium non orolegium
-VulgarLatin-206_orilegium-1,,VulgarLatin,206_orilegium,orolegium,orolegium,o r o l e g i u m,,appendixprobi,206,,^ o r o l e g i u m $,default,orilegium non orolegium
-Latin-207_hostiae-1,,Latin,207_hostiae,hostiae,hostiae,h o s t i ai,,appendixprobi,207,,^ h o s t i ae $,default,hostiae non ostiae
-VulgarLatin-207_hostiae-1,,VulgarLatin,207_hostiae,ostiae,ostiae,o s t i ai,,appendixprobi,207,,^ o s t i ae $,default,hostiae non ostiae
-Latin-208_februarius-1,,Latin,208_februarius,Februarius,Februarius,f e b r u a r i u s,,appendixprobi,208,,^ F e b r u a r i u s $,default,Februarius non Febrarius
-VulgarLatin-208_februarius-1,,VulgarLatin,208_februarius,Febrarius,Febrarius,f e b r a r i u s,,appendixprobi,208,,^ F e b r a r i u s $,default,Februarius non Febrarius
-Latin-209_clatri-1,,Latin,209_clatri,clatri,clatri,k l a t r i,,appendixprobi,209,,^ c l a t r i $,default,clatri non cracli
-VulgarLatin-209_clatri-1,,VulgarLatin,209_clatri,cracli,cracli,k r a k l i,,appendixprobi,209,,^ c r a c l i $,default,clatri non cracli
-Latin-210_allec-1,,Latin,210_allec,allec,allec,a lː e k,,appendixprobi,210,,^ a ll e c $,default,allec non allex
-VulgarLatin-210_allec-1,,VulgarLatin,210_allec,allex,allex,a lː e x,,appendixprobi,210,,^ a ll e x $,default,allec non allex
-Latin-211_rabidus-1,,Latin,211_rabidus,rabidus,rabidus,r a b i d u s,,appendixprobi,211,,^ r a b i d u s $,default,rabidus non rabiosus
-VulgarLatin-211_rabidus-1,,VulgarLatin,211_rabidus,rabiosus,rabiosus,r a b i o s u s,,appendixprobi,211,,^ r a b i o s u s $,default,rabidus non rabiosus
-Latin-212_tintinaculum-1,,Latin,212_tintinaculum,tintinaculum,tintinaculum,t i n t i n a k u l u m,,appendixprobi,212,,^ t i n t i n a c u l u m $,default,tintinaculum non tintinabulum
-VulgarLatin-212_tintinaculum-1,,VulgarLatin,212_tintinaculum,tintinabulum,tintinabulum,t i n t i n a b u l u m,,appendixprobi,212,,^ t i n t i n a b u l u m $,default,tintinaculum non tintinabulum
-Latin-213_adon-1,,Latin,213_adon,Adon,Adon,a d o n,,appendixprobi,213,,^ A d o n $,default,Adon non Adonius
-VulgarLatin-213_adon-1,,VulgarLatin,213_adon,Adonius,Adonius,a d o n i u s,,appendixprobi,213,,^ A d o n i u s $,default,Adon non Adonius
-Latin-214_grundio-1,,Latin,214_grundio,grundio,grundio,g r u n d i o,,appendixprobi,214,,^ g r u n d i o $,default,grundio non grunnio
-VulgarLatin-214_grundio-1,,VulgarLatin,214_grundio,grunnio,grunnio,g r u nː i o,,appendixprobi,214,,^ g r u nn i o $,default,grundio non grunnio
-Latin-215_vapulo-1,,Latin,215_vapulo,vapulo,vapulo,v a p u l o,,appendixprobi,215,,^ v a p u l o $,default,vapulo non baplo
-VulgarLatin-215_vapulo-1,,VulgarLatin,215_vapulo,baplo,baplo,b a p l o,,appendixprobi,215,,^ b a p l o $,default,vapulo non baplo
-Latin-216_necne-1,,Latin,216_necne,necne,necne,n e k n e,,appendixprobi,216,,^ n e c n e $,default,necne non necnec
-VulgarLatin-216_necne-1,,VulgarLatin,216_necne,necnec,necnec,n e k n e k,,appendixprobi,216,,^ n e c n e c $,default,necne non necnec
-Latin-217_passim-1,,Latin,217_passim,passim,passim,p a sː i m,,appendixprobi,217,,^ p a ss i m $,default,passim non passi
-VulgarLatin-217_passim-1,,VulgarLatin,217_passim,passi,passi,p a sː i,,appendixprobi,217,,^ p a ss i $,default,passim non passi
-Latin-218_numquit-1,,Latin,218_numquit,numquit,numquit,n u m kʷ i t,,appendixprobi,218,,^ n u m qu i t $,default,numquit non nimquit
-VulgarLatin-218_numquit-1,,VulgarLatin,218_numquit,nimquit,nimquit,n i m kʷ i t,,appendixprobi,218,,^ n i m qu i t $,default,numquit non nimquit
-Latin-219_numquam-1,,Latin,219_numquam,numquam,numquam,n u m kʷ a m,,appendixprobi,219,,^ n u m qu a m $,default,numquam non numqua
-VulgarLatin-219_numquam-1,,VulgarLatin,219_numquam,numqua,numqua,n u m kʷ a,,appendixprobi,219,,^ n u m qu a $,default,numquam non numqua
-Latin-220_nobiscum-1,,Latin,220_nobiscum,nobiscum,nobiscum,n o b i s k u m,,appendixprobi,220,,^ n o b i s c u m $,default,nobiscum non noscum
-VulgarLatin-220_nobiscum-1,,VulgarLatin,220_nobiscum,noscum,noscum,n o s k u m,,appendixprobi,220,,^ n o s c u m $,default,nobiscum non noscum
-Latin-221_vobiscum-1,,Latin,221_vobiscum,vobiscum,vobiscum,v o b i s k u m,,appendixprobi,221,,^ v o b i s c u m $,default,vobiscum non voscum
-VulgarLatin-221_vobiscum-1,,VulgarLatin,221_vobiscum,voscum,voscum,v o s k u m,,appendixprobi,221,,^ v o s c u m $,default,vobiscum non voscum
-Latin-222_nescioubi-1,,Latin,222_nescioubi,nescioubi,nescioubi,n e s k i o u b i,,appendixprobi,222,,^ n e s c i o u b i $,default,nescioubi non nesciocobe
-VulgarLatin-222_nescioubi-1,,VulgarLatin,222_nescioubi,nesciocobe,nesciocobe,n e s k i o k o b e,,appendixprobi,222,,^ n e s c i o c o b e $,default,nescioubi non nesciocobe
-Latin-223_pridem-1,,Latin,223_pridem,pridem,pridem,p r i d e m,,appendixprobi,223,,^ p r i d e m $,default,pridem non pride
-VulgarLatin-223_pridem-1,,VulgarLatin,223_pridem,pride,pride,p r i d e,,appendixprobi,223,,^ p r i d e $,default,pridem non pride
-Latin-224_olim-1,,Latin,224_olim,olim,olim,o l i m,,appendixprobi,224,,^ o l i m $,default,olim non oli
-VulgarLatin-224_olim-1,,VulgarLatin,224_olim,oli,oli,o l i,,appendixprobi,224,,^ o l i $,default,olim non oli
-Latin-225_adhuc-1,,Latin,225_adhuc,adhuc,adhuc,a d h u k,,appendixprobi,225,,^ a dh u c $,default,adhuc non aduc
-VulgarLatin-225_adhuc-1,,VulgarLatin,225_adhuc,aduc,aduc,a d u k,,appendixprobi,225,,^ a d u c $,default,adhuc non aduc
-Latin-226_idem-1,,Latin,226_idem,idem,idem,i d e m,,appendixprobi,226,,^ i d e m $,default,idem non ide
-VulgarLatin-226_idem-1,,VulgarLatin,226_idem,ide,ide,i d e,,appendixprobi,226,,^ i d e $,default,idem non ide
-Latin-227_amfora-1,,Latin,227_amfora,amfora,amfora,a m f o r a,,appendixprobi,227,,^ a m f o r a $,default,amfora non ampora
-VulgarLatin-227_amfora-1,,VulgarLatin,227_amfora,ampora,ampora,a m p o r a,,appendixprobi,227,,^ a m p o r a $,default,amfora non ampora
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Phrase,Phrase_ID
+Latin-1_porphireticummarmor-1,,Latin,1_porphireticummarmor,porphireticum marmor,porphireticum_marmor,p o r pʰ i r e t i k u m + m a r m o r,,appendixprobi,1,,^ p o r ph i r e t i c u m _ m a r m o r $,default,porphireticum marmor non purpureticum marmur,1
+VulgarLatin-1_porphireticummarmor-1,,VulgarLatin,1_porphireticummarmor,purpureticum marmur,purpureticum_marmur,p u r p u r e t i k u m + m a r m u r,,appendixprobi,1,,^ p u r p u r e t i c u m _ m a r m u r $,default,porphireticum marmor non purpureticum marmur,1
+Latin-2_tolonium-1,,Latin,2_tolonium,tolonium,tolonium,t o l o n i u m,,appendixprobi,2,,^ t o l o n i u m $,default,tolonium non toloneum,2
+VulgarLatin-2_tolonium-1,,VulgarLatin,2_tolonium,toloneum,toloneum,t o l o n e u m,,appendixprobi,2,,^ t o l o n eu m $,default,tolonium non toloneum,2
+Latin-3_speculum-1,,Latin,3_speculum,speculum,speculum,s p e k u l u m,,appendixprobi,3,,^ s p e c u l u m $,default,speculum non speclum,3
+VulgarLatin-3_speculum-1,,VulgarLatin,3_speculum,speclum,speclum,s p e k l u m,,appendixprobi,3,,^ s p e c l u m $,default,speculum non speclum,3
+Latin-4_masculus-1,,Latin,4_masculus,masculus,masculus,m a s k u l u s,,appendixprobi,4,,^ m a s c u l u s $,default,masculus non masclus,4
+VulgarLatin-4_masculus-1,,VulgarLatin,4_masculus,masclus,masclus,m a s k l u s,,appendixprobi,4,,^ m a s c l u s $,default,masculus non masclus,4
+Latin-5_vetulus-1,,Latin,5_vetulus,vetulus,vetulus,v e t u l u s,,appendixprobi,5,,^ v e t u l u s $,default,vetulus non veclus,5
+VulgarLatin-5_vetulus-1,,VulgarLatin,5_vetulus,veclus,veclus,v e k l u s,,appendixprobi,5,,^ v e c l u s $,default,vetulus non veclus,5
+Latin-6_vitulus-1,,Latin,6_vitulus,vitulus,vitulus,v i t u l u s,,appendixprobi,6,,^ v i t u l u s $,default,vitulus non viclus,6
+VulgarLatin-6_vitulus-1,,VulgarLatin,6_vitulus,viclus,viclus,v i k l u s,,appendixprobi,6,,^ v i c l u s $,default,vitulus non viclus,6
+Latin-7_vernaculus-1,,Latin,7_vernaculus,vernaculus,vernaculus,v e r n a k u l u s,,appendixprobi,7,,^ v e r n a c u l u s $,default,vernaculus non vernaclus,7
+VulgarLatin-7_vernaculus-1,,VulgarLatin,7_vernaculus,vernaclus,vernaclus,v e r n a k l u s,,appendixprobi,7,,^ v e r n a c l u s $,default,vernaculus non vernaclus,7
+Latin-8_articulus-1,,Latin,8_articulus,articulus,articulus,a r t i k u l u s,,appendixprobi,8,,^ a r t i c u l u s $,default,articulus non articlus,8
+VulgarLatin-8_articulus-1,,VulgarLatin,8_articulus,articlus,articlus,a r t i k l u s,,appendixprobi,8,,^ a r t i c l u s $,default,articulus non articlus,8
+Latin-9_baculus-1,,Latin,9_baculus,baculus,baculus,b a k u l u s,,appendixprobi,9,,^ b a c u l u s $,default,baculus non vaclus,9
+VulgarLatin-9_baculus-1,,VulgarLatin,9_baculus,vaclus,vaclus,v a k l u s,,appendixprobi,9,,^ v a c l u s $,default,baculus non vaclus,9
+Latin-10_angulus-1,,Latin,10_angulus,angulus,angulus,a n g u l u s,,appendixprobi,10,,^ a n g u l u s $,default,angulus non anglus,10
+VulgarLatin-10_angulus-1,,VulgarLatin,10_angulus,anglus,anglus,a n g l u s,,appendixprobi,10,,^ a n g l u s $,default,angulus non anglus,10
+Latin-11_iugulus-1,,Latin,11_iugulus,iugulus,iugulus,j u g u l u s,,appendixprobi,11,,^iug u l u s $,default,iugulus non iuglus,11
+VulgarLatin-11_iugulus-1,,VulgarLatin,11_iugulus,iuglus,iuglus,j u g l u s,,appendixprobi,11,,^iug l u s $,default,iugulus non iuglus,11
+Latin-12_calcostegis-1,,Latin,12_calcostegis,calcostegis,calcostegis,k a l k o s t e g i s,,appendixprobi,12,,^ c a l c o s t e g i s $,default,calcostegis non calcosteis,12
+VulgarLatin-12_calcostegis-1,,VulgarLatin,12_calcostegis,calcosteis,calcosteis,k a l k o s t e i s,,appendixprobi,12,,^ c a l c o s t e i s $,default,calcostegis non calcosteis,12
+Latin-13_septizonium-1,,Latin,13_septizonium,septizonium,septizonium,s e p t i z o n i u m,,appendixprobi,13,,^ s e p t i z o n i u m $,default,septizonium non septidonium,13
+VulgarLatin-13_septizonium-1,,VulgarLatin,13_septizonium,septidonium,septidonium,s e p t i d o n i u m,,appendixprobi,13,,^ s e p t i d o n i u m $,default,septizonium non septidonium,13
+Latin-14_vacua-1,,Latin,14_vacua,vacua,vacua,v a k u a,,appendixprobi,14,,^ v a c u a $,default,vacua non vaqua,14
+VulgarLatin-14_vacua-1,,VulgarLatin,14_vacua,vaqua,vaqua,v a kʷ a,,appendixprobi,14,,^ v a qu a $,default,vacua non vaqua,14
+Latin-15_vacui-1,,Latin,15_vacui,vacui,vacui,v a k u i,,appendixprobi,15,,^ v a c u i $,default,vacui non vaqui,15
+VulgarLatin-15_vacui-1,,VulgarLatin,15_vacui,vaqui,vaqui,v a kʷ i,,appendixprobi,15,,^ v a qu i $,default,vacui non vaqui,15
+Latin-16_cultellum-1,,Latin,16_cultellum,cultellum,cultellum,k u l t e lː u m,,appendixprobi,16,,^ c u l t e ll u m $,default,cultellum non cuntellum,16
+VulgarLatin-16_cultellum-1,,VulgarLatin,16_cultellum,cuntellum,cuntellum,k u n t e lː u m,,appendixprobi,16,,^ c u n t e ll u m $,default,cultellum non cuntellum,16
+Latin-17_marsias-1,,Latin,17_marsias,Marsias,Marsias,m a r s i a s,,appendixprobi,17,,^ M a rs i a s $,default,Marsias non Marsuas,17
+VulgarLatin-17_marsias-1,,VulgarLatin,17_marsias,Marsuas,Marsuas,m a r s u a s,,appendixprobi,17,,^ M a rs u a s $,default,Marsias non Marsuas,17
+Latin-18_cannelam-1,,Latin,18_cannelam,cannelam,cannelam,k a nː e l a m,,appendixprobi,18,,^ c a nn e l a m $,default,cannelam non canianus,18
+VulgarLatin-18_cannelam-1,,VulgarLatin,18_cannelam,canianus,canianus,k a n i a n u s,,appendixprobi,18,,^ c a n i a n u s $,default,cannelam non canianus,18
+Latin-19_hercules-1,,Latin,19_hercules,Hercules,Hercules,h e r k u l e s,,appendixprobi,19,,^ H e r c u l e s $,default,Hercules non Herculens,19
+VulgarLatin-19_hercules-1,,VulgarLatin,19_hercules,Herculens,Herculens,h e r k u l e n s,,appendixprobi,19,,^ H e r c u l e ns $,default,Hercules non Herculens,19
+Latin-20_columna-1,,Latin,20_columna,columna,columna,k o l u m n a,,appendixprobi,20,,^ c o l u m n a $,default,columna non colomna,20
+VulgarLatin-20_columna-1,,VulgarLatin,20_columna,colomna,colomna,k o l o m n a,,appendixprobi,20,,^ c o l o m n a $,default,columna non colomna,20
+Latin-21_pecten-1,,Latin,21_pecten,pecten,pecten,p e k t e n,,appendixprobi,21,,^ p e c t e n $,default,pecten non pectinis,21
+VulgarLatin-21_pecten-1,,VulgarLatin,21_pecten,pectinis,pectinis,p e k t i n i s,,appendixprobi,21,,^ p e c t i n i s $,default,pecten non pectinis,21
+Latin-22_aquaeductus-1,,Latin,22_aquaeductus,aquaeductus,aquaeductus,a kʷ ai d u k t u s,,appendixprobi,22,,^ a qu ae d u c t u s $,default,aquaeductus non aquiductus,22
+VulgarLatin-22_aquaeductus-1,,VulgarLatin,22_aquaeductus,aquiductus,aquiductus,a kʷ i d u k t u s,,appendixprobi,22,,^ a qu i d u c t u s $,default,aquaeductus non aquiductus,22
+Latin-23_cithara-1,,Latin,23_cithara,cithara,cithara,k i tʰ a r a,,appendixprobi,23,,^ c i th a r a $,default,cithara non citera,23
+VulgarLatin-23_cithara-1,,VulgarLatin,23_cithara,citera,citera,k i t e r a,,appendixprobi,23,,^ c i t e r a $,default,cithara non citera,23
+Latin-24_crista-1,,Latin,24_crista,crista,crista,k r i s t a,,appendixprobi,24,,^ c r i s t a $,default,crista non crysta,24
+VulgarLatin-24_crista-1,,VulgarLatin,24_crista,crysta,crysta,k r y s t a,,appendixprobi,24,,^ crysta $,default,crista non crysta,24
+Latin-25_formica-1,,Latin,25_formica,formica,formica,f o r m i k a,,appendixprobi,25,,^ f o r m i c a $,default,formica non furmica,25
+VulgarLatin-25_formica-1,,VulgarLatin,25_formica,furmica,furmica,f u r m i k a,,appendixprobi,25,,^ f u r m i c a $,default,formica non furmica,25
+Latin-26_musivum-1,,Latin,26_musivum,musivum,musivum,m u s i v u m,,appendixprobi,26,,^ m u s i v u m $,default,musivum non mus&lt;e&gt;um,26
+VulgarLatin-26_musivum-1,,VulgarLatin,26_musivum,mus<e>um,mus<e>um,m u s e u m,,appendixprobi,26,,^ m u s < e > u m $,default,musivum non mus&lt;e&gt;um,26
+Latin-27_exequiae-1,,Latin,27_exequiae,exequiae,exequiae,e k s e kʷ i ai,,appendixprobi,27,,^ e x e qu i ae $,default,exequiae non execiae,27
+VulgarLatin-27_exequiae-1,,VulgarLatin,27_exequiae,execiae,execiae,e k s e k i ai,,appendixprobi,27,,^ e x e c i ae $,default,exequiae non execiae,27
+Latin-28_gyrus-1,,Latin,28_gyrus,gyrus,gyrus,g y r u s,,appendixprobi,28,,^gyr u s $,default,gyrus non girus,28
+VulgarLatin-28_gyrus-1,,VulgarLatin,28_gyrus,girus,girus,g i r u s,,appendixprobi,28,,^ g i r u s $,default,gyrus non girus,28
+Latin-29_avus-1,,Latin,29_avus,avus,avus,a v u s,,appendixprobi,29,,^ a v u s $,default,avus non aus,29
+VulgarLatin-29_avus-1,,VulgarLatin,29_avus,aus,aus,a u s,,appendixprobi,29,,^aus $,default,avus non aus,29
+Latin-30_miles-1,,Latin,30_miles,miles,miles,m i l e s,,appendixprobi,30,,^ m i l e s $,default,miles non milex,30
+VulgarLatin-30_miles-1,,VulgarLatin,30_miles,milex,milex,m i l e k s,,appendixprobi,30,,^ m i l e x $,default,miles non milex,30
+Latin-31_sobrius-1,,Latin,31_sobrius,sobrius,sobrius,s o b r i u s,,appendixprobi,31,,^ s o b r i u s $,default,sobrius non suber,31
+VulgarLatin-31_sobrius-1,,VulgarLatin,31_sobrius,suber,suber,s u b e r,,appendixprobi,31,,^ s u b e r $,default,sobrius non suber,31
+Latin-32_figulus-1,,Latin,32_figulus,figulus,figulus,f i g u l u s,,appendixprobi,32,,^ f i g u l u s $,default,figulus non figel,32
+VulgarLatin-32_figulus-1,,VulgarLatin,32_figulus,figel,figel,f i g e l,,appendixprobi,32,,^ f i g e l $,default,figulus non figel,32
+Latin-33_masculus-1,,Latin,33_masculus,masculus,masculus,m a s k u l u s,,appendixprobi,33,,^ m a s c u l u s $,default,masculus non mascel,33
+VulgarLatin-33_masculus-1,,VulgarLatin,33_masculus,mascel,mascel,m a s k e l,,appendixprobi,33,,^ m a s c e l $,default,masculus non mascel,33
+Latin-34_lanius-1,,Latin,34_lanius,lanius,lanius,l a n i u s,,appendixprobi,34,,^ l a n i u s $,default,lanius non laneo,34
+VulgarLatin-34_lanius-1,,VulgarLatin,34_lanius,laneo,laneo,l a n e o,,appendixprobi,34,,^ l a n e o $,default,lanius non laneo,34
+Latin-35_iuvencus-1,,Latin,35_iuvencus,iuvencus,iuvencus,i u v e n k u s,,appendixprobi,35,,^ i u v e n c u s $,default,iuvencus non iuvenclus,35
+VulgarLatin-35_iuvencus-1,,VulgarLatin,35_iuvencus,iuvenclus,iuvenclus,i u v e n k l u s,,appendixprobi,35,,^ i u v e n c l u s $,default,iuvencus non iuvenclus,35
+Latin-36_barbarus-1,,Latin,36_barbarus,barbarus,barbarus,b a r b a r u s,,appendixprobi,36,,^ b a r b a r u s $,default,barbarus non barbar,36
+VulgarLatin-36_barbarus-1,,VulgarLatin,36_barbarus,barbar,barbar,b a r b a r,,appendixprobi,36,,^ b a r b a r $,default,barbarus non barbar,36
+Latin-37_equs-1,,Latin,37_equs,equs,equs,e kʷ u s,,appendixprobi,37,,^equs $,default,equs non ecus,37
+VulgarLatin-37_equs-1,,VulgarLatin,37_equs,ecus,ecus,e k u s,,appendixprobi,37,,^ e c u s $,default,equs non ecus,37
+Latin-38_coqus-1,,Latin,38_coqus,coqus,coqus,k o kʷ u s,,appendixprobi,38,,^coqus $,default,coqus non cocus,38
+VulgarLatin-38_coqus-1,,VulgarLatin,38_coqus,cocus,cocus,k o k u s,,appendixprobi,38,,^ c o c u s $,default,coqus non cocus,38
+Latin-39_coquens-1,,Latin,39_coquens,coquens,coquens,k o kʷ e n s,,appendixprobi,39,,^ c o qu e ns $,default,coquens non cocens,39
+VulgarLatin-39_coquens-1,,VulgarLatin,39_coquens,cocens,cocens,k o k e n s,,appendixprobi,39,,^ c o c e ns $,default,coquens non cocens,39
+Latin-40_coqui-1,,Latin,40_coqui,coqui,coqui,k o kʷ i,,appendixprobi,40,,^ c o qu i $,default,coqui non coci,40
+VulgarLatin-40_coqui-1,,VulgarLatin,40_coqui,coci,coci,k o k i,,appendixprobi,40,,^ c o c i $,default,coqui non coci,40
+Latin-41_acre-1,,Latin,41_acre,acre,acre,a k r e,,appendixprobi,41,,^ a c r e $,default,acre non acrum,41
+VulgarLatin-41_acre-1,,VulgarLatin,41_acre,acrum,acrum,a k r u m,,appendixprobi,41,,^ a c r u m $,default,acre non acrum,41
+Latin-42_paupermulier-1,,Latin,42_paupermulier,pauper mulier,pauper_mulier,p au p e r + m u l i e r,,appendixprobi,42,,^ p au p e r _ m u l i e r $,default,pauper mulier non paupera muli&lt;er&gt;,42
+VulgarLatin-42_paupermulier-1,,VulgarLatin,42_paupermulier,paupera muli<er>,paupera_muli<er>,p au p e r a + m u l i e r,,appendixprobi,42,,^ p au p e r a _ m u l i < e r > $,default,pauper mulier non paupera muli&lt;er&gt;,42
+Latin-43_carcer-1,,Latin,43_carcer,carcer,carcer,k a r k e r,,appendixprobi,43,,^ c a r c e r $,default,carcer non car&lt;car&gt;,43
+VulgarLatin-43_carcer-1,,VulgarLatin,43_carcer,car<car>,car<car>,k a r k a r,,appendixprobi,43,,^ c a r < c a r > $,default,carcer non car&lt;car&gt;,43
+Latin-44_bravium-1,,Latin,44_bravium,bravium,bravium,b r a v i u m,,appendixprobi,44,,^ b r a v i u m $,default,bravium non brabium,44
+VulgarLatin-44_bravium-1,,VulgarLatin,44_bravium,brabium,brabium,b r a b i u m,,appendixprobi,44,,^ b r a b i u m $,default,bravium non brabium,44
+Latin-45_pancarpus-1,,Latin,45_pancarpus,pancarpus,pancarpus,p a n k a r p u s,,appendixprobi,45,,^ p a n c a r p u s $,default,pancarpus non parcarpus,45
+VulgarLatin-45_pancarpus-1,,VulgarLatin,45_pancarpus,parcarpus,parcarpus,p a r k a r p u s,,appendixprobi,45,,^ p a r c a r p u s $,default,pancarpus non parcarpus,45
+Latin-46_theophilus-1,,Latin,46_theophilus,Theophilus,Theophilus,tʰ e o pʰ i l u s,,appendixprobi,46,,^ Th e o ph i l u s $,default,Theophilus non Izophilus,46
+VulgarLatin-46_theophilus-1,,VulgarLatin,46_theophilus,Izophilus,Izophilus,i z o pʰ i l u s,,appendixprobi,46,,^ I z o ph i l u s $,default,Theophilus non Izophilus,46
+Latin-47_monofagia-1,,Latin,47_monofagia,monofagia,monofagia,m o n o f a g i a,,appendixprobi,47,,^ m o n o f a g i a $,default,monofagia non monofagium,47
+VulgarLatin-47_monofagia-1,,VulgarLatin,47_monofagia,monofagium,monofagium,m o n o f a g i u m,,appendixprobi,47,,^ m o n o f a g i u m $,default,monofagia non monofagium,47
+Latin-48_byzacenus-1,,Latin,48_byzacenus,Byzacenus,Byzacenus,b j z a k e n u s,,appendixprobi,48,,^ B y z a c e n u s $,default,Byzacenus non Bizacinus,48
+VulgarLatin-48_byzacenus-1,,VulgarLatin,48_byzacenus,Bizacinus,Bizacinus,b i z a k i n u s,,appendixprobi,48,,^ B i z a c i n u s $,default,Byzacenus non Bizacinus,48
+Latin-49_capsensis-1,,Latin,49_capsensis,Capse[n]sis,Capse[n]sis,k a p s e n s i s,,appendixprobi,49,,^ Capse[n]sis $,default,Capse[n]sis non Capressis,49
+VulgarLatin-49_capsensis-1,,VulgarLatin,49_capsensis,Capressis,Capressis,k a p r e sː i s,,appendixprobi,49,,^ C a p r e ss i s $,default,Capse[n]sis non Capressis,49
+Latin-50_catulus-1,,Latin,50_catulus,catulus,catulus,k a t u l u s,,appendixprobi,50,,^ c a t u l u s $,default,catulus non catellus,50
+VulgarLatin-50_catulus-1,,VulgarLatin,50_catulus,catellus,catellus,k a t e lː u s,,appendixprobi,50,,^ c a t e ll u s $,default,catulus non catellus,50
+Latin-51_catulus-1,,Latin,51_catulus,[catulus,[catulus,k a t u l u s,,appendixprobi,51,,^ [catulus $,default,[catulus non ca&lt;te&gt;llus],51
+VulgarLatin-51_catulus-1,,VulgarLatin,51_catulus,ca<te>llus],ca<te>llus],k a t e lː u s,,appendixprobi,51,,^ ca<te>llus] $,default,[catulus non ca&lt;te&gt;llus],51
+Latin-52_doleus-1,,Latin,52_doleus,doleus,doleus,d o l e u s,,appendixprobi,52,,^ d o l eu s $,default,doleus non dolium,52
+VulgarLatin-52_doleus-1,,VulgarLatin,52_doleus,dolium,dolium,d o l i u m,,appendixprobi,52,,^ d o l i u m $,default,doleus non dolium,52
+Latin-53_calida-1,,Latin,53_calida,calida,calida,k a l i d a,,appendixprobi,53,,^ c a l i d a $,default,calida non calda,53
+VulgarLatin-53_calida-1,,VulgarLatin,53_calida,calda,calda,k a l d a,,appendixprobi,53,,^ c a l d a $,default,calida non calda,53
+Latin-54_frigida-1,,Latin,54_frigida,frigida,frigida,f r i g i d a,,appendixprobi,54,,^ f r i g i d a $,default,frigida non fricda,54
+VulgarLatin-54_frigida-1,,VulgarLatin,54_frigida,fricda,fricda,f r i k d a,,appendixprobi,54,,^ f r i c d a $,default,frigida non fricda,54
+Latin-55_vinea-1,,Latin,55_vinea,vinea,vinea,v i n e a,,appendixprobi,55,,^ v i n e a $,default,vinea non vinia,55
+VulgarLatin-55_vinea-1,,VulgarLatin,55_vinea,vinia,vinia,v i n i a,,appendixprobi,55,,^ v i n i a $,default,vinea non vinia,55
+Latin-56_tristis-1,,Latin,56_tristis,tristis,tristis,t r i s t i s,,appendixprobi,56,,^ t r i s t i s $,default,tristis non tristus,56
+VulgarLatin-56_tristis-1,,VulgarLatin,56_tristis,tristus,tristus,t r i s t u s,,appendixprobi,56,,^ t r i s t u s $,default,tristis non tristus,56
+Latin-57_tersus-1,,Latin,57_tersus,tersus,tersus,t e r s u s,,appendixprobi,57,,^ t e rs u s $,default,tersus non tertus,57
+VulgarLatin-57_tersus-1,,VulgarLatin,57_tersus,tertus,tertus,t e r t u s,,appendixprobi,57,,^ t e r t u s $,default,tersus non tertus,57
+Latin-58_umbilicus-1,,Latin,58_umbilicus,umbilicus,umbilicus,u m b i l i k u s,,appendixprobi,58,,^ u m b i l i c u s $,default,umbilicus non imbilicus,58
+VulgarLatin-58_umbilicus-1,,VulgarLatin,58_umbilicus,imbilicus,imbilicus,i m b i l i k u s,,appendixprobi,58,,^ i m b i l i c u s $,default,umbilicus non imbilicus,58
+Latin-59_turma-1,,Latin,59_turma,turma,turma,t u r m a,,appendixprobi,59,,^ t u r m a $,default,turma non torma,59
+VulgarLatin-59_turma-1,,VulgarLatin,59_turma,torma,torma,t o r m a,,appendixprobi,59,,^ t o r m a $,default,turma non torma,59
+Latin-60_caelebs-1,,Latin,60_caelebs,caelebs,caelebs,k ai l e b s,,appendixprobi,60,,^ c ae l e bs $,default,caelebs non celeps,60
+VulgarLatin-60_caelebs-1,,VulgarLatin,60_caelebs,celeps,celeps,k e l e p s,,appendixprobi,60,,^ c e l e ps $,default,caelebs non celeps,60
+Latin-61_ostium-1,,Latin,61_ostium,ostium,ostium,o s t i u m,,appendixprobi,61,,^ o s t i u m $,default,ostium non osteum,61
+VulgarLatin-61_ostium-1,,VulgarLatin,61_ostium,osteum,osteum,o s t e u m,,appendixprobi,61,,^ o s t eu m $,default,ostium non osteum,61
+Latin-62_flavus-1,,Latin,62_flavus,Flavus,Flavus,f l a v u s,,appendixprobi,62,,^ F l a v u s $,default,Flavus non Flaus,62
+VulgarLatin-62_flavus-1,,VulgarLatin,62_flavus,Flaus,Flaus,f l au s,,appendixprobi,62,,^ F l au s $,default,Flavus non Flaus,62
+Latin-63_cavea-1,,Latin,63_cavea,cavea,cavea,k a v e a,,appendixprobi,63,,^ c a v e a $,default,cavea non cavia,63
+VulgarLatin-63_cavea-1,,VulgarLatin,63_cavea,cavia,cavia,k a v i a,,appendixprobi,63,,^ c a v i a $,default,cavea non cavia,63
+Latin-64_senatus-1,,Latin,64_senatus,senatus,senatus,s e n a t u s,,appendixprobi,64,,^ s e n a t u s $,default,senatus non sinatus,64
+VulgarLatin-64_senatus-1,,VulgarLatin,64_senatus,sinatus,sinatus,s i n a t u s,,appendixprobi,64,,^ s i n a t u s $,default,senatus non sinatus,64
+Latin-65_brattea-1,,Latin,65_brattea,brattea,brattea,b r a tː e a,,appendixprobi,65,,^ b r a tt e a $,default,brattea non brattia,65
+VulgarLatin-65_brattea-1,,VulgarLatin,65_brattea,brattia,brattia,b r a tː i a,,appendixprobi,65,,^ b r a tt i a $,default,brattea non brattia,65
+Latin-66_cochlea-1,,Latin,66_cochlea,cochlea,cochlea,k o kʰ l e a,,appendixprobi,66,,^ c o ch l e a $,default,cochlea non coclia,66
+VulgarLatin-66_cochlea-1,,VulgarLatin,66_cochlea,coclia,coclia,k o k l i a,,appendixprobi,66,,^ c o c l i a $,default,cochlea non coclia,66
+Latin-67_cochleare-1,,Latin,67_cochleare,cochleare,cochleare,k o kʰ l e a r e,,appendixprobi,67,,^ c o ch l e a r e $,default,cochleare non cocliarium,67
+VulgarLatin-67_cochleare-1,,VulgarLatin,67_cochleare,cocliarium,cocliarium,k o k l i a r i u m,,appendixprobi,67,,^ c o c l i a r i u m $,default,cochleare non cocliarium,67
+Latin-68_palearium-1,,Latin,68_palearium,palearium,palearium,p a l e a r i u m,,appendixprobi,68,,^ p a l e a r i u m $,default,palearium non paliarium,68
+VulgarLatin-68_palearium-1,,VulgarLatin,68_palearium,paliarium,paliarium,p a l i a r i u m,,appendixprobi,68,,^ p a l i a r i u m $,default,palearium non paliarium,68
+Latin-69_primipilaris-1,,Latin,69_primipilaris,primipilaris,primipilaris,p r i m i p i l a r i s,,appendixprobi,69,,^ p r i m i p i l a r i s $,default,primipilaris non primipilarius,69
+VulgarLatin-69_primipilaris-1,,VulgarLatin,69_primipilaris,primipilarius,primipilarius,p r i m i p i l a r i u s,,appendixprobi,69,,^ p r i m i p i l a r i u s $,default,primipilaris non primipilarius,69
+Latin-70_alveus-1,,Latin,70_alveus,alveus,alveus,a l v e u s,,appendixprobi,70,,^ a l v eu s $,default,alveus non albeus,70
+VulgarLatin-70_alveus-1,,VulgarLatin,70_alveus,albeus,albeus,a l b e u s,,appendixprobi,70,,^ a l b eu s $,default,alveus non albeus,70
+Latin-71_glomus-1,,Latin,71_glomus,glomus,glomus,g l o m u s,,appendixprobi,71,,^ g l o m u s $,default,glomus non glovus,71
+VulgarLatin-71_glomus-1,,VulgarLatin,71_glomus,glovus,glovus,g l o v u s,,appendixprobi,71,,^ g l o v u s $,default,glomus non glovus,71
+Latin-72_lancea-1,,Latin,72_lancea,lancea,lancea,l a n k e a,,appendixprobi,72,,^ l a n c e a $,default,lancea non lancia,72
+VulgarLatin-72_lancea-1,,VulgarLatin,72_lancea,lancia,lancia,l a n k i a,,appendixprobi,72,,^ l a n c i a $,default,lancea non lancia,72
+Latin-73_favilla-1,,Latin,73_favilla,favilla,favilla,f a v i lː a,,appendixprobi,73,,^ f a v i ll a $,default,favilla non failla,73
+VulgarLatin-73_favilla-1,,VulgarLatin,73_favilla,failla,failla,f a i lː a,,appendixprobi,73,,^ f a i ll a $,default,favilla non failla,73
+Latin-74_orbis-1,,Latin,74_orbis,orbis,orbis,o r b i s,,appendixprobi,74,,^ o r b i s $,default,orbis non orbs,74
+VulgarLatin-74_orbis-1,,VulgarLatin,74_orbis,orbs,orbs,o r b s,,appendixprobi,74,,^ o r bs $,default,orbis non orbs,74
+Latin-75_formosus-1,,Latin,75_formosus,formosus,formosus,f o r m o s u s,,appendixprobi,75,,^ f o r m o s u s $,default,formosus non formunsus,75
+VulgarLatin-75_formosus-1,,VulgarLatin,75_formosus,formunsus,formunsus,f o r m u n s u s,,appendixprobi,75,,^ f o r m u ns u s $,default,formosus non formunsus,75
+Latin-76_ansa-1,,Latin,76_ansa,ansa,ansa,a n s a,,appendixprobi,76,,^ a ns a $,default,ansa non asa,76
+VulgarLatin-76_ansa-1,,VulgarLatin,76_ansa,asa,asa,a s a,,appendixprobi,76,,^ a s a $,default,ansa non asa,76
+Latin-77_flagellum-1,,Latin,77_flagellum,flagellum,flagellum,f l a g e lː u m,,appendixprobi,77,,^ f l a g e ll u m $,default,flagellum non fragellum,77
+VulgarLatin-77_flagellum-1,,VulgarLatin,77_flagellum,fragellum,fragellum,f r a g e lː u m,,appendixprobi,77,,^ f r a g e ll u m $,default,flagellum non fragellum,77
+Latin-78_calatus-1,,Latin,78_calatus,calatus,calatus,k a l a t u s,,appendixprobi,78,,^ c a l a t u s $,default,calatus non galatus,78
+VulgarLatin-78_calatus-1,,VulgarLatin,78_calatus,galatus,galatus,g a l a t u s,,appendixprobi,78,,^ g a l a t u s $,default,calatus non galatus,78
+Latin-79_digitus-1,,Latin,79_digitus,digitus,digitus,d i g i t u s,,appendixprobi,79,,^ d i g i t u s $,default,digitus non dicitus,79
+VulgarLatin-79_digitus-1,,VulgarLatin,79_digitus,dicitus,dicitus,d i k i t u s,,appendixprobi,79,,^ d i c i t u s $,default,digitus non dicitus,79
+Latin-80_solea-1,,Latin,80_solea,solea,solea,s o l e a,,appendixprobi,80,,^ s o l e a $,default,solea non solia,80
+VulgarLatin-80_solea-1,,VulgarLatin,80_solea,solia,solia,s o l i a,,appendixprobi,80,,^ s o l i a $,default,solea non solia,80
+Latin-81_calceus-1,,Latin,81_calceus,calceus,calceus,k a l k e u s,,appendixprobi,81,,^ c a l c eu s $,default,calceus non calcius,81
+VulgarLatin-81_calceus-1,,VulgarLatin,81_calceus,calcius,calcius,k a l k i u s,,appendixprobi,81,,^ c a l c i u s $,default,calceus non calcius,81
+Latin-82_iecur-1,,Latin,82_iecur,iecur,iecur,i e k u r,,appendixprobi,82,,^ i e c u r $,default,iecur non iocur,82
+VulgarLatin-82_iecur-1,,VulgarLatin,82_iecur,iocur,iocur,i o k u r,,appendixprobi,82,,^ i o c u r $,default,iecur non iocur,82
+Latin-83_auris-1,,Latin,83_auris,auris,auris,au r i s,,appendixprobi,83,,^ au r i s $,default,auris non oricla,83
+VulgarLatin-83_auris-1,,VulgarLatin,83_auris,oricla,oricla,o r i k l a,,appendixprobi,83,,^ o r i c l a $,default,auris non oricla,83
+Latin-84_camera-1,,Latin,84_camera,camera,camera,k a m e r a,,appendixprobi,84,,^ c a m e r a $,default,camera non cammara,84
+VulgarLatin-84_camera-1,,VulgarLatin,84_camera,cammara,cammara,k a mː a r a,,appendixprobi,84,,^ c a mm a r a $,default,camera non cammara,84
+Latin-85_pegma-1,,Latin,85_pegma,pegma,pegma,p e g m a,,appendixprobi,85,,^ p e g m a $,default,pegma non peuma,85
+VulgarLatin-85_pegma-1,,VulgarLatin,85_pegma,peuma,peuma,p e u m a,,appendixprobi,85,,^ p eu m a $,default,pegma non peuma,85
+Latin-86_cloaca-1,,Latin,86_cloaca,cloaca,cloaca,k l o a k a,,appendixprobi,86,,^ c l o a c a $,default,cloaca non cluaca,86
+VulgarLatin-86_cloaca-1,,VulgarLatin,86_cloaca,cluaca,cluaca,k l u a k a,,appendixprobi,86,,^ c l u a c a $,default,cloaca non cluaca,86
+Latin-87_festuca-1,,Latin,87_festuca,festuca,festuca,f e s t u k a,,appendixprobi,87,,^ f e s t u c a $,default,festuca non fis&lt;tuca&gt;,87
+VulgarLatin-87_festuca-1,,VulgarLatin,87_festuca,fis<tuca>,fis<tuca>,f i s t u k a,,appendixprobi,87,,^ f i s < t u c a > $,default,festuca non fis&lt;tuca&gt;,87
+Latin-88_ales-1,,Latin,88_ales,ales,ales,a l e s,,appendixprobi,88,,^ a l e s $,default,ales non &lt;alis&gt;,88
+VulgarLatin-88_ales-1,,VulgarLatin,88_ales,<alis>,<alis>,a l i s,,appendixprobi,88,,^ < a l i s > $,default,ales non &lt;alis&gt;,88
+Latin-89_facies-1,,Latin,89_facies,facies,facies,f a k i e s,,appendixprobi,89,,^ f a c i e s $,default,facies non fa&lt;ces&gt;,89
+VulgarLatin-89_facies-1,,VulgarLatin,89_facies,fa<ces>,fa<ces>,f a k e s,,appendixprobi,89,,^ f a < c e s > $,default,facies non fa&lt;ces&gt;,89
+Latin-90_cautes-1,,Latin,90_cautes,cautes,cautes,k au t e s,,appendixprobi,90,,^ c au t e s $,default,cautes non c&lt;autis&gt;,90
+VulgarLatin-90_cautes-1,,VulgarLatin,90_cautes,c<autis>,c<autis>,k au t i s,,appendixprobi,90,,^ c < au t i s > $,default,cautes non c&lt;autis&gt;,90
+Latin-91_plebes-1,,Latin,91_plebes,plebes,plebes,p l e b e s,,appendixprobi,91,,^ p l e b e s $,default,plebes non plevis,91
+VulgarLatin-91_plebes-1,,VulgarLatin,91_plebes,plevis,plevis,p l e v i s,,appendixprobi,91,,^ p l e v i s $,default,plebes non plevis,91
+Latin-92_vates-1,,Latin,92_vates,vates,vates,v a t e s,,appendixprobi,92,,^ v a t e s $,default,vates non vatis,92
+VulgarLatin-92_vates-1,,VulgarLatin,92_vates,vatis,vatis,v a t i s,,appendixprobi,92,,^ v a t i s $,default,vates non vatis,92
+Latin-93_tabes-1,,Latin,93_tabes,tabes,tabes,t a b e s,,appendixprobi,93,,^ t a b e s $,default,tabes non tavis,93
+VulgarLatin-93_tabes-1,,VulgarLatin,93_tabes,tavis,tavis,t a v i s,,appendixprobi,93,,^ t a v i s $,default,tabes non tavis,93
+Latin-94_suppellex-1,,Latin,94_suppellex,suppellex,suppellex,s u pː e lː e k s,,appendixprobi,94,,^ s u pp e ll e x $,default,suppellex non superlex,94
+VulgarLatin-94_suppellex-1,,VulgarLatin,94_suppellex,superlex,superlex,s u p e r l e k s,,appendixprobi,94,,^ s u p e r l e x $,default,suppellex non superlex,94
+Latin-95_apes-1,,Latin,95_apes,apes,apes,a p e s,,appendixprobi,95,,^ a p e s $,default,apes non apis,95
+VulgarLatin-95_apes-1,,VulgarLatin,95_apes,apis,apis,a p i s,,appendixprobi,95,,^ a p i s $,default,apes non apis,95
+Latin-96_nubes-1,,Latin,96_nubes,nubes,nubes,n u b e s,,appendixprobi,96,,^ n u b e s $,default,nubes non nubs,96
+VulgarLatin-96_nubes-1,,VulgarLatin,96_nubes,nubs,nubs,n u b s,,appendixprobi,96,,^ n u bs $,default,nubes non nubs,96
+Latin-97_suboles-1,,Latin,97_suboles,suboles,suboles,s u b o l e s,,appendixprobi,97,,^ s u b o l e s $,default,suboles non subolis,97
+VulgarLatin-97_suboles-1,,VulgarLatin,97_suboles,subolis,subolis,s u b o l i s,,appendixprobi,97,,^ s u b o l i s $,default,suboles non subolis,97
+Latin-98_vulpes-1,,Latin,98_vulpes,vulpes,vulpes,v u l p e s,,appendixprobi,98,,^ v u l p e s $,default,vulpes non vulpis,98
+VulgarLatin-98_vulpes-1,,VulgarLatin,98_vulpes,vulpis,vulpis,v u l p i s,,appendixprobi,98,,^ v u l p i s $,default,vulpes non vulpis,98
+Latin-99_palumbes-1,,Latin,99_palumbes,palumbes,palumbes,p a l u m b e s,,appendixprobi,99,,^ p a l u m b e s $,default,palumbes non palumbus,99
+VulgarLatin-99_palumbes-1,,VulgarLatin,99_palumbes,palumbus,palumbus,p a l u m b u s,,appendixprobi,99,,^ p a l u m b u s $,default,palumbes non palumbus,99
+Latin-100_lues-1,,Latin,100_lues,lues,lues,l u e s,,appendixprobi,100,,^ l u e s $,default,lues non luis,100
+VulgarLatin-100_lues-1,,VulgarLatin,100_lues,luis,luis,l u i s,,appendixprobi,100,,^ l u i s $,default,lues non luis,100
+Latin-101_deses-1,,Latin,101_deses,deses,deses,d e s e s,,appendixprobi,101,,^ d e s e s $,default,deses non desis,101
+VulgarLatin-101_deses-1,,VulgarLatin,101_deses,desis,desis,d e s i s,,appendixprobi,101,,^ d e s i s $,default,deses non desis,101
+Latin-102_reses-1,,Latin,102_reses,reses,reses,r e s e s,,appendixprobi,102,,^ r e s e s $,default,reses non resis,102
+VulgarLatin-102_reses-1,,VulgarLatin,102_reses,resis,resis,r e s i s,,appendixprobi,102,,^ r e s i s $,default,reses non resis,102
+Latin-103_vepres-1,,Latin,103_vepres,vepres,vepres,v e p r e s,,appendixprobi,103,,^ v e p r e s $,default,vepres non vepris,103
+VulgarLatin-103_vepres-1,,VulgarLatin,103_vepres,vepris,vepris,v e p r i s,,appendixprobi,103,,^ v e p r i s $,default,vepres non vepris,103
+Latin-104_fames-1,,Latin,104_fames,fames,fames,f a m e s,,appendixprobi,104,,^ f a m e s $,default,fames non famis,104
+VulgarLatin-104_fames-1,,VulgarLatin,104_fames,famis,famis,f a m i s,,appendixprobi,104,,^ f a m i s $,default,fames non famis,104
+Latin-105_clades-1,,Latin,105_clades,clades,clades,k l a d e s,,appendixprobi,105,,^ c l a d e s $,default,clades non cladis,105
+VulgarLatin-105_clades-1,,VulgarLatin,105_clades,cladis,cladis,k l a d i s,,appendixprobi,105,,^ c l a d i s $,default,clades non cladis,105
+Latin-106_syrtes-1,,Latin,106_syrtes,Syrtes,Syrtes,s j r t e s,,appendixprobi,106,,^ S y r t e s $,default,Syrtes non Syrtis,106
+VulgarLatin-106_syrtes-1,,VulgarLatin,106_syrtes,Syrtis,Syrtis,s j r t i s,,appendixprobi,106,,^ S y r t i s $,default,Syrtes non Syrtis,106
+Latin-107_aedes-1,,Latin,107_aedes,aedes,aedes,ai d e s,,appendixprobi,107,,^ ae d e s $,default,aedes non aedis,107
+VulgarLatin-107_aedes-1,,VulgarLatin,107_aedes,aedis,aedis,ai d i s,,appendixprobi,107,,^ ae d i s $,default,aedes non aedis,107
+Latin-108_sedes-1,,Latin,108_sedes,sedes,sedes,s e d e s,,appendixprobi,108,,^ s e d e s $,default,sedes non sedis,108
+VulgarLatin-108_sedes-1,,VulgarLatin,108_sedes,sedis,sedis,s e d i s,,appendixprobi,108,,^ s e d i s $,default,sedes non sedis,108
+Latin-109_proles-1,,Latin,109_proles,proles,proles,p r o l e s,,appendixprobi,109,,^ p r o l e s $,default,proles non prolis,109
+VulgarLatin-109_proles-1,,VulgarLatin,109_proles,prolis,prolis,p r o l i s,,appendixprobi,109,,^ p r o l i s $,default,proles non prolis,109
+Latin-110_draco-1,,Latin,110_draco,draco,draco,d r a k o,,appendixprobi,110,,^ d r a c o $,default,draco non dracco,110
+VulgarLatin-110_draco-1,,VulgarLatin,110_draco,dracco,dracco,d r a kː o,,appendixprobi,110,,^ d r a cc o $,default,draco non dracco,110
+Latin-111_oculus-1,,Latin,111_oculus,oculus,oculus,o k u l u s,,appendixprobi,111,,^ o c u l u s $,default,oculus non oclus,111
+VulgarLatin-111_oculus-1,,VulgarLatin,111_oculus,oclus,oclus,o k l u s,,appendixprobi,111,,^ o c l u s $,default,oculus non oclus,111
+Latin-112_aqua-1,,Latin,112_aqua,aqua,aqua,a kʷ a,,appendixprobi,112,,^ a qu a $,default,aqua non acqua,112
+VulgarLatin-112_aqua-1,,VulgarLatin,112_aqua,acqua,acqua,a kʷː a,,appendixprobi,112,,^ a cqu a $,default,aqua non acqua,112
+Latin-113_alium-1,,Latin,113_alium,alium,alium,a l i u m,,appendixprobi,113,,^ a l i u m $,default,alium non aleum,113
+VulgarLatin-113_alium-1,,VulgarLatin,113_alium,aleum,aleum,a l e u m,,appendixprobi,113,,^ a l eu m $,default,alium non aleum,113
+Latin-114_lilium-1,,Latin,114_lilium,lilium,lilium,l i l i u m,,appendixprobi,114,,^ l i l i u m $,default,lilium non lileum,114
+VulgarLatin-114_lilium-1,,VulgarLatin,114_lilium,lileum,lileum,l i l e u m,,appendixprobi,114,,^ l i l eu m $,default,lilium non lileum,114
+Latin-115_glis-1,,Latin,115_glis,glis,glis,g l i s,,appendixprobi,115,,^ g l i s $,default,glis non &lt;gl&gt;iris,115
+VulgarLatin-115_glis-1,,VulgarLatin,115_glis,<gl>iris,<gl>iris,g l i r i s,,appendixprobi,115,,^ < g l > i r i s $,default,glis non &lt;gl&gt;iris,115
+Latin-116_delirus-1,,Latin,116_delirus,delirus,delirus,d e l i r u s,,appendixprobi,116,,^ d e l i r u s $,default,delirus non delerus,116
+VulgarLatin-116_delirus-1,,VulgarLatin,116_delirus,delerus,delerus,d e l e r u s,,appendixprobi,116,,^ d e l e r u s $,default,delirus non delerus,116
+Latin-117_tinea-1,,Latin,117_tinea,tinea,tinea,t i n e a,,appendixprobi,117,,^ t i n e a $,default,tinea non ti&lt;nia&gt;,117
+VulgarLatin-117_tinea-1,,VulgarLatin,117_tinea,ti<nia>,ti<nia>,t i n i a,,appendixprobi,117,,^ t i < n i a > $,default,tinea non ti&lt;nia&gt;,117
+Latin-118_exter-1,,Latin,118_exter,exter,exter,e k s t e r,,appendixprobi,118,,^ e x t e r $,default,exter non extraneus,118
+VulgarLatin-118_exter-1,,VulgarLatin,118_exter,extraneus,extraneus,e k s t r a n e u s,,appendixprobi,118,,^ e x t r a n eu s $,default,exter non extraneus,118
+Latin-119_clamis-1,,Latin,119_clamis,clamis,clamis,k l a m i s,,appendixprobi,119,,^ c l a m i s $,default,clamis non clamus,119
+VulgarLatin-119_clamis-1,,VulgarLatin,119_clamis,clamus,clamus,k l a m u s,,appendixprobi,119,,^ c l a m u s $,default,clamis non clamus,119
+Latin-120_vir-1,,Latin,120_vir,vir,vir,v i r,,appendixprobi,120,,^ v i r $,default,vir non vyr,120
+VulgarLatin-120_vir-1,,VulgarLatin,120_vir,vyr,vyr,v j r,,appendixprobi,120,,^ v y r $,default,vir non vyr,120
+Latin-121_virgo-1,,Latin,121_virgo,virgo,virgo,v i r g o,,appendixprobi,121,,^ v i r g o $,default,virgo non vyrgo,121
+VulgarLatin-121_virgo-1,,VulgarLatin,121_virgo,vyrgo,vyrgo,v j r g o,,appendixprobi,121,,^ v y r g o $,default,virgo non vyrgo,121
+Latin-122_virga-1,,Latin,122_virga,virga,virga,v i r g a,,appendixprobi,122,,^ v i r g a $,default,virga non vyrga,122
+VulgarLatin-122_virga-1,,VulgarLatin,122_virga,vyrga,vyrga,v j r g a,,appendixprobi,122,,^ v y r g a $,default,virga non vyrga,122
+Latin-123_occasio-1,,Latin,123_occasio,occasio,occasio,o kː a s i o,,appendixprobi,123,,^ o cc a s i o $,default,occasio non occansio,123
+VulgarLatin-123_occasio-1,,VulgarLatin,123_occasio,occansio,occansio,o kː a n s i o,,appendixprobi,123,,^ o cc a ns i o $,default,occasio non occansio,123
+Latin-124_caligo-1,,Latin,124_caligo,caligo,caligo,k a l i g o,,appendixprobi,124,,^ c a l i g o $,default,caligo non calligo,124
+VulgarLatin-124_caligo-1,,VulgarLatin,124_caligo,calligo,calligo,k a lː i g o,,appendixprobi,124,,^ c a ll i g o $,default,caligo non calligo,124
+Latin-125_terebra-1,,Latin,125_terebra,terebra,terebra,t e r e b r a,,appendixprobi,125,,^ t e r e b r a $,default,terebra non telebra,125
+VulgarLatin-125_terebra-1,,VulgarLatin,125_terebra,telebra,telebra,t e l e b r a,,appendixprobi,125,,^ t e l e b r a $,default,terebra non telebra,125
+Latin-126_effeminatus-1,,Latin,126_effeminatus,effeminatus,effeminatus,e fː e m i n a t u s,,appendixprobi,126,,^ e ff e m i n a t u s $,default,effeminatus non imfimenatus,126
+VulgarLatin-126_effeminatus-1,,VulgarLatin,126_effeminatus,imfimenatus,imfimenatus,i m f i m e n a t u s,,appendixprobi,126,,^ i m f i m e n a t u s $,default,effeminatus non imfimenatus,126
+Latin-127_botruus-1,,Latin,127_botruus,botruus,botruus,b o t r uː s,,appendixprobi,127,,^ b o t r uu s $,default,botruus non butro,127
+VulgarLatin-127_botruus-1,,VulgarLatin,127_botruus,butro,butro,b u t r o,,appendixprobi,127,,^ b u t r o $,default,botruus non butro,127
+Latin-128_grus-1,,Latin,128_grus,grus,grus,g r u s,,appendixprobi,128,,^ g r u s $,default,grus non gruis,128
+VulgarLatin-128_grus-1,,VulgarLatin,128_grus,gruis,gruis,g r u i s,,appendixprobi,128,,^ g r u i s $,default,grus non gruis,128
+Latin-129_anser-1,,Latin,129_anser,anser,anser,a n s e r,,appendixprobi,129,,^ a ns e r $,default,anser non ansar,129
+VulgarLatin-129_anser-1,,VulgarLatin,129_anser,ansar,ansar,a n s a r,,appendixprobi,129,,^ a ns a r $,default,anser non ansar,129
+Latin-130_tabula-1,,Latin,130_tabula,tabula,tabula,t a b u l a,,appendixprobi,130,,^ t a b u l a $,default,tabula non tabla,130
+VulgarLatin-130_tabula-1,,VulgarLatin,130_tabula,tabla,tabla,t a b l a,,appendixprobi,130,,^ t a b l a $,default,tabula non tabla,130
+Latin-131_puella-1,,Latin,131_puella,puella,puella,p u e lː a,,appendixprobi,131,,^ p u e ll a $,default,puella non poella,131
+VulgarLatin-131_puella-1,,VulgarLatin,131_puella,poella,poella,p o e lː a,,appendixprobi,131,,^ p o e ll a $,default,puella non poella,131
+Latin-132_balteus-1,,Latin,132_balteus,balteus,balteus,b a l t e u s,,appendixprobi,132,,^ b a l t eu s $,default,balteus non baltius,132
+VulgarLatin-132_balteus-1,,VulgarLatin,132_balteus,baltius,baltius,b a l t i u s,,appendixprobi,132,,^ b a l t i u s $,default,balteus non baltius,132
+Latin-133_fax-1,,Latin,133_fax,fax,fax,f a k s,,appendixprobi,133,,^ f a x $,default,fax non facla,133
+VulgarLatin-133_fax-1,,VulgarLatin,133_fax,facla,facla,f a k l a,,appendixprobi,133,,^ f a c l a $,default,fax non facla,133
+Latin-134_vicocapitisafricae-1,,Latin,134_vicocapitisafricae,vico capitis Africae,vico_capitis_Africae,v i k o + k a p i t i s + a f r i k ai,,appendixprobi,134,,^ v i c o _ c a p i t i s _ A f r i c ae $,default,vico capitis Africae non vico caput Africae,134
+VulgarLatin-134_vicocapitisafricae-1,,VulgarLatin,134_vicocapitisafricae,vico caput Africae,vico_caput_Africae,v i k o + k a p u t + a f r i k ai,,appendixprobi,134,,^ v i c o _ c a p u t _ A f r i c ae $,default,vico capitis Africae non vico caput Africae,134
+Latin-135_vicotabuliproconsolis-1,,Latin,135_vicotabuliproconsolis,vico tabuli proconsolis,vico_tabuli_proconsolis,v i k o + t a b u l i + p r o k o n s o l i s,,appendixprobi,135,,^ v i c o _ t a b u l i _ p r o c o ns o l i s $,default,vico tabuli proconsolis non vico tabulu proconsulis,135
+VulgarLatin-135_vicotabuliproconsolis-1,,VulgarLatin,135_vicotabuliproconsolis,vico tabulu proconsulis,vico_tabulu_proconsulis,v i k o + t a b u l u + p r o k o n s u l i s,,appendixprobi,135,,^ v i c o _ t a b u l u _ p r o c o ns u l i s $,default,vico tabuli proconsolis non vico tabulu proconsulis,135
+Latin-136_vicocastrorum-1,,Latin,136_vicocastrorum,vico castrorum,vico_castrorum,v i k o + k a s t r o r u m,,appendixprobi,136,,^ v i c o _ c a s t r o r u m $,default,vico castrorum non vico castrae,136
+VulgarLatin-136_vicocastrorum-1,,VulgarLatin,136_vicocastrorum,vico castrae,vico_castrae,v i k o + k a s t r ai,,appendixprobi,136,,^ v i c o _ c a s t r ae $,default,vico castrorum non vico castrae,136
+Latin-137_vicostrobili-1,,Latin,137_vicostrobili,vico strobili,vico_strobili,v i k o + s t r o b i l i,,appendixprobi,137,,^ v i c o _ s t r o b i l i $,default,vico strobili non vico trobili,137
+VulgarLatin-137_vicostrobili-1,,VulgarLatin,137_vicostrobili,vico trobili,vico_trobili,v i k o + t r o b i l i,,appendixprobi,137,,^ v i c o _ t r o b i l i $,default,vico strobili non vico trobili,137
+Latin-138_teter-1,,Latin,138_teter,teter,teter,t e t e r,,appendixprobi,138,,^ t e t e r $,default,teter non tetrus,138
+VulgarLatin-138_teter-1,,VulgarLatin,138_teter,tetrus,tetrus,t e t r u s,,appendixprobi,138,,^ t e t r u s $,default,teter non tetrus,138
+Latin-139_aper-1,,Latin,139_aper,aper,aper,a p e r,,appendixprobi,139,,^ a p e r $,default,aper non aprus,139
+VulgarLatin-139_aper-1,,VulgarLatin,139_aper,aprus,aprus,a p r u s,,appendixprobi,139,,^ a p r u s $,default,aper non aprus,139
+Latin-140_amycdala-1,,Latin,140_amycdala,amycdala,amycdala,a m y k d a l a,,appendixprobi,140,,^ amyc d a l a $,default,amycdala non amiddula,140
+VulgarLatin-140_amycdala-1,,VulgarLatin,140_amycdala,amiddula,amiddula,a m i dː u l a,,appendixprobi,140,,^ a m i dd u l a $,default,amycdala non amiddula,140
+Latin-141_faseolus-1,,Latin,141_faseolus,faseolus,faseolus,f a s e o l u s,,appendixprobi,141,,^ f a s e o l u s $,default,faseolus non fassiolus,141
+VulgarLatin-141_faseolus-1,,VulgarLatin,141_faseolus,fassiolus,fassiolus,f a sː i o l u s,,appendixprobi,141,,^ f a ss i o l u s $,default,faseolus non fassiolus,141
+Latin-142_stabulum-1,,Latin,142_stabulum,stabulum,stabulum,s t a b u l u m,,appendixprobi,142,,^ s t a b u l u m $,default,stabulum non stablum,142
+VulgarLatin-142_stabulum-1,,VulgarLatin,142_stabulum,stablum,stablum,s t a b l u m,,appendixprobi,142,,^ s t a b l u m $,default,stabulum non stablum,142
+Latin-143_triclinium-1,,Latin,143_triclinium,triclinium,triclinium,t r i k l i n i u m,,appendixprobi,143,,^ t r i c l i n i u m $,default,triclinium non triclinu,143
+VulgarLatin-143_triclinium-1,,VulgarLatin,143_triclinium,triclinu,triclinu,t r i k l i n u,,appendixprobi,143,,^ t r i c l i n u $,default,triclinium non triclinu,143
+Latin-144_dimidius-1,,Latin,144_dimidius,dimidius,dimidius,d i m i d i u s,,appendixprobi,144,,^ d i m i d i u s $,default,dimidius non demidius,144
+VulgarLatin-144_dimidius-1,,VulgarLatin,144_dimidius,demidius,demidius,d e m i d i u s,,appendixprobi,144,,^ d e m i d i u s $,default,dimidius non demidius,144
+Latin-145_pusillus-1,,Latin,145_pusillus,pusillus,pusillus,p u s i lː u s,,appendixprobi,145,,^ p u s i ll u s $,default,pusillus non pisinnus,145
+VulgarLatin-145_pusillus-1,,VulgarLatin,145_pusillus,pisinnus,pisinnus,p i s i nː u s,,appendixprobi,145,,^ p i s i nn u s $,default,pusillus non pisinnus,145
+Latin-146_meretrix-1,,Latin,146_meretrix,meretrix,meretrix,m e r e t r i k s,,appendixprobi,146,,^ m e r e t r i x $,default,meretrix non menetris,146
+VulgarLatin-146_meretrix-1,,VulgarLatin,146_meretrix,menetris,menetris,m e n e t r i s,,appendixprobi,146,,^ m e n e t r i s $,default,meretrix non menetris,146
+Latin-147_aries-1,,Latin,147_aries,aries,aries,a r i e s,,appendixprobi,147,,^ a r i e s $,default,aries non ariex,147
+VulgarLatin-147_aries-1,,VulgarLatin,147_aries,ariex,ariex,a r i e k s,,appendixprobi,147,,^ a r i e x $,default,aries non ariex,147
+Latin-148_persica-1,,Latin,148_persica,pe<rsica>,pe<rsica>,p e r s i k a,,appendixprobi,148,,^ p e < rs i c a > $,default,pe&lt;rsica&gt; non pessica,148
+VulgarLatin-148_persica-1,,VulgarLatin,148_persica,pessica,pessica,p e sː i k a,,appendixprobi,148,,^ p e ss i c a $,default,pe&lt;rsica&gt; non pessica,148
+Latin-149_dysentericus-1,,Latin,149_dysentericus,dys<entericus,dys<entericus,d y s e n t e r i k u s,,appendixprobi,149,,^dys < e n t e r i c u s $,default,dys&lt;entericus non disinte&gt;ricus,149
+VulgarLatin-149_dysentericus-1,,VulgarLatin,149_dysentericus,disinte>ricus,disinte>ricus,d i s i n t e r i k u s,,appendixprobi,149,,^ d i s i n t e > r i c u s $,default,dys&lt;entericus non disinte&gt;ricus,149
+Latin-150_opobalsamum-1,,Latin,150_opobalsamum,opobalsamum,opobalsamum,o p o b a l s a m u m,,appendixprobi,150,,^ o p o b a ls a m u m $,default,opobalsamum non ababalsamum,150
+VulgarLatin-150_opobalsamum-1,,VulgarLatin,150_opobalsamum,ababalsamum,ababalsamum,a b a b a l s a m u m,,appendixprobi,150,,^ a b a b a ls a m u m $,default,opobalsamum non ababalsamum,150
+Latin-151_mensa-1,,Latin,151_mensa,mensa,mensa,m e n s a,,appendixprobi,151,,^ m e ns a $,default,mensa non mesa,151
+VulgarLatin-151_mensa-1,,VulgarLatin,151_mensa,mesa,mesa,m e s a,,appendixprobi,151,,^ m e s a $,default,mensa non mesa,151
+Latin-152_raucus-1,,Latin,152_raucus,raucus,raucus,r au k u s,,appendixprobi,152,,^ r au c u s $,default,raucus non ra[u]cus,152
+VulgarLatin-152_raucus-1,,VulgarLatin,152_raucus,ra[u]cus,ra[u]cus,r au k u s,,appendixprobi,152,,^ ra[u]cus $,default,raucus non ra[u]cus,152
+Latin-153_auctor-1,,Latin,153_auctor,auctor,auctor,au k t o r,,appendixprobi,153,,^ au c t o r $,default,auctor non autor,153
+VulgarLatin-153_auctor-1,,VulgarLatin,153_auctor,autor,autor,au t o r,,appendixprobi,153,,^ au t o r $,default,auctor non autor,153
+Latin-154_auctoritas-1,,Latin,154_auctoritas,auctoritas,auctoritas,au k t o r i t a s,,appendixprobi,154,,^ au c t o r i t a s $,default,auctoritas non autoritas,154
+VulgarLatin-154_auctoritas-1,,VulgarLatin,154_auctoritas,autoritas,autoritas,au t o r i t a s,,appendixprobi,154,,^ au t o r i t a s $,default,auctoritas non autoritas,154
+Latin-155_ipse-1,,Latin,155_ipse,ip<se>,ip<se>,i p s e,,appendixprobi,155,,^ i p <s e > $,default,ip&lt;se&gt; non ip&lt;sus&gt;,155
+VulgarLatin-155_ipse-1,,VulgarLatin,155_ipse,ip<sus>,ip<sus>,i p s u s,,appendixprobi,155,,^ i p <s u s > $,default,ip&lt;se&gt; non ip&lt;sus&gt;,155
+Latin-156_linteum-1,,Latin,156_linteum,linteum,linteum,l i n t e u m,,appendixprobi,156,,^ l i n t eu m $,default,linteum non lintium,156
+VulgarLatin-156_linteum-1,,VulgarLatin,156_linteum,lintium,lintium,l i n t i u m,,appendixprobi,156,,^ l i n t i u m $,default,linteum non lintium,156
+Latin-157_a-1,,Latin,157_a,a< >,a<_>,a,,appendixprobi,157,,^ a <_> $,default,a&lt; &gt; non &lt; &gt;a,157
+VulgarLatin-157_a-1,,VulgarLatin,157_a,< >a,<_>a,a,,appendixprobi,157,,^ <_> a $,default,a&lt; &gt; non &lt; &gt;a,157
+Latin-158_terraemotus-1,,Latin,158_terraemotus,terraemotus,terraemotus,t e rː ai m o t u s,,appendixprobi,158,,^ t e rr ae m o t u s $,default,terraemotus non terrimotium,158
+VulgarLatin-158_terraemotus-1,,VulgarLatin,158_terraemotus,terrimotium,terrimotium,t e rː i m o t i u m,,appendixprobi,158,,^ t e rr i m o t i u m $,default,terraemotus non terrimotium,158
+Latin-159_noxius-1,,Latin,159_noxius,noxius,noxius,n o k s i u s,,appendixprobi,159,,^ n o x i u s $,default,noxius non noxeus,159
+VulgarLatin-159_noxius-1,,VulgarLatin,159_noxius,noxeus,noxeus,n o k s e u s,,appendixprobi,159,,^ n o x eu s $,default,noxius non noxeus,159
+Latin-160_coruscus-1,,Latin,160_coruscus,coruscus,coruscus,k o r u s k u s,,appendixprobi,160,,^ c o r u s c u s $,default,coruscus non scoriscus,160
+VulgarLatin-160_coruscus-1,,VulgarLatin,160_coruscus,scoriscus,scoriscus,s k o r i s k u s,,appendixprobi,160,,^ s c o r i s c u s $,default,coruscus non scoriscus,160
+Latin-161_tonitru-1,,Latin,161_tonitru,tonitru,tonitru,t o n i t r u,,appendixprobi,161,,^ t o n i t r u $,default,tonitru non tonotru,161
+VulgarLatin-161_tonitru-1,,VulgarLatin,161_tonitru,tonotru,tonotru,t o n o t r u,,appendixprobi,161,,^ t o n o t r u $,default,tonitru non tonotru,161
+Latin-162_passer-1,,Latin,162_passer,passer,passer,p a sː e r,,appendixprobi,162,,^ p a ss e r $,default,passer non passar,162
+VulgarLatin-162_passer-1,,VulgarLatin,162_passer,passar,passar,p a sː a r,,appendixprobi,162,,^ p a ss a r $,default,passer non passar,162
+Latin-163_hirundo-1,,Latin,163_hirundo,hirundo,hirundo,h i r u n d o,,appendixprobi,163,,^ h i r u n d o $,default,hirundo non herundo,163
+VulgarLatin-163_hirundo-1,,VulgarLatin,163_hirundo,herundo,herundo,h e r u n d o,,appendixprobi,163,,^ h e r u n d o $,default,hirundo non herundo,163
+Latin-164_obstetrix-1,,Latin,164_obstetrix,obstetrix,obstetrix,o b s t e t r i k s,,appendixprobi,164,,^ o bs t e t r i x $,default,obstetrix non ops&lt;etris&gt;,164
+VulgarLatin-164_obstetrix-1,,VulgarLatin,164_obstetrix,ops<etris>,ops<etris>,o p s e t r i s,,appendixprobi,164,,^ o ps < e t r i s > $,default,obstetrix non ops&lt;etris&gt;,164
+Latin-165_capitulum-1,,Latin,165_capitulum,capitulum,capitulum,k a p i t u l u m,,appendixprobi,165,,^ c a p i t u l u m $,default,capitulum non capiclum,165
+VulgarLatin-165_capitulum-1,,VulgarLatin,165_capitulum,capiclum,capiclum,k a p i k l u m,,appendixprobi,165,,^ c a p i c l u m $,default,capitulum non capiclum,165
+Latin-166_noverca-1,,Latin,166_noverca,noverca,noverca,n o v e r k a,,appendixprobi,166,,^ n o v e r c a $,default,noverca non novarca,166
+VulgarLatin-166_noverca-1,,VulgarLatin,166_noverca,novarca,novarca,n o v a r k a,,appendixprobi,166,,^ n o v a r c a $,default,noverca non novarca,166
+Latin-167_nurus-1,,Latin,167_nurus,nurus,nurus,n u r u s,,appendixprobi,167,,^ n u r u s $,default,nurus non nura,167
+VulgarLatin-167_nurus-1,,VulgarLatin,167_nurus,nura,nura,n u r a,,appendixprobi,167,,^ n u r a $,default,nurus non nura,167
+Latin-168_socrus-1,,Latin,168_socrus,socrus,socrus,s o k r u s,,appendixprobi,168,,^ s o c r u s $,default,socrus non socra,168
+VulgarLatin-168_socrus-1,,VulgarLatin,168_socrus,socra,socra,s o k r a,,appendixprobi,168,,^ s o c r a $,default,socrus non socra,168
+Latin-169_neptis-1,,Latin,169_neptis,neptis,neptis,n e p t i s,,appendixprobi,169,,^ n e p t i s $,default,neptis non nepticla,169
+VulgarLatin-169_neptis-1,,VulgarLatin,169_neptis,nepticla,nepticla,n e p t i k l a,,appendixprobi,169,,^ n e p t i c l a $,default,neptis non nepticla,169
+Latin-170_anus-1,,Latin,170_anus,anus,anus,a n u s,,appendixprobi,170,,^ a n u s $,default,anus non anucla,170
+VulgarLatin-170_anus-1,,VulgarLatin,170_anus,anucla,anucla,a n u k l a,,appendixprobi,170,,^ a n u c l a $,default,anus non anucla,170
+Latin-171_tondeo-1,,Latin,171_tondeo,tondeo,tondeo,t o n d e o,,appendixprobi,171,,^ t o n d e o $,default,tondeo non detundo,171
+VulgarLatin-171_tondeo-1,,VulgarLatin,171_tondeo,detundo,detundo,d e t u n d o,,appendixprobi,171,,^ d e t u n d o $,default,tondeo non detundo,171
+Latin-172_rivus-1,,Latin,172_rivus,rivus,rivus,r i v u s,,appendixprobi,172,,^ r i v u s $,default,rivus non rius,172
+VulgarLatin-172_rivus-1,,VulgarLatin,172_rivus,rius,rius,r i u s,,appendixprobi,172,,^ r i u s $,default,rivus non rius,172
+Latin-173_imago-1,,Latin,173_imago,imago,imago,i m a g o,,appendixprobi,173,,^ i m a g o $,default,imago non &lt; &gt;,173
+VulgarLatin-173_imago-1,,VulgarLatin,173_imago,< >,<_>,,,appendixprobi,173,,^ <_> $,default,imago non &lt; &gt;,173
+Latin-174_pavor-1,,Latin,174_pavor,pavor,pavor,p a v o r,,appendixprobi,174,,^ p a v o r $,default,pavor non paor,174
+VulgarLatin-174_pavor-1,,VulgarLatin,174_pavor,paor,paor,p a o r,,appendixprobi,174,,^ p a o r $,default,pavor non paor,174
+Latin-175_coluber-1,,Latin,175_coluber,coluber,coluber,k o l u b e r,,appendixprobi,175,,^ c o l u b e r $,default,coluber non colober,175
+VulgarLatin-175_coluber-1,,VulgarLatin,175_coluber,colober,colober,k o l o b e r,,appendixprobi,175,,^ c o l o b e r $,default,coluber non colober,175
+Latin-176_adipes-1,,Latin,176_adipes,adipes,adipes,a d i p e s,,appendixprobi,176,,^ a d i p e s $,default,adipes non alipes,176
+VulgarLatin-176_adipes-1,,VulgarLatin,176_adipes,alipes,alipes,a l i p e s,,appendixprobi,176,,^ a l i p e s $,default,adipes non alipes,176
+Latin-177_sibilus-1,,Latin,177_sibilus,sibilus,sibilus,s i b i l u s,,appendixprobi,177,,^ s i b i l u s $,default,sibilus non sifilus,177
+VulgarLatin-177_sibilus-1,,VulgarLatin,177_sibilus,sifilus,sifilus,s i f i l u s,,appendixprobi,177,,^ s i f i l u s $,default,sibilus non sifilus,177
+Latin-178_frustum-1,,Latin,178_frustum,frustum,frustum,f r u s t u m,,appendixprobi,178,,^ f r u s t u m $,default,frustum non frustrum,178
+VulgarLatin-178_frustum-1,,VulgarLatin,178_frustum,frustrum,frustrum,f r u s t r u m,,appendixprobi,178,,^ f r u s t r u m $,default,frustum non frustrum,178
+Latin-179_plebs-1,,Latin,179_plebs,plebs,plebs,p l e b s,,appendixprobi,179,,^ p l e bs $,default,plebs non pleps,179
+VulgarLatin-179_plebs-1,,VulgarLatin,179_plebs,pleps,pleps,p l e p s,,appendixprobi,179,,^ p l e ps $,default,plebs non pleps,179
+Latin-180_garrulus-1,,Latin,180_garrulus,garrulus,garrulus,g a rː u l u s,,appendixprobi,180,,^ g a rr u l u s $,default,garrulus non garulus,180
+VulgarLatin-180_garrulus-1,,VulgarLatin,180_garrulus,garulus,garulus,g a r u l u s,,appendixprobi,180,,^ g a r u l u s $,default,garrulus non garulus,180
+Latin-181_parentalia-1,,Latin,181_parentalia,parentalia,parentalia,p a r e n t a l i a,,appendixprobi,181,,^ p a r e n t a l i a $,default,parentalia non parantalia,181
+VulgarLatin-181_parentalia-1,,VulgarLatin,181_parentalia,parantalia,parantalia,p a r a n t a l i a,,appendixprobi,181,,^ p a r a n t a l i a $,default,parentalia non parantalia,181
+Latin-182_poples-1,,Latin,182_poples,poples,poples,p o p l e s,,appendixprobi,182,,^ p o p l e s $,default,poples non poplex,182
+VulgarLatin-182_poples-1,,VulgarLatin,182_poples,poplex,poplex,p o p l e k s,,appendixprobi,182,,^ p o p l e x $,default,poples non poplex,182
+Latin-183_locuples-1,,Latin,183_locuples,locuples,locuples,l o k u p l e s,,appendixprobi,183,,^ l o c u p l e s $,default,locuples non locuplex,183
+VulgarLatin-183_locuples-1,,VulgarLatin,183_locuples,locuplex,locuplex,l o k u p l e k s,,appendixprobi,183,,^ l o c u p l e x $,default,locuples non locuplex,183
+Latin-184_robigo-1,,Latin,184_robigo,robigo,robigo,r o b i g o,,appendixprobi,184,,^ r o b i g o $,default,robigo non rubigo,184
+VulgarLatin-184_robigo-1,,VulgarLatin,184_robigo,rubigo,rubigo,r u b i g o,,appendixprobi,184,,^ r u b i g o $,default,robigo non rubigo,184
+Latin-185_plasta-1,,Latin,185_plasta,plasta,plasta,p l a s t a,,appendixprobi,185,,^ p l a s t a $,default,plasta non blasta,185
+VulgarLatin-185_plasta-1,,VulgarLatin,185_plasta,blasta,blasta,b l a s t a,,appendixprobi,185,,^ b l a s t a $,default,plasta non blasta,185
+Latin-186_bipennis-1,,Latin,186_bipennis,bipennis,bipennis,b i p e nː i s,,appendixprobi,186,,^ b i p e nn i s $,default,bipennis non bipinnis,186
+VulgarLatin-186_bipennis-1,,VulgarLatin,186_bipennis,bipinnis,bipinnis,b i p i nː i s,,appendixprobi,186,,^ b i p i nn i s $,default,bipennis non bipinnis,186
+Latin-187_hermeneumata-1,,Latin,187_hermeneumata,hermeneumata,hermeneumata,h e r m e n e u m a t a,,appendixprobi,187,,^ h e r m e n eu m a t a $,default,hermeneumata non erminomata,187
+VulgarLatin-187_hermeneumata-1,,VulgarLatin,187_hermeneumata,erminomata,erminomata,e r m i n o m a t a,,appendixprobi,187,,^ e r m i n o m a t a $,default,hermeneumata non erminomata,187
+Latin-188_tymum-1,,Latin,188_tymum,tymum,tymum,t j m u m,,appendixprobi,188,,^ t y m u m $,default,tymum non tumum,188
+VulgarLatin-188_tymum-1,,VulgarLatin,188_tymum,tumum,tumum,t u m u m,,appendixprobi,188,,^ t u m u m $,default,tymum non tumum,188
+Latin-189_strofa-1,,Latin,189_strofa,strofa,strofa,s t r o f a,,appendixprobi,189,,^ s t r o f a $,default,strofa non stropa,189
+VulgarLatin-189_strofa-1,,VulgarLatin,189_strofa,stropa,stropa,s t r o p a,,appendixprobi,189,,^ s t r o p a $,default,strofa non stropa,189
+Latin-190_bitumen-1,,Latin,190_bitumen,bitumen,bitumen,b i t u m e n,,appendixprobi,190,,^ b i t u m e n $,default,bitumen non butumen,190
+VulgarLatin-190_bitumen-1,,VulgarLatin,190_bitumen,butumen,butumen,b u t u m e n,,appendixprobi,190,,^ b u t u m e n $,default,bitumen non butumen,190
+Latin-191_mergus-1,,Latin,191_mergus,mergus,mergus,m e r g u s,,appendixprobi,191,,^ m e r g u s $,default,mergus non mergulus,191
+VulgarLatin-191_mergus-1,,VulgarLatin,191_mergus,mergulus,mergulus,m e r g u l u s,,appendixprobi,191,,^ m e r g u l u s $,default,mergus non mergulus,191
+Latin-192_myrta-1,,Latin,192_myrta,myrta,myrta,m y r t a,,appendixprobi,192,,^myrt a $,default,myrta non murta,192
+VulgarLatin-192_myrta-1,,VulgarLatin,192_myrta,murta,murta,m u r t a,,appendixprobi,192,,^ m u r t a $,default,myrta non murta,192
+Latin-193_zizipus-1,,Latin,193_zizipus,zizipu<s>,zizipu<s>,z i z i p u s,,appendixprobi,193,,^ z i z i p u <s > $,default,zizipu&lt;s&gt; non zizup&lt;u&gt;s,193
+VulgarLatin-193_zizipus-1,,VulgarLatin,193_zizipus,zizup<u>s,zizup<u>s,z i z u p u s,,appendixprobi,193,,^ z i z u p < u >s $,default,zizipu&lt;s&gt; non zizup&lt;u&gt;s,193
+Latin-194_iunipirus-1,,Latin,194_iunipirus,iunipirus,iunipirus,i u n i p i r u s,,appendixprobi,194,,^ i u n i p i r u s $,default,iunipirus non &lt;iu&gt;niperus,194
+VulgarLatin-194_iunipirus-1,,VulgarLatin,194_iunipirus,<iu>niperus,<iu>niperus,i u n i p e r u s,,appendixprobi,194,,^ < i u > n i p e r u s $,default,iunipirus non &lt;iu&gt;niperus,194
+Latin-195_tolerabilis-1,,Latin,195_tolerabilis,tolerabilis,tolerabilis,t o l e r a b i l i s,,appendixprobi,195,,^ t o l e r a b i l i s $,default,tolerabilis non toleravilis,195
+VulgarLatin-195_tolerabilis-1,,VulgarLatin,195_tolerabilis,toleravilis,toleravilis,t o l e r a v i l i s,,appendixprobi,195,,^ t o l e r a v i l i s $,default,tolerabilis non toleravilis,195
+Latin-196_basilica-1,,Latin,196_basilica,basilica,basilica,b a s i l i k a,,appendixprobi,196,,^ b a s i l i c a $,default,basilica non bassilica,196
+VulgarLatin-196_basilica-1,,VulgarLatin,196_basilica,bassilica,bassilica,b a sː i l i k a,,appendixprobi,196,,^ b a ss i l i c a $,default,basilica non bassilica,196
+Latin-197_tribula-1,,Latin,197_tribula,tribula,tribula,t r i b u l a,,appendixprobi,197,,^ t r i b u l a $,default,tribula non tribla,197
+VulgarLatin-197_tribula-1,,VulgarLatin,197_tribula,tribla,tribla,t r i b l a,,appendixprobi,197,,^ t r i b l a $,default,tribula non tribla,197
+Latin-198_viridis-1,,Latin,198_viridis,viridis,viridis,v i r i d i s,,appendixprobi,198,,^ v i r i d i s $,default,viridis non virdis,198
+VulgarLatin-198_viridis-1,,VulgarLatin,198_viridis,virdis,virdis,v i r d i s,,appendixprobi,198,,^ v i r d i s $,default,viridis non virdis,198
+Latin-199_constabilitus-1,,Latin,199_constabilitus,constabilitus,constabilitus,k o n s t a b i l i t u s,,appendixprobi,199,,^ c o ns t a b i l i t u s $,default,constabilitus non constab[i]litus,199
+VulgarLatin-199_constabilitus-1,,VulgarLatin,199_constabilitus,constab[i]litus,constab[i]litus,k o n s t a b i l i t u s,,appendixprobi,199,,^ constab[i]litus $,default,constabilitus non constab[i]litus,199
+Latin-200_sirena-1,,Latin,200_sirena,Sirena,Sirena,s i r e n a,,appendixprobi,200,,^ S i r e n a $,default,Sirena non Serena,200
+VulgarLatin-200_sirena-1,,VulgarLatin,200_sirena,Serena,Serena,s e r e n a,,appendixprobi,200,,^ S e r e n a $,default,Sirena non Serena,200
+Latin-201_musiumvelmusivum-1,,Latin,201_musiumvelmusivum,musium vel musivum,musium_vel_musivum,m u s i u m + v e l + m u s i v u m,,appendixprobi,201,,^ m u s i u m _ v e l _ m u s i v u m $,default,musium vel musivum non museum,201
+VulgarLatin-201_musiumvelmusivum-1,,VulgarLatin,201_musiumvelmusivum,museum,museum,m u s e u m,,appendixprobi,201,,^ m u s eu m $,default,musium vel musivum non museum,201
+Latin-202_labsus-1,,Latin,202_labsus,labsus,labsus,l a b s u s,,appendixprobi,202,,^ l a bs u s $,default,labsus non lapsus,202
+VulgarLatin-202_labsus-1,,VulgarLatin,202_labsus,lapsus,lapsus,l a p s u s,,appendixprobi,202,,^ l a ps u s $,default,labsus non lapsus,202
+Latin-203_orilegium-1,,Latin,203_orilegium,orilegium,orilegium,o r i l e g i u m,,appendixprobi,203,,^ o r i l e g i u m $,default,orilegium non orolegium,203
+VulgarLatin-203_orilegium-1,,VulgarLatin,203_orilegium,orolegium,orolegium,o r o l e g i u m,,appendixprobi,203,,^ o r o l e g i u m $,default,orilegium non orolegium,203
+Latin-204_hostiae-1,,Latin,204_hostiae,hostiae,hostiae,h o s t i ai,,appendixprobi,204,,^ h o s t i ae $,default,hostiae non ostiae,204
+VulgarLatin-204_hostiae-1,,VulgarLatin,204_hostiae,ostiae,ostiae,o s t i ai,,appendixprobi,204,,^ o s t i ae $,default,hostiae non ostiae,204
+Latin-205_februarius-1,,Latin,205_februarius,Februarius,Februarius,f e b r u a r i u s,,appendixprobi,205,,^ F e b r u a r i u s $,default,Februarius non Febrarius,205
+VulgarLatin-205_februarius-1,,VulgarLatin,205_februarius,Febrarius,Febrarius,f e b r a r i u s,,appendixprobi,205,,^ F e b r a r i u s $,default,Februarius non Febrarius,205
+Latin-206_clatri-1,,Latin,206_clatri,clatri,clatri,k l a t r i,,appendixprobi,206,,^ c l a t r i $,default,clatri non cracli,206
+VulgarLatin-206_clatri-1,,VulgarLatin,206_clatri,cracli,cracli,k r a k l i,,appendixprobi,206,,^ c r a c l i $,default,clatri non cracli,206
+Latin-207_allec-1,,Latin,207_allec,allec,allec,a lː e k,,appendixprobi,207,,^ a ll e c $,default,allec non allex,207
+VulgarLatin-207_allec-1,,VulgarLatin,207_allec,allex,allex,a lː e k s,,appendixprobi,207,,^ a ll e x $,default,allec non allex,207
+Latin-208_rabidus-1,,Latin,208_rabidus,rabidus,rabidus,r a b i d u s,,appendixprobi,208,,^ r a b i d u s $,default,rabidus non rabiosus,208
+VulgarLatin-208_rabidus-1,,VulgarLatin,208_rabidus,rabiosus,rabiosus,r a b i o s u s,,appendixprobi,208,,^ r a b i o s u s $,default,rabidus non rabiosus,208
+Latin-209_tintinaculum-1,,Latin,209_tintinaculum,tintinaculum,tintinaculum,t i n t i n a k u l u m,,appendixprobi,209,,^ t i n t i n a c u l u m $,default,tintinaculum non tintinabulum,209
+VulgarLatin-209_tintinaculum-1,,VulgarLatin,209_tintinaculum,tintinabulum,tintinabulum,t i n t i n a b u l u m,,appendixprobi,209,,^ t i n t i n a b u l u m $,default,tintinaculum non tintinabulum,209
+Latin-210_adon-1,,Latin,210_adon,Adon,Adon,a d o n,,appendixprobi,210,,^ A d o n $,default,Adon non Adonius,210
+VulgarLatin-210_adon-1,,VulgarLatin,210_adon,Adonius,Adonius,a d o n i u s,,appendixprobi,210,,^ A d o n i u s $,default,Adon non Adonius,210
+Latin-211_grundio-1,,Latin,211_grundio,grundio,grundio,g r u n d i o,,appendixprobi,211,,^ g r u n d i o $,default,grundio non grunnio,211
+VulgarLatin-211_grundio-1,,VulgarLatin,211_grundio,grunnio,grunnio,g r u nː i o,,appendixprobi,211,,^ g r u nn i o $,default,grundio non grunnio,211
+Latin-212_vapulo-1,,Latin,212_vapulo,vapulo,vapulo,v a p u l o,,appendixprobi,212,,^ v a p u l o $,default,vapulo non baplo,212
+VulgarLatin-212_vapulo-1,,VulgarLatin,212_vapulo,baplo,baplo,b a p l o,,appendixprobi,212,,^ b a p l o $,default,vapulo non baplo,212
+Latin-213_necne-1,,Latin,213_necne,necne,necne,n e k n e,,appendixprobi,213,,^ n e c n e $,default,necne non necnec,213
+VulgarLatin-213_necne-1,,VulgarLatin,213_necne,necnec,necnec,n e k n e k,,appendixprobi,213,,^ n e c n e c $,default,necne non necnec,213
+Latin-214_passim-1,,Latin,214_passim,passim,passim,p a sː i m,,appendixprobi,214,,^ p a ss i m $,default,passim non passi,214
+VulgarLatin-214_passim-1,,VulgarLatin,214_passim,passi,passi,p a sː i,,appendixprobi,214,,^ p a ss i $,default,passim non passi,214
+Latin-215_numquit-1,,Latin,215_numquit,numquit,numquit,n u m kʷ i t,,appendixprobi,215,,^ n u m qu i t $,default,numquit non nimquit,215
+VulgarLatin-215_numquit-1,,VulgarLatin,215_numquit,nimquit,nimquit,n i m kʷ i t,,appendixprobi,215,,^ n i m qu i t $,default,numquit non nimquit,215
+Latin-216_numquam-1,,Latin,216_numquam,numquam,numquam,n u m kʷ a m,,appendixprobi,216,,^ n u m qu a m $,default,numquam non numqua,216
+VulgarLatin-216_numquam-1,,VulgarLatin,216_numquam,numqua,numqua,n u m kʷ a,,appendixprobi,216,,^ n u m qu a $,default,numquam non numqua,216
+Latin-217_nobiscum-1,,Latin,217_nobiscum,nobiscum,nobiscum,n o b i s k u m,,appendixprobi,217,,^ n o b i s c u m $,default,nobiscum non noscum,217
+VulgarLatin-217_nobiscum-1,,VulgarLatin,217_nobiscum,noscum,noscum,n o s k u m,,appendixprobi,217,,^ n o s c u m $,default,nobiscum non noscum,217
+Latin-218_vobiscum-1,,Latin,218_vobiscum,vobiscum,vobiscum,v o b i s k u m,,appendixprobi,218,,^ v o b i s c u m $,default,vobiscum non voscum,218
+VulgarLatin-218_vobiscum-1,,VulgarLatin,218_vobiscum,voscum,voscum,v o s k u m,,appendixprobi,218,,^ v o s c u m $,default,vobiscum non voscum,218
+Latin-219_nescioubi-1,,Latin,219_nescioubi,nescioubi,nescioubi,n e s k i o u b i,,appendixprobi,219,,^ n e s c i o u b i $,default,nescioubi non nesciocobe,219
+VulgarLatin-219_nescioubi-1,,VulgarLatin,219_nescioubi,nesciocobe,nesciocobe,n e s k i o k o b e,,appendixprobi,219,,^ n e s c i o c o b e $,default,nescioubi non nesciocobe,219
+Latin-220_pridem-1,,Latin,220_pridem,pridem,pridem,p r i d e m,,appendixprobi,220,,^ p r i d e m $,default,pridem non pride,220
+VulgarLatin-220_pridem-1,,VulgarLatin,220_pridem,pride,pride,p r i d e,,appendixprobi,220,,^ p r i d e $,default,pridem non pride,220
+Latin-221_olim-1,,Latin,221_olim,olim,olim,o l i m,,appendixprobi,221,,^ o l i m $,default,olim non oli,221
+VulgarLatin-221_olim-1,,VulgarLatin,221_olim,oli,oli,o l i,,appendixprobi,221,,^ o l i $,default,olim non oli,221
+Latin-222_adhuc-1,,Latin,222_adhuc,adhuc,adhuc,a d h u k,,appendixprobi,222,,^ a dh u c $,default,adhuc non aduc,222
+VulgarLatin-222_adhuc-1,,VulgarLatin,222_adhuc,aduc,aduc,a d u k,,appendixprobi,222,,^ a d u c $,default,adhuc non aduc,222
+Latin-223_idem-1,,Latin,223_idem,idem,idem,i d e m,,appendixprobi,223,,^ i d e m $,default,idem non ide,223
+VulgarLatin-223_idem-1,,VulgarLatin,223_idem,ide,ide,i d e,,appendixprobi,223,,^ i d e $,default,idem non ide,223
+Latin-224_amfora-1,,Latin,224_amfora,amfora,amfora,a m f o r a,,appendixprobi,224,,^ a m f o r a $,default,amfora non ampora,224
+VulgarLatin-224_amfora-1,,VulgarLatin,224_amfora,ampora,ampora,a m p o r a,,appendixprobi,224,,^ a m p o r a $,default,amfora non ampora,224
