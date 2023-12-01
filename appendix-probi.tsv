@@ -1,0 +1,449 @@
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COGID	PHRASE
+419	Latin	Adon	Adon	Adon	a d o n		210	Adon non Adonius
+420	VulgarLatin	Adon	Adonius	Adonius	a d o n i u s		210	Adon non Adonius
+95	Latin	Byzacenus	Byzacenus	Byzacenus	b j z a k e n u s		48	Byzacenus non Bizacinus
+96	VulgarLatin	Byzacenus	Bizacinus	Bizacinus	b i z a k i n u s		48	Byzacenus non Bizacinus
+97	Latin	Capse[n]sis	Capse[n]sis	Capse[n]sis	k a p s e n s i s		49	Capse[n]sis non Capressis
+98	VulgarLatin	Capse[n]sis	Capressis	Capressis	k a p r e sː i s		49	Capse[n]sis non Capressis
+409	Latin	Februarius	Februarius	Februarius	f e b r u a r i u s		205	Februarius non Febrarius
+410	VulgarLatin	Februarius	Febrarius	Febrarius	f e b r a r i u s		205	Februarius non Febrarius
+123	Latin	Flavus	Flavus	Flavus	f l a v u s		62	Flavus non Flaus
+124	VulgarLatin	Flavus	Flaus	Flaus	f l au s		62	Flavus non Flaus
+37	Latin	Hercules	Hercules	Hercules	h e r k u l e s		19	Hercules non Herculens
+38	VulgarLatin	Hercules	Herculens	Herculens	h e r k u l e n s		19	Hercules non Herculens
+33	Latin	Marsias	Marsias	Marsias	m a r s i a s		17	Marsias non Marsuas
+34	VulgarLatin	Marsias	Marsuas	Marsuas	m a r s u a s		17	Marsias non Marsuas
+399	Latin	Sirena	Sirena	Sirena	s i r e n a		200	Sirena non Serena
+400	VulgarLatin	Sirena	Serena	Serena	s e r e n a		200	Sirena non Serena
+211	Latin	Syrtes	Syrtes	Syrtes	s j r t e s		106	Syrtes non Syrtis
+212	VulgarLatin	Syrtes	Syrtis	Syrtis	s j r t i s		106	Syrtes non Syrtis
+91	Latin	Theophilus	Theophilus	Theophilus	tʰ e o pʰ i l u s		46	Theophilus non Izophilus
+92	VulgarLatin	Theophilus	Izophilus	Izophilus	i z o pʰ i l u s		46	Theophilus non Izophilus
+101	Latin	[catulus	[catulus	[catulus	k a t u l u s		51	[catulus non ca&lt;te&gt;llus]
+102	VulgarLatin	[catulus	ca<te>llus]	ca<te>llus]	k a t e lː u s		51	[catulus non ca&lt;te&gt;llus]
+313	Latin	a< >	a< >	a<_>	a		157	a&lt; &gt; non &lt; &gt;a
+314	VulgarLatin	a< >	< >a	<_>a	a		157	a&lt; &gt; non &lt; &gt;a
+81	Latin	acre	acre	acre	a k r e		41	acre non acrum
+82	VulgarLatin	acre	acrum	acrum	a k r u m		41	acre non acrum
+443	Latin	adhuc	adhuc	adhuc	a d h u k		222	adhuc non aduc
+444	VulgarLatin	adhuc	aduc	aduc	a d u k		222	adhuc non aduc
+351	Latin	adipes	adipes	adipes	a d i p e s		176	adipes non alipes
+352	VulgarLatin	adipes	alipes	alipes	a l i p e s		176	adipes non alipes
+213	Latin	aedes	aedes	aedes	ai d e s		107	aedes non aedis
+214	VulgarLatin	aedes	aedis	aedis	ai d i s		107	aedes non aedis
+175	Latin	ales	ales	ales	a l e s		88	ales non &lt;alis&gt;
+176	VulgarLatin	ales	<alis>	<alis>	a l i s		88	ales non &lt;alis&gt;
+225	Latin	alium	alium	alium	a l i u m		113	alium non aleum
+226	VulgarLatin	alium	aleum	aleum	a l e u m		113	alium non aleum
+413	Latin	allec	allec	allec	a lː e k		207	allec non allex
+414	VulgarLatin	allec	allex	allex	a lː e k s		207	allec non allex
+139	Latin	alveus	alveus	alveus	a l v e u s		70	alveus non albeus
+140	VulgarLatin	alveus	albeus	albeus	a l b e u s		70	alveus non albeus
+447	Latin	amfora	amfora	amfora	a m f o r a		224	amfora non ampora
+448	VulgarLatin	amfora	ampora	ampora	a m p o r a		224	amfora non ampora
+279	Latin	amycdala	amycdala	amycdala	a m y k d a l a		140	amycdala non amiddula
+280	VulgarLatin	amycdala	amiddula	amiddula	a m i dː u l a		140	amycdala non amiddula
+19	Latin	angulus	angulus	angulus	a n g u l u s		10	angulus non anglus
+20	VulgarLatin	angulus	anglus	anglus	a n g l u s		10	angulus non anglus
+151	Latin	ansa	ansa	ansa	a n s a		76	ansa non asa
+152	VulgarLatin	ansa	asa	asa	a s a		76	ansa non asa
+257	Latin	anser	anser	anser	a n s e r		129	anser non ansar
+258	VulgarLatin	anser	ansar	ansar	a n s a r		129	anser non ansar
+339	Latin	anus	anus	anus	a n u s		170	anus non anucla
+340	VulgarLatin	anus	anucla	anucla	a n u k l a		170	anus non anucla
+277	Latin	aper	aper	aper	a p e r		139	aper non aprus
+278	VulgarLatin	aper	aprus	aprus	a p r u s		139	aper non aprus
+189	Latin	apes	apes	apes	a p e s		95	apes non apis
+190	VulgarLatin	apes	apis	apis	a p i s		95	apes non apis
+223	Latin	aqua	aqua	aqua	a kʷ a		112	aqua non acqua
+224	VulgarLatin	aqua	acqua	acqua	a kʷː a		112	aqua non acqua
+43	Latin	aquaeductus	aquaeductus	aquaeductus	a kʷ ai d u k t u s		22	aquaeductus non aquiductus
+44	VulgarLatin	aquaeductus	aquiductus	aquiductus	a kʷ i d u k t u s		22	aquaeductus non aquiductus
+293	Latin	aries	aries	aries	a r i e s		147	aries non ariex
+294	VulgarLatin	aries	ariex	ariex	a r i e k s		147	aries non ariex
+15	Latin	articulus	articulus	articulus	a r t i k u l u s		8	articulus non articlus
+16	VulgarLatin	articulus	articlus	articlus	a r t i k l u s		8	articulus non articlus
+305	Latin	auctor	auctor	auctor	au k t o r		153	auctor non autor
+306	VulgarLatin	auctor	autor	autor	au t o r		153	auctor non autor
+307	Latin	auctoritas	auctoritas	auctoritas	au k t o r i t a s		154	auctoritas non autoritas
+308	VulgarLatin	auctoritas	autoritas	autoritas	au t o r i t a s		154	auctoritas non autoritas
+165	Latin	auris	auris	auris	au r i s		83	auris non oricla
+166	VulgarLatin	auris	oricla	oricla	o r i k l a		83	auris non oricla
+57	Latin	avus	avus	avus	a v u s		29	avus non aus
+58	VulgarLatin	avus	aus	aus	a u s		29	avus non aus
+17	Latin	baculus	baculus	baculus	b a k u l u s		9	baculus non vaclus
+18	VulgarLatin	baculus	vaclus	vaclus	v a k l u s		9	baculus non vaclus
+263	Latin	balteus	balteus	balteus	b a l t e u s		132	balteus non baltius
+264	VulgarLatin	balteus	baltius	baltius	b a l t i u s		132	balteus non baltius
+71	Latin	barbarus	barbarus	barbarus	b a r b a r u s		36	barbarus non barbar
+72	VulgarLatin	barbarus	barbar	barbar	b a r b a r		36	barbarus non barbar
+391	Latin	basilica	basilica	basilica	b a s i l i k a		196	basilica non bassilica
+392	VulgarLatin	basilica	bassilica	bassilica	b a sː i l i k a		196	basilica non bassilica
+371	Latin	bipennis	bipennis	bipennis	b i p e nː i s		186	bipennis non bipinnis
+372	VulgarLatin	bipennis	bipinnis	bipinnis	b i p i nː i s		186	bipennis non bipinnis
+379	Latin	bitumen	bitumen	bitumen	b i t u m e n		190	bitumen non butumen
+380	VulgarLatin	bitumen	butumen	butumen	b u t u m e n		190	bitumen non butumen
+253	Latin	botruus	botruus	botruus	b o t r uː s		127	botruus non butro
+254	VulgarLatin	botruus	butro	butro	b u t r o		127	botruus non butro
+129	Latin	brattea	brattea	brattea	b r a tː e a		65	brattea non brattia
+130	VulgarLatin	brattea	brattia	brattia	b r a tː i a		65	brattea non brattia
+87	Latin	bravium	bravium	bravium	b r a v i u m		44	bravium non brabium
+88	VulgarLatin	bravium	brabium	brabium	b r a b i u m		44	bravium non brabium
+119	Latin	caelebs	caelebs	caelebs	k ai l e b s		60	caelebs non celeps
+120	VulgarLatin	caelebs	celeps	celeps	k e l e p s		60	caelebs non celeps
+155	Latin	calatus	calatus	calatus	k a l a t u s		78	calatus non galatus
+156	VulgarLatin	calatus	galatus	galatus	g a l a t u s		78	calatus non galatus
+161	Latin	calceus	calceus	calceus	k a l k e u s		81	calceus non calcius
+162	VulgarLatin	calceus	calcius	calcius	k a l k i u s		81	calceus non calcius
+23	Latin	calcostegis	calcostegis	calcostegis	k a l k o s t e g i s		12	calcostegis non calcosteis
+24	VulgarLatin	calcostegis	calcosteis	calcosteis	k a l k o s t e i s		12	calcostegis non calcosteis
+105	Latin	calida	calida	calida	k a l i d a		53	calida non calda
+106	VulgarLatin	calida	calda	calda	k a l d a		53	calida non calda
+247	Latin	caligo	caligo	caligo	k a l i g o		124	caligo non calligo
+248	VulgarLatin	caligo	calligo	calligo	k a lː i g o		124	caligo non calligo
+167	Latin	camera	camera	camera	k a m e r a		84	camera non cammara
+168	VulgarLatin	camera	cammara	cammara	k a mː a r a		84	camera non cammara
+35	Latin	cannelam	cannelam	cannelam	k a nː e l a m		18	cannelam non canianus
+36	VulgarLatin	cannelam	canianus	canianus	k a n i a n u s		18	cannelam non canianus
+329	Latin	capitulum	capitulum	capitulum	k a p i t u l u m		165	capitulum non capiclum
+330	VulgarLatin	capitulum	capiclum	capiclum	k a p i k l u m		165	capitulum non capiclum
+85	Latin	carcer	carcer	carcer	k a r k e r		43	carcer non car&lt;car&gt;
+86	VulgarLatin	carcer	car<car>	car<car>	k a r k a r		43	carcer non car&lt;car&gt;
+99	Latin	catulus	catulus	catulus	k a t u l u s		50	catulus non catellus
+100	VulgarLatin	catulus	catellus	catellus	k a t e lː u s		50	catulus non catellus
+179	Latin	cautes	cautes	cautes	k au t e s		90	cautes non c&lt;autis&gt;
+180	VulgarLatin	cautes	c<autis>	c<autis>	k au t i s		90	cautes non c&lt;autis&gt;
+125	Latin	cavea	cavea	cavea	k a v e a		63	cavea non cavia
+126	VulgarLatin	cavea	cavia	cavia	k a v i a		63	cavea non cavia
+45	Latin	cithara	cithara	cithara	k i tʰ a r a		23	cithara non citera
+46	VulgarLatin	cithara	citera	citera	k i t e r a		23	cithara non citera
+209	Latin	clades	clades	clades	k l a d e s		105	clades non cladis
+210	VulgarLatin	clades	cladis	cladis	k l a d i s		105	clades non cladis
+237	Latin	clamis	clamis	clamis	k l a m i s		119	clamis non clamus
+238	VulgarLatin	clamis	clamus	clamus	k l a m u s		119	clamis non clamus
+411	Latin	clatri	clatri	clatri	k l a t r i		206	clatri non cracli
+412	VulgarLatin	clatri	cracli	cracli	k r a k l i		206	clatri non cracli
+171	Latin	cloaca	cloaca	cloaca	k l o a k a		86	cloaca non cluaca
+172	VulgarLatin	cloaca	cluaca	cluaca	k l u a k a		86	cloaca non cluaca
+131	Latin	cochlea	cochlea	cochlea	k o kʰ l e a		66	cochlea non coclia
+132	VulgarLatin	cochlea	coclia	coclia	k o k l i a		66	cochlea non coclia
+133	Latin	cochleare	cochleare	cochleare	k o kʰ l e a r e		67	cochleare non cocliarium
+134	VulgarLatin	cochleare	cocliarium	cocliarium	k o k l i a r i u m		67	cochleare non cocliarium
+349	Latin	coluber	coluber	coluber	k o l u b e r		175	coluber non colober
+350	VulgarLatin	coluber	colober	colober	k o l o b e r		175	coluber non colober
+39	Latin	columna	columna	columna	k o l u m n a		20	columna non colomna
+40	VulgarLatin	columna	colomna	colomna	k o l o m n a		20	columna non colomna
+397	Latin	constabilitus	constabilitus	constabilitus	k o n s t a b i l i t u s		199	constabilitus non constab[i]litus
+398	VulgarLatin	constabilitus	constab[i]litus	constab[i]litus	k o n s t a b i l i t u s		199	constabilitus non constab[i]litus
+77	Latin	coquens	coquens	coquens	k o kʷ e n s		39	coquens non cocens
+78	VulgarLatin	coquens	cocens	cocens	k o k e n s		39	coquens non cocens
+79	Latin	coqui	coqui	coqui	k o kʷ i		40	coqui non coci
+80	VulgarLatin	coqui	coci	coci	k o k i		40	coqui non coci
+75	Latin	coqus	coqus	coqus	k o kʷ u s		38	coqus non cocus
+76	VulgarLatin	coqus	cocus	cocus	k o k u s		38	coqus non cocus
+319	Latin	coruscus	coruscus	coruscus	k o r u s k u s		160	coruscus non scoriscus
+320	VulgarLatin	coruscus	scoriscus	scoriscus	s k o r i s k u s		160	coruscus non scoriscus
+47	Latin	crista	crista	crista	k r i s t a		24	crista non crysta
+48	VulgarLatin	crista	crysta	crysta	k r y s t a		24	crista non crysta
+31	Latin	cultellum	cultellum	cultellum	k u l t e lː u m		16	cultellum non cuntellum
+32	VulgarLatin	cultellum	cuntellum	cuntellum	k u n t e lː u m		16	cultellum non cuntellum
+231	Latin	delirus	delirus	delirus	d e l i r u s		116	delirus non delerus
+232	VulgarLatin	delirus	delerus	delerus	d e l e r u s		116	delirus non delerus
+201	Latin	deses	deses	deses	d e s e s		101	deses non desis
+202	VulgarLatin	deses	desis	desis	d e s i s		101	deses non desis
+157	Latin	digitus	digitus	digitus	d i g i t u s		79	digitus non dicitus
+158	VulgarLatin	digitus	dicitus	dicitus	d i k i t u s		79	digitus non dicitus
+287	Latin	dimidius	dimidius	dimidius	d i m i d i u s		144	dimidius non demidius
+288	VulgarLatin	dimidius	demidius	demidius	d e m i d i u s		144	dimidius non demidius
+103	Latin	doleus	doleus	doleus	d o l e u s		52	doleus non dolium
+104	VulgarLatin	doleus	dolium	dolium	d o l i u m		52	doleus non dolium
+219	Latin	draco	draco	draco	d r a k o		110	draco non dracco
+220	VulgarLatin	draco	dracco	dracco	d r a kː o		110	draco non dracco
+297	Latin	dys<entericus	dys<entericus	dys<entericus	d y s e n t e r i k u s		149	dys&lt;entericus non disinte&gt;ricus
+298	VulgarLatin	dys<entericus	disinte>ricus	disinte>ricus	d i s i n t e r i k u s		149	dys&lt;entericus non disinte&gt;ricus
+251	Latin	effeminatus	effeminatus	effeminatus	e fː e m i n a t u s		126	effeminatus non imfimenatus
+252	VulgarLatin	effeminatus	imfimenatus	imfimenatus	i m f i m e n a t u s		126	effeminatus non imfimenatus
+73	Latin	equs	equs	equs	e kʷ u s		37	equs non ecus
+74	VulgarLatin	equs	ecus	ecus	e k u s		37	equs non ecus
+53	Latin	exequiae	exequiae	exequiae	e k s e kʷ i ai		27	exequiae non execiae
+54	VulgarLatin	exequiae	execiae	execiae	e k s e k i ai		27	exequiae non execiae
+235	Latin	exter	exter	exter	e k s t e r		118	exter non extraneus
+236	VulgarLatin	exter	extraneus	extraneus	e k s t r a n e u s		118	exter non extraneus
+177	Latin	facies	facies	facies	f a k i e s		89	facies non fa&lt;ces&gt;
+178	VulgarLatin	facies	fa<ces>	fa<ces>	f a k e s		89	facies non fa&lt;ces&gt;
+207	Latin	fames	fames	fames	f a m e s		104	fames non famis
+208	VulgarLatin	fames	famis	famis	f a m i s		104	fames non famis
+281	Latin	faseolus	faseolus	faseolus	f a s e o l u s		141	faseolus non fassiolus
+282	VulgarLatin	faseolus	fassiolus	fassiolus	f a sː i o l u s		141	faseolus non fassiolus
+145	Latin	favilla	favilla	favilla	f a v i lː a		73	favilla non failla
+146	VulgarLatin	favilla	failla	failla	f a i lː a		73	favilla non failla
+265	Latin	fax	fax	fax	f a k s		133	fax non facla
+266	VulgarLatin	fax	facla	facla	f a k l a		133	fax non facla
+173	Latin	festuca	festuca	festuca	f e s t u k a		87	festuca non fis&lt;tuca&gt;
+174	VulgarLatin	festuca	fis<tuca>	fis<tuca>	f i s t u k a		87	festuca non fis&lt;tuca&gt;
+63	Latin	figulus	figulus	figulus	f i g u l u s		32	figulus non figel
+64	VulgarLatin	figulus	figel	figel	f i g e l		32	figulus non figel
+153	Latin	flagellum	flagellum	flagellum	f l a g e lː u m		77	flagellum non fragellum
+154	VulgarLatin	flagellum	fragellum	fragellum	f r a g e lː u m		77	flagellum non fragellum
+49	Latin	formica	formica	formica	f o r m i k a		25	formica non furmica
+50	VulgarLatin	formica	furmica	furmica	f u r m i k a		25	formica non furmica
+149	Latin	formosus	formosus	formosus	f o r m o s u s		75	formosus non formunsus
+150	VulgarLatin	formosus	formunsus	formunsus	f o r m u n s u s		75	formosus non formunsus
+107	Latin	frigida	frigida	frigida	f r i g i d a		54	frigida non fricda
+108	VulgarLatin	frigida	fricda	fricda	f r i k d a		54	frigida non fricda
+355	Latin	frustum	frustum	frustum	f r u s t u m		178	frustum non frustrum
+356	VulgarLatin	frustum	frustrum	frustrum	f r u s t r u m		178	frustum non frustrum
+359	Latin	garrulus	garrulus	garrulus	g a rː u l u s		180	garrulus non garulus
+360	VulgarLatin	garrulus	garulus	garulus	g a r u l u s		180	garrulus non garulus
+229	Latin	glis	glis	glis	g l i s		115	glis non &lt;gl&gt;iris
+230	VulgarLatin	glis	<gl>iris	<gl>iris	g l i r i s		115	glis non &lt;gl&gt;iris
+141	Latin	glomus	glomus	glomus	g l o m u s		71	glomus non glovus
+142	VulgarLatin	glomus	glovus	glovus	g l o v u s		71	glomus non glovus
+421	Latin	grundio	grundio	grundio	g r u n d i o		211	grundio non grunnio
+422	VulgarLatin	grundio	grunnio	grunnio	g r u nː i o		211	grundio non grunnio
+255	Latin	grus	grus	grus	g r u s		128	grus non gruis
+256	VulgarLatin	grus	gruis	gruis	g r u i s		128	grus non gruis
+55	Latin	gyrus	gyrus	gyrus	g y r u s		28	gyrus non girus
+56	VulgarLatin	gyrus	girus	girus	g i r u s		28	gyrus non girus
+373	Latin	hermeneumata	hermeneumata	hermeneumata	h e r m e n e u m a t a		187	hermeneumata non erminomata
+374	VulgarLatin	hermeneumata	erminomata	erminomata	e r m i n o m a t a		187	hermeneumata non erminomata
+325	Latin	hirundo	hirundo	hirundo	h i r u n d o		163	hirundo non herundo
+326	VulgarLatin	hirundo	herundo	herundo	h e r u n d o		163	hirundo non herundo
+407	Latin	hostiae	hostiae	hostiae	h o s t i ai		204	hostiae non ostiae
+408	VulgarLatin	hostiae	ostiae	ostiae	o s t i ai		204	hostiae non ostiae
+445	Latin	idem	idem	idem	i d e m		223	idem non ide
+446	VulgarLatin	idem	ide	ide	i d e		223	idem non ide
+163	Latin	iecur	iecur	iecur	i e k u r		82	iecur non iocur
+164	VulgarLatin	iecur	iocur	iocur	i o k u r		82	iecur non iocur
+345	Latin	imago	imago	imago	i m a g o		173	imago non &lt; &gt;
+346	VulgarLatin	imago	< >	<_>			173	imago non &lt; &gt;
+309	Latin	ip<se>	ip<se>	ip<se>	i p s e		155	ip&lt;se&gt; non ip&lt;sus&gt;
+310	VulgarLatin	ip<se>	ip<sus>	ip<sus>	i p s u s		155	ip&lt;se&gt; non ip&lt;sus&gt;
+21	Latin	iugulus	iugulus	iugulus	j u g u l u s		11	iugulus non iuglus
+22	VulgarLatin	iugulus	iuglus	iuglus	j u g l u s		11	iugulus non iuglus
+387	Latin	iunipirus	iunipirus	iunipirus	i u n i p i r u s		194	iunipirus non &lt;iu&gt;niperus
+388	VulgarLatin	iunipirus	<iu>niperus	<iu>niperus	i u n i p e r u s		194	iunipirus non &lt;iu&gt;niperus
+69	Latin	iuvencus	iuvencus	iuvencus	i u v e n k u s		35	iuvencus non iuvenclus
+70	VulgarLatin	iuvencus	iuvenclus	iuvenclus	i u v e n k l u s		35	iuvencus non iuvenclus
+403	Latin	labsus	labsus	labsus	l a b s u s		202	labsus non lapsus
+404	VulgarLatin	labsus	lapsus	lapsus	l a p s u s		202	labsus non lapsus
+143	Latin	lancea	lancea	lancea	l a n k e a		72	lancea non lancia
+144	VulgarLatin	lancea	lancia	lancia	l a n k i a		72	lancea non lancia
+67	Latin	lanius	lanius	lanius	l a n i u s		34	lanius non laneo
+68	VulgarLatin	lanius	laneo	laneo	l a n e o		34	lanius non laneo
+227	Latin	lilium	lilium	lilium	l i l i u m		114	lilium non lileum
+228	VulgarLatin	lilium	lileum	lileum	l i l e u m		114	lilium non lileum
+311	Latin	linteum	linteum	linteum	l i n t e u m		156	linteum non lintium
+312	VulgarLatin	linteum	lintium	lintium	l i n t i u m		156	linteum non lintium
+365	Latin	locuples	locuples	locuples	l o k u p l e s		183	locuples non locuplex
+366	VulgarLatin	locuples	locuplex	locuplex	l o k u p l e k s		183	locuples non locuplex
+199	Latin	lues	lues	lues	l u e s		100	lues non luis
+200	VulgarLatin	lues	luis	luis	l u i s		100	lues non luis
+7	Latin	masculus	masculus	masculus	m a s k u l u s		4	masculus non masclus
+8	VulgarLatin	masculus	masclus	masclus	m a s k l u s		4	masculus non masclus
+65	Latin	masculus	masculus	masculus	m a s k u l u s		33	masculus non mascel
+66	VulgarLatin	masculus	mascel	mascel	m a s k e l		33	masculus non mascel
+301	Latin	mensa	mensa	mensa	m e n s a		151	mensa non mesa
+302	VulgarLatin	mensa	mesa	mesa	m e s a		151	mensa non mesa
+291	Latin	meretrix	meretrix	meretrix	m e r e t r i k s		146	meretrix non menetris
+292	VulgarLatin	meretrix	menetris	menetris	m e n e t r i s		146	meretrix non menetris
+381	Latin	mergus	mergus	mergus	m e r g u s		191	mergus non mergulus
+382	VulgarLatin	mergus	mergulus	mergulus	m e r g u l u s		191	mergus non mergulus
+59	Latin	miles	miles	miles	m i l e s		30	miles non milex
+60	VulgarLatin	miles	milex	milex	m i l e k s		30	miles non milex
+93	Latin	monofagia	monofagia	monofagia	m o n o f a g i a		47	monofagia non monofagium
+94	VulgarLatin	monofagia	monofagium	monofagium	m o n o f a g i u m		47	monofagia non monofagium
+401	Latin	musium vel musivum	musium vel musivum	musium_vel_musivum	m u s i u m + v e l + m u s i v u m		201	musium vel musivum non museum
+402	VulgarLatin	musium vel musivum	museum	museum	m u s e u m		201	musium vel musivum non museum
+51	Latin	musivum	musivum	musivum	m u s i v u m		26	musivum non mus&lt;e&gt;um
+52	VulgarLatin	musivum	mus<e>um	mus<e>um	m u s e u m		26	musivum non mus&lt;e&gt;um
+383	Latin	myrta	myrta	myrta	m y r t a		192	myrta non murta
+384	VulgarLatin	myrta	murta	murta	m u r t a		192	myrta non murta
+425	Latin	necne	necne	necne	n e k n e		213	necne non necnec
+426	VulgarLatin	necne	necnec	necnec	n e k n e k		213	necne non necnec
+337	Latin	neptis	neptis	neptis	n e p t i s		169	neptis non nepticla
+338	VulgarLatin	neptis	nepticla	nepticla	n e p t i k l a		169	neptis non nepticla
+437	Latin	nescioubi	nescioubi	nescioubi	n e s k i o u b i		219	nescioubi non nesciocobe
+438	VulgarLatin	nescioubi	nesciocobe	nesciocobe	n e s k i o k o b e		219	nescioubi non nesciocobe
+433	Latin	nobiscum	nobiscum	nobiscum	n o b i s k u m		217	nobiscum non noscum
+434	VulgarLatin	nobiscum	noscum	noscum	n o s k u m		217	nobiscum non noscum
+331	Latin	noverca	noverca	noverca	n o v e r k a		166	noverca non novarca
+332	VulgarLatin	noverca	novarca	novarca	n o v a r k a		166	noverca non novarca
+317	Latin	noxius	noxius	noxius	n o k s i u s		159	noxius non noxeus
+318	VulgarLatin	noxius	noxeus	noxeus	n o k s e u s		159	noxius non noxeus
+191	Latin	nubes	nubes	nubes	n u b e s		96	nubes non nubs
+192	VulgarLatin	nubes	nubs	nubs	n u b s		96	nubes non nubs
+431	Latin	numquam	numquam	numquam	n u m kʷ a m		216	numquam non numqua
+432	VulgarLatin	numquam	numqua	numqua	n u m kʷ a		216	numquam non numqua
+429	Latin	numquit	numquit	numquit	n u m kʷ i t		215	numquit non nimquit
+430	VulgarLatin	numquit	nimquit	nimquit	n i m kʷ i t		215	numquit non nimquit
+333	Latin	nurus	nurus	nurus	n u r u s		167	nurus non nura
+334	VulgarLatin	nurus	nura	nura	n u r a		167	nurus non nura
+327	Latin	obstetrix	obstetrix	obstetrix	o b s t e t r i k s		164	obstetrix non ops&lt;etris&gt;
+328	VulgarLatin	obstetrix	ops<etris>	ops<etris>	o p s e t r i s		164	obstetrix non ops&lt;etris&gt;
+245	Latin	occasio	occasio	occasio	o kː a s i o		123	occasio non occansio
+246	VulgarLatin	occasio	occansio	occansio	o kː a n s i o		123	occasio non occansio
+221	Latin	oculus	oculus	oculus	o k u l u s		111	oculus non oclus
+222	VulgarLatin	oculus	oclus	oclus	o k l u s		111	oculus non oclus
+441	Latin	olim	olim	olim	o l i m		221	olim non oli
+442	VulgarLatin	olim	oli	oli	o l i		221	olim non oli
+299	Latin	opobalsamum	opobalsamum	opobalsamum	o p o b a l s a m u m		150	opobalsamum non ababalsamum
+300	VulgarLatin	opobalsamum	ababalsamum	ababalsamum	a b a b a l s a m u m		150	opobalsamum non ababalsamum
+147	Latin	orbis	orbis	orbis	o r b i s		74	orbis non orbs
+148	VulgarLatin	orbis	orbs	orbs	o r b s		74	orbis non orbs
+405	Latin	orilegium	orilegium	orilegium	o r i l e g i u m		203	orilegium non orolegium
+406	VulgarLatin	orilegium	orolegium	orolegium	o r o l e g i u m		203	orilegium non orolegium
+121	Latin	ostium	ostium	ostium	o s t i u m		61	ostium non osteum
+122	VulgarLatin	ostium	osteum	osteum	o s t e u m		61	ostium non osteum
+135	Latin	palearium	palearium	palearium	p a l e a r i u m		68	palearium non paliarium
+136	VulgarLatin	palearium	paliarium	paliarium	p a l i a r i u m		68	palearium non paliarium
+197	Latin	palumbes	palumbes	palumbes	p a l u m b e s		99	palumbes non palumbus
+198	VulgarLatin	palumbes	palumbus	palumbus	p a l u m b u s		99	palumbes non palumbus
+89	Latin	pancarpus	pancarpus	pancarpus	p a n k a r p u s		45	pancarpus non parcarpus
+90	VulgarLatin	pancarpus	parcarpus	parcarpus	p a r k a r p u s		45	pancarpus non parcarpus
+361	Latin	parentalia	parentalia	parentalia	p a r e n t a l i a		181	parentalia non parantalia
+362	VulgarLatin	parentalia	parantalia	parantalia	p a r a n t a l i a		181	parentalia non parantalia
+323	Latin	passer	passer	passer	p a sː e r		162	passer non passar
+324	VulgarLatin	passer	passar	passar	p a sː a r		162	passer non passar
+427	Latin	passim	passim	passim	p a sː i m		214	passim non passi
+428	VulgarLatin	passim	passi	passi	p a sː i		214	passim non passi
+83	Latin	pauper mulier	pauper mulier	pauper_mulier	p au p e r + m u l i e r		42	pauper mulier non paupera muli&lt;er&gt;
+84	VulgarLatin	pauper mulier	paupera muli<er>	paupera_muli<er>	p au p e r a + m u l i e r		42	pauper mulier non paupera muli&lt;er&gt;
+347	Latin	pavor	pavor	pavor	p a v o r		174	pavor non paor
+348	VulgarLatin	pavor	paor	paor	p a o r		174	pavor non paor
+295	Latin	pe<rsica>	pe<rsica>	pe<rsica>	p e r s i k a		148	pe&lt;rsica&gt; non pessica
+296	VulgarLatin	pe<rsica>	pessica	pessica	p e sː i k a		148	pe&lt;rsica&gt; non pessica
+41	Latin	pecten	pecten	pecten	p e k t e n		21	pecten non pectinis
+42	VulgarLatin	pecten	pectinis	pectinis	p e k t i n i s		21	pecten non pectinis
+169	Latin	pegma	pegma	pegma	p e g m a		85	pegma non peuma
+170	VulgarLatin	pegma	peuma	peuma	p e u m a		85	pegma non peuma
+369	Latin	plasta	plasta	plasta	p l a s t a		185	plasta non blasta
+370	VulgarLatin	plasta	blasta	blasta	b l a s t a		185	plasta non blasta
+181	Latin	plebes	plebes	plebes	p l e b e s		91	plebes non plevis
+182	VulgarLatin	plebes	plevis	plevis	p l e v i s		91	plebes non plevis
+357	Latin	plebs	plebs	plebs	p l e b s		179	plebs non pleps
+358	VulgarLatin	plebs	pleps	pleps	p l e p s		179	plebs non pleps
+363	Latin	poples	poples	poples	p o p l e s		182	poples non poplex
+364	VulgarLatin	poples	poplex	poplex	p o p l e k s		182	poples non poplex
+1	Latin	porphireticum marmor	porphireticum marmor	porphireticum_marmor	p o r pʰ i r e t i k u m + m a r m o r		1	porphireticum marmor non purpureticum marmur
+2	VulgarLatin	porphireticum marmor	purpureticum marmur	purpureticum_marmur	p u r p u r e t i k u m + m a r m u r		1	porphireticum marmor non purpureticum marmur
+439	Latin	pridem	pridem	pridem	p r i d e m		220	pridem non pride
+440	VulgarLatin	pridem	pride	pride	p r i d e		220	pridem non pride
+137	Latin	primipilaris	primipilaris	primipilaris	p r i m i p i l a r i s		69	primipilaris non primipilarius
+138	VulgarLatin	primipilaris	primipilarius	primipilarius	p r i m i p i l a r i u s		69	primipilaris non primipilarius
+217	Latin	proles	proles	proles	p r o l e s		109	proles non prolis
+218	VulgarLatin	proles	prolis	prolis	p r o l i s		109	proles non prolis
+261	Latin	puella	puella	puella	p u e lː a		131	puella non poella
+262	VulgarLatin	puella	poella	poella	p o e lː a		131	puella non poella
+289	Latin	pusillus	pusillus	pusillus	p u s i lː u s		145	pusillus non pisinnus
+290	VulgarLatin	pusillus	pisinnus	pisinnus	p i s i nː u s		145	pusillus non pisinnus
+415	Latin	rabidus	rabidus	rabidus	r a b i d u s		208	rabidus non rabiosus
+416	VulgarLatin	rabidus	rabiosus	rabiosus	r a b i o s u s		208	rabidus non rabiosus
+303	Latin	raucus	raucus	raucus	r au k u s		152	raucus non ra[u]cus
+304	VulgarLatin	raucus	ra[u]cus	ra[u]cus	r au k u s		152	raucus non ra[u]cus
+203	Latin	reses	reses	reses	r e s e s		102	reses non resis
+204	VulgarLatin	reses	resis	resis	r e s i s		102	reses non resis
+343	Latin	rivus	rivus	rivus	r i v u s		172	rivus non rius
+344	VulgarLatin	rivus	rius	rius	r i u s		172	rivus non rius
+367	Latin	robigo	robigo	robigo	r o b i g o		184	robigo non rubigo
+368	VulgarLatin	robigo	rubigo	rubigo	r u b i g o		184	robigo non rubigo
+215	Latin	sedes	sedes	sedes	s e d e s		108	sedes non sedis
+216	VulgarLatin	sedes	sedis	sedis	s e d i s		108	sedes non sedis
+127	Latin	senatus	senatus	senatus	s e n a t u s		64	senatus non sinatus
+128	VulgarLatin	senatus	sinatus	sinatus	s i n a t u s		64	senatus non sinatus
+25	Latin	septizonium	septizonium	septizonium	s e p t i z o n i u m		13	septizonium non septidonium
+26	VulgarLatin	septizonium	septidonium	septidonium	s e p t i d o n i u m		13	septizonium non septidonium
+353	Latin	sibilus	sibilus	sibilus	s i b i l u s		177	sibilus non sifilus
+354	VulgarLatin	sibilus	sifilus	sifilus	s i f i l u s		177	sibilus non sifilus
+61	Latin	sobrius	sobrius	sobrius	s o b r i u s		31	sobrius non suber
+62	VulgarLatin	sobrius	suber	suber	s u b e r		31	sobrius non suber
+335	Latin	socrus	socrus	socrus	s o k r u s		168	socrus non socra
+336	VulgarLatin	socrus	socra	socra	s o k r a		168	socrus non socra
+159	Latin	solea	solea	solea	s o l e a		80	solea non solia
+160	VulgarLatin	solea	solia	solia	s o l i a		80	solea non solia
+5	Latin	speculum	speculum	speculum	s p e k u l u m		3	speculum non speclum
+6	VulgarLatin	speculum	speclum	speclum	s p e k l u m		3	speculum non speclum
+283	Latin	stabulum	stabulum	stabulum	s t a b u l u m		142	stabulum non stablum
+284	VulgarLatin	stabulum	stablum	stablum	s t a b l u m		142	stabulum non stablum
+377	Latin	strofa	strofa	strofa	s t r o f a		189	strofa non stropa
+378	VulgarLatin	strofa	stropa	stropa	s t r o p a		189	strofa non stropa
+193	Latin	suboles	suboles	suboles	s u b o l e s		97	suboles non subolis
+194	VulgarLatin	suboles	subolis	subolis	s u b o l i s		97	suboles non subolis
+187	Latin	suppellex	suppellex	suppellex	s u pː e lː e k s		94	suppellex non superlex
+188	VulgarLatin	suppellex	superlex	superlex	s u p e r l e k s		94	suppellex non superlex
+185	Latin	tabes	tabes	tabes	t a b e s		93	tabes non tavis
+186	VulgarLatin	tabes	tavis	tavis	t a v i s		93	tabes non tavis
+259	Latin	tabula	tabula	tabula	t a b u l a		130	tabula non tabla
+260	VulgarLatin	tabula	tabla	tabla	t a b l a		130	tabula non tabla
+249	Latin	terebra	terebra	terebra	t e r e b r a		125	terebra non telebra
+250	VulgarLatin	terebra	telebra	telebra	t e l e b r a		125	terebra non telebra
+315	Latin	terraemotus	terraemotus	terraemotus	t e rː ai m o t u s		158	terraemotus non terrimotium
+316	VulgarLatin	terraemotus	terrimotium	terrimotium	t e rː i m o t i u m		158	terraemotus non terrimotium
+113	Latin	tersus	tersus	tersus	t e r s u s		57	tersus non tertus
+114	VulgarLatin	tersus	tertus	tertus	t e r t u s		57	tersus non tertus
+275	Latin	teter	teter	teter	t e t e r		138	teter non tetrus
+276	VulgarLatin	teter	tetrus	tetrus	t e t r u s		138	teter non tetrus
+233	Latin	tinea	tinea	tinea	t i n e a		117	tinea non ti&lt;nia&gt;
+234	VulgarLatin	tinea	ti<nia>	ti<nia>	t i n i a		117	tinea non ti&lt;nia&gt;
+417	Latin	tintinaculum	tintinaculum	tintinaculum	t i n t i n a k u l u m		209	tintinaculum non tintinabulum
+418	VulgarLatin	tintinaculum	tintinabulum	tintinabulum	t i n t i n a b u l u m		209	tintinaculum non tintinabulum
+389	Latin	tolerabilis	tolerabilis	tolerabilis	t o l e r a b i l i s		195	tolerabilis non toleravilis
+390	VulgarLatin	tolerabilis	toleravilis	toleravilis	t o l e r a v i l i s		195	tolerabilis non toleravilis
+3	Latin	tolonium	tolonium	tolonium	t o l o n i u m		2	tolonium non toloneum
+4	VulgarLatin	tolonium	toloneum	toloneum	t o l o n e u m		2	tolonium non toloneum
+341	Latin	tondeo	tondeo	tondeo	t o n d e o		171	tondeo non detundo
+342	VulgarLatin	tondeo	detundo	detundo	d e t u n d o		171	tondeo non detundo
+321	Latin	tonitru	tonitru	tonitru	t o n i t r u		161	tonitru non tonotru
+322	VulgarLatin	tonitru	tonotru	tonotru	t o n o t r u		161	tonitru non tonotru
+393	Latin	tribula	tribula	tribula	t r i b u l a		197	tribula non tribla
+394	VulgarLatin	tribula	tribla	tribla	t r i b l a		197	tribula non tribla
+285	Latin	triclinium	triclinium	triclinium	t r i k l i n i u m		143	triclinium non triclinu
+286	VulgarLatin	triclinium	triclinu	triclinu	t r i k l i n u		143	triclinium non triclinu
+111	Latin	tristis	tristis	tristis	t r i s t i s		56	tristis non tristus
+112	VulgarLatin	tristis	tristus	tristus	t r i s t u s		56	tristis non tristus
+117	Latin	turma	turma	turma	t u r m a		59	turma non torma
+118	VulgarLatin	turma	torma	torma	t o r m a		59	turma non torma
+375	Latin	tymum	tymum	tymum	t j m u m		188	tymum non tumum
+376	VulgarLatin	tymum	tumum	tumum	t u m u m		188	tymum non tumum
+115	Latin	umbilicus	umbilicus	umbilicus	u m b i l i k u s		58	umbilicus non imbilicus
+116	VulgarLatin	umbilicus	imbilicus	imbilicus	i m b i l i k u s		58	umbilicus non imbilicus
+27	Latin	vacua	vacua	vacua	v a k u a		14	vacua non vaqua
+28	VulgarLatin	vacua	vaqua	vaqua	v a kʷ a		14	vacua non vaqua
+29	Latin	vacui	vacui	vacui	v a k u i		15	vacui non vaqui
+30	VulgarLatin	vacui	vaqui	vaqui	v a kʷ i		15	vacui non vaqui
+423	Latin	vapulo	vapulo	vapulo	v a p u l o		212	vapulo non baplo
+424	VulgarLatin	vapulo	baplo	baplo	b a p l o		212	vapulo non baplo
+183	Latin	vates	vates	vates	v a t e s		92	vates non vatis
+184	VulgarLatin	vates	vatis	vatis	v a t i s		92	vates non vatis
+205	Latin	vepres	vepres	vepres	v e p r e s		103	vepres non vepris
+206	VulgarLatin	vepres	vepris	vepris	v e p r i s		103	vepres non vepris
+13	Latin	vernaculus	vernaculus	vernaculus	v e r n a k u l u s		7	vernaculus non vernaclus
+14	VulgarLatin	vernaculus	vernaclus	vernaclus	v e r n a k l u s		7	vernaculus non vernaclus
+9	Latin	vetulus	vetulus	vetulus	v e t u l u s		5	vetulus non veclus
+10	VulgarLatin	vetulus	veclus	veclus	v e k l u s		5	vetulus non veclus
+267	Latin	vico capitis Africae	vico capitis Africae	vico_capitis_Africae	v i k o + k a p i t i s + a f r i k ai		134	vico capitis Africae non vico caput Africae
+268	VulgarLatin	vico capitis Africae	vico caput Africae	vico_caput_Africae	v i k o + k a p u t + a f r i k ai		134	vico capitis Africae non vico caput Africae
+271	Latin	vico castrorum	vico castrorum	vico_castrorum	v i k o + k a s t r o r u m		136	vico castrorum non vico castrae
+272	VulgarLatin	vico castrorum	vico castrae	vico_castrae	v i k o + k a s t r ai		136	vico castrorum non vico castrae
+273	Latin	vico strobili	vico strobili	vico_strobili	v i k o + s t r o b i l i		137	vico strobili non vico trobili
+274	VulgarLatin	vico strobili	vico trobili	vico_trobili	v i k o + t r o b i l i		137	vico strobili non vico trobili
+269	Latin	vico tabuli proconsolis	vico tabuli proconsolis	vico_tabuli_proconsolis	v i k o + t a b u l i + p r o k o n s o l i s		135	vico tabuli proconsolis non vico tabulu proconsulis
+270	VulgarLatin	vico tabuli proconsolis	vico tabulu proconsulis	vico_tabulu_proconsulis	v i k o + t a b u l u + p r o k o n s u l i s		135	vico tabuli proconsolis non vico tabulu proconsulis
+109	Latin	vinea	vinea	vinea	v i n e a		55	vinea non vinia
+110	VulgarLatin	vinea	vinia	vinia	v i n i a		55	vinea non vinia
+239	Latin	vir	vir	vir	v i r		120	vir non vyr
+240	VulgarLatin	vir	vyr	vyr	v j r		120	vir non vyr
+243	Latin	virga	virga	virga	v i r g a		122	virga non vyrga
+244	VulgarLatin	virga	vyrga	vyrga	v j r g a		122	virga non vyrga
+241	Latin	virgo	virgo	virgo	v i r g o		121	virgo non vyrgo
+242	VulgarLatin	virgo	vyrgo	vyrgo	v j r g o		121	virgo non vyrgo
+395	Latin	viridis	viridis	viridis	v i r i d i s		198	viridis non virdis
+396	VulgarLatin	viridis	virdis	virdis	v i r d i s		198	viridis non virdis
+11	Latin	vitulus	vitulus	vitulus	v i t u l u s		6	vitulus non viclus
+12	VulgarLatin	vitulus	viclus	viclus	v i k l u s		6	vitulus non viclus
+435	Latin	vobiscum	vobiscum	vobiscum	v o b i s k u m		218	vobiscum non voscum
+436	VulgarLatin	vobiscum	voscum	voscum	v o s k u m		218	vobiscum non voscum
+195	Latin	vulpes	vulpes	vulpes	v u l p e s		98	vulpes non vulpis
+196	VulgarLatin	vulpes	vulpis	vulpis	v u l p i s		98	vulpes non vulpis
+385	Latin	zizipu<s>	zizipu<s>	zizipu<s>	z i z i p u s		193	zizipu&lt;s&gt; non zizup&lt;u&gt;s
+386	VulgarLatin	zizipu<s>	zizup<u>s	zizup<u>s	z i z u p u s		193	zizipu&lt;s&gt; non zizup&lt;u&gt;s
